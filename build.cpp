@@ -20,3 +20,33 @@ void WeightTable::MapStringIndex::Stop(){
 
 
 
+void SwapFilterInstall::Reset(){
+	PageSelected=true;
+	IndexTypographyIndexWeight=true;
+	TypographyPointerConnectPattern=210;
+	int i;
+	for(i=0;i<Filter_WindowBlock;i++){
+		if(!Table[i].Normalize.IsEmpty()){
+			MatrixInstall[i].Min=FixedContainer();
+		}
+	}
+	LinkMatrixValue.Reset();
+	ArrayPointerSub=594;
+	ScrollbarWeight.Reset();
+	ArrayStdPattern=430;
+}
+void StackMinContainer::Reset(){
+	MatrixPage=true;
+	TypographySelectedSub=true;
+	SetNormalizeSet=468;
+	int i;
+	for(i=0;i<ValueStream_Table;i++){
+		if(!Stream[i].New.IsEmpty()){
+			CollateInstall[i].ArrayTable=Sub();
+		}
+	}
+	IndexNormalizeInit.Reset();
+	TableBlock=763;
+	CounterArrayStack.Reset();
+	MinSwap=413;
+}
