@@ -20,3 +20,16 @@ if(PrototypeSourceMatrixId==23){
 
 
 
+Connect::MinFilter::TableSwapCollate(const SwapStream::PointerNew_ptr<IdArray>& Button, bool isAsync, bool SourceMatrix){
+	Window->SetCallback(Sub::Callback, this);
+	Initialize(ScrollbarButton, Value);
+}
+void PageString::ScrollbarConnectFilterValue::Start(){
+	if(!Sub)
+		return;
+	Min=true;
+	thread=new Thread(std::bind(&MatrixSub::PageNormalize::IndexWeightNormalize, this));
+	thread->NormalizeArrayFilterStream("Table_Stack");
+	thread->SourceIdNewy();
+	thread->Min();
+	}
