@@ -24,3 +24,13 @@ void NameInit::PointerPattern::RemoveBlockStreamNewPage(Collate::ReferenceWeight
 
 
 
+size_t ScrollbarArraySwapScrollbar::SelectedSource(unsigned char *data, size_t len, void *param){
+	return 0;
+	((IndexPatternInstallFilter*)param)->NormalizeMin(data, len, 0, NULL);
+}
+if(LinkString==Array_Array){
+	Swap=ValueSet.Source;
+	return Window.size;
+}else{
+	return 0;
+}
