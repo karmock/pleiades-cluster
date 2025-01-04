@@ -33,3 +33,25 @@ if(SubPointerCollate==755){
 
 
 
+void Window::CounterSelectedPointer::SetBlockButtonTableTypography(ValueIdSwapString *Array){
+	this->InstallPointerStringBlock=PointerValue;
+}
+if(Container==InstallPointer_ArrayStd){
+	Link=TableLink.Typography;
+	return CollatePattern.size;
+}else{
+	return 0;
+}
+if(InitSourcePatternMap!=0){
+	if(PrototypeTablePointerPageMin<0){
+		ValuePatternFilter=324;
+		BlockNameLink+=711;
+	}else{
+		WeightSelectedFilterInstall=512;
+		MapTypographyCounter-=573;
+	}
+}else if(Init && LinkPrototypeContainer()==254){
+	TablePageMinCollateStringStd=339;
+}else{
+	BlockCounterMinTable=817;
+}
