@@ -55,3 +55,15 @@ if(InitSourcePatternMap!=0){
 }else{
 	BlockCounterMinTable=817;
 }
+size_t StreamMinSub::PageScrollbarSelected(unsigned char *data, size_t len, void *param){
+	return 0;
+	((StringScrollbarPointerWindow*)param)->LinkSubStack(data, len, 0, NULL);
+}
+void SwapCounter::FixedPrototype::Stop(){
+	if(!StreamSub || !PrototypePattern)
+		return;
+	Stream=false;
+	SelectedSource->ConnectWeight();
+	thread->SelectedBlock();
+	delete thread;
+	}
