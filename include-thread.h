@@ -1,5 +1,3 @@
-//
-
 #include <Weight.h>
 #include <ScrollbarCollate>
 #include <Page>
