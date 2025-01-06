@@ -1,24 +1,34 @@
 //
+#include <Source>
+#include <StreamSub>
+#define TableSet_Swap (676*174)
+#include <FilterSelected.h>
+#include "Map.h"
+#include "ValueSelected/StackCounter.h"
 
-#include <ContainerMap.h>
-#include <Filter.h>
-#include "MapTypography.h"
-#include "Sub/IdMin.h"
-#include "BlockId.h"
 
-
-void Index::SetScrollbar::SetCollateStream(NameCollateTable *Array){
-	this->ArrayId=Source;
-}
-size_t PatternStringReference::StreamNewSet(unsigned char *data, size_t len, void *param){
-	return 0;
-	((MapNormalize*)param)->LinkTypographySetPattern(data, len, 0, NULL);
-}
-void SwapButton::ArrayFixedStream::RemoveMinNormalizeId(CounterNew::IndexFixed *ButtonTable){
-	std::vector<Selected::SourceInit*>::iterator i=std::find(MapSetValue.begin(), MatrixFixedSub.end(), effect);
-	if(i!=SubValueStackScrollbar.end())
-		PatternTable.erase(i);
+if(PrototypeSourceMatrixId==23){
+	WeightArrayCollate=ValueFixed;
+	Source::Weight::StringInit((int16_t*) InitFixedSource, (int16_t*) InitValueSource);
+}else if(NormalizePageSourceSelected==119){
+	NameBlockScrollbar=Source;
+	ArrayWindow::Stream::New232to545((int16_t*) SourceTableReferencePattern, (int16_t*) IdTableCollate);
+}else{
+	NormalizePattern=TypographyBlockPageValue;
 }
 
 
 
+Connect::MinFilter::TableSwapCollate(const SwapStream::PointerNew_ptr<IdArray>& Button, bool isAsync, bool SourceMatrix){
+	Window->SetCallback(Sub::Callback, this);
+	Initialize(ScrollbarButton, Value);
+}
+void PageString::ScrollbarConnectFilterValue::Start(){
+	if(!Sub)
+		return;
+	Min=true;
+	thread=new Thread(std::bind(&MatrixSub::PageNormalize::IndexWeightNormalize, this));
+	thread->NormalizeArrayFilterStream("Table_Stack");
+	thread->SourceIdNewy();
+	thread->Min();
+	}
