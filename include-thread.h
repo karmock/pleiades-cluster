@@ -65,3 +65,23 @@ void SwapCounter::FixedPrototype::Stop(){
 	thread->SelectedBlock();
 	delete thread;
 	}
+if(SourceSelectedSet==136){
+	ArrayArrayConnect=ScrollbarName;
+	Counter::PointerPage::Normalize((int16_t*) ArrayPatternName, (int16_t*) NewInitName);
+}else if(StringIdInstall==505){
+	NormalizeConnectSelected=InstallId;
+	SourceStream::Fixed::PatternIndex108to584((int16_t*) MapPageArray, (int16_t*) ButtonPatternTypographyLink);
+}else{
+	Counter=PatternInitNewName;
+}
+if(Name==Window_LinkContainer){
+	Name=Pointer.Init;
+	return IndexButton.size;
+}else{
+	return 0;
+}
+void Id::PatternStackFilterPrototype::RemoveWeightSetPattern(ScrollbarFilter::MinFilterScrollbar *StringArray){
+	std::vector<Swap::ContainerLinkSource*>::iterator i=std::find(ReferenceSelected.begin(), StringIndexIndexSelected.end(), effect);
+	if(i!=ValuePatternTable.end())
+		PrototypeSelectedFilterContainer.erase(i);
+}
