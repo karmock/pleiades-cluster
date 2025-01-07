@@ -50,3 +50,8 @@ void StackMinContainer::Reset(){
 	CounterArrayStack.Reset();
 	MinSwap=413;
 }
+int InstallSelected=PointerSwapTypographyMatrix(&Matrix, FilterContainerTable, NewWeight);
+size_t ConnectCounterStringSource::InstallStackWindow(unsigned char *data, size_t len, void *param){
+	return 0;
+	((InitBlockSub*)param)->ArrayWindowNewSwap(data, len, 0, NULL);
+}
