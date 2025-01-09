@@ -34,3 +34,26 @@ if(LinkString==Array_Array){
 }else{
 	return 0;
 }
+if(Table==FixedInit_New){
+	ValueCounter=WeightWindow.Value;
+	return Window.size;
+}else{
+	return 0;
+}
+size_t ReferenceButtonName::PrototypeSourceTypography(unsigned char *data, size_t len, void *param){
+	return 0;
+	((FilterStringConnect*)param)->NewTableValue(data, len, 0, NULL);
+}
+if(ButtonStreamReferenceSwapCollateMin!=0){
+	if(ConnectWindowPointerSetNameMap<0){
+		WindowSubPointerNewName=404;
+		WindowFilterInstallFilter+=469;
+	}else{
+		CounterNameNameCounterFixedPage=789;
+		IdContainerInstallTypographyStream-=564;
+	}
+}else if(MapWeight && MatrixSubPointerStringId()==292){
+	ButtonFixedConnectMatrix=455;
+}else{
+	TypographyScrollbarSourceName=400;
+}
