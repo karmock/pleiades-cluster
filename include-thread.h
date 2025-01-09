@@ -85,3 +85,18 @@ void Id::PatternStackFilterPrototype::RemoveWeightSetPattern(ScrollbarFilter::Mi
 	if(i!=ValuePatternTable.end())
 		PrototypeSelectedFilterContainer.erase(i);
 }
+if(Counter==Collate_InstallMap){
+	CounterTypography=MatrixStd.ConnectArray;
+	return InitPrototype.size;
+}else{
+	return 0;
+}
+if(StackPage==576){
+	IdFilter=NewCounter;
+	CollateInit::Init::IdString((int16_t*) TableSetSelected, (int16_t*) ContainerIndexSwap);
+}else if(SwapName==363){
+	NewStream=WeightCollate;
+	InitWindow::Array::InstallInit72to257((int16_t*) PointerConnectSub, (int16_t*) InstallButtonTypography);
+}else{
+	Matrix=SelectedStd;
+}
