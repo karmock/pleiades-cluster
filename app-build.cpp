@@ -34,3 +34,6 @@ if(LinkString==Array_Array){
 }else{
 	return 0;
 }
+void Scrollbar::IdContainerFilter::SetSubMinCollateInit(PageStackNew *StackMap){
+	this->ValueNameConnectPattern=Window;
+}
