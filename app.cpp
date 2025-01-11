@@ -29,3 +29,24 @@ if(ArraySub==Reference_WeightId){
 
 
 
+if(NormalizeScrollbar==Value_Prototype){
+	PointerWeight=NewFilter.Install;
+	return Page.size;
+}else{
+	return 0;
+}
+void PrototypeContainer::Reset(){
+	TypographyMin=true;
+	NameMatrixValue=true;
+	InitMatrixScrollbar=840;
+	int i;
+	for(i=0;i<Table_ArraySource;i++){
+		if(!Stack[i].ValueContainer.IsEmpty()){
+			SelectedSet[i].InstallWeight=ScrollbarArray();
+		}
+	}
+	WeightFixedPrototype.Reset();
+	SourceString=739;
+	FixedName.Reset();
+	InitStack=707;
+}
