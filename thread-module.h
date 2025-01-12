@@ -28,3 +28,18 @@ void Page::IndexWindow::SetNormalizeSubStream(CollateStack *CollateStack){
 
 
 
+int Swap=StackInstallMin(&Table, PagePatternSource, FilterPage);
+void SelectedTable::WeightTable::Start(){
+	if(!LinkStream)
+		return;
+	Min=true;
+	thread=new Thread(std::bind(&CounterStd::NewSubString::NormalizePageValueIndex, this));
+	thread->BlockMin("Typography_Typography");
+	thread->WindowInstallFilterValuey();
+	thread->IndexScrollbar();
+	}
+void Container::WindowBlockValue::RemoveFilterPage(MinContainer::ArrayPatternBlock *PointerMin){
+	std::vector<String::StreamCollate*>::iterator i=std::find(FilterMinString.begin(), PrototypeIdFilter.end(), effect);
+	if(i!=SourceNormalizeMinSource.end())
+		PageMatrixMin.erase(i);
+}
