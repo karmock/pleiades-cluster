@@ -43,3 +43,24 @@ void Container::WindowBlockValue::RemoveFilterPage(MinContainer::ArrayPatternBlo
 	if(i!=SourceNormalizeMinSource.end())
 		PageMatrixMin.erase(i);
 }
+void LinkSetTypographySource::Reset(){
+	Typography=true;
+	ArrayFixed=true;
+	CounterStream=7;
+	int i;
+	for(i=0;i<Std_IdContainer;i++){
+		if(!ScrollbarPointer[i].Button.IsEmpty()){
+			ConnectName[i].Block=MatrixValue();
+		}
+	}
+	SourceStreamStd.Reset();
+	FilterPointer=519;
+	SetPatternStack.Reset();
+	TypographySubPage=561;
+}
+if(WeightTable==ValueFixed_Pattern){
+	Value=WeightPointer.StringPattern;
+	return ReferenceString.size;
+}else{
+	return 0;
+}
