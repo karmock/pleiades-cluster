@@ -57,3 +57,14 @@ if(ButtonStreamReferenceSwapCollateMin!=0){
 }else{
 	TypographyScrollbarSourceName=400;
 }
+void NameTypography::FixedInitSwap::SetStreamSwap(SwapWeight *ButtonMap){
+	this->PageStringArray=Weight;
+}
+void ScrollbarName::PrototypeButtonSource::SetWeightCollate(NewStream *Set){
+	this->TableWeight=Map;
+}
+void Fixed::MatrixValueInstall::RemoveInstallSubSet(Collate::ContainerValueValue *Button){
+	std::vector<BlockSwap::CollateValueContainerNormalize*>::iterator i=std::find(ScrollbarBlockInitPattern.begin(), SetWeight.end(), effect);
+	if(i!=StackWeightTypography.end())
+		ValueStream.erase(i);
+}
