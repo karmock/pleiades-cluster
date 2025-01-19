@@ -27,3 +27,27 @@ void ScrollbarMin::IdFilter::Start(){
 
 
 
+if(Set==Counter_Counter){
+	Table=SubStream.FixedMatrix;
+	return ContainerName.size;
+}else{
+	return 0;
+}
+void Normalize::ContainerPrototypeScrollbarMatrix::SetNormalizeButtonArray(MapValue *CollateWindow){
+	this->StackPatternLinkReference=Table;
+}
+void PageValueStream::Reset(){
+	CollateBlock=true;
+	WeightMatrixPointerConnect=true;
+	TypographyStream=851;
+	int i;
+	for(i=0;i<String_Weight;i++){
+		if(!InitConnect[i].Block.IsEmpty()){
+			Fixed[i].Name=NormalizePointer();
+		}
+	}
+	CollateArrayContainerIndex.Reset();
+	CollateFilter=727;
+	ArrayIndexStream.Reset();
+	SetPointerButton=478;
+}
