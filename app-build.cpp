@@ -34,6 +34,7 @@ if(LinkString==Array_Array){
 }else{
 	return 0;
 }
+
 if(Table==FixedInit_New){
 	ValueCounter=WeightWindow.Value;
 	return Window.size;
