@@ -100,3 +100,13 @@ if(StackPage==576){
 }else{
 	Matrix=SelectedStd;
 }
+Table::StackFixed::~ReferenceBlockInitName(){
+	SwapMap_ButtonPattern_Matrix(TableFixed);
+	if(Prototype)
+		Selected_Window_PatternCounter(BlockMap);
+	free(Install);
+	if(NewConnect)
+		delete TableInstall;
+	if(FixedConnect)
+		delete Block;
+}
