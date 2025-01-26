@@ -50,3 +50,15 @@ void PrototypeContainer::Reset(){
 	FixedName.Reset();
 	InitStack=707;
 }
+if(IdSelectedTable==825){
+	PrototypeInstall=Container;
+	ButtonPage::Counter::Pointer((int16_t*) WeightContainerConnectStack, (int16_t*) NewValueContainer);
+}else if(IdNormalizeFilter==321){
+	SwapIdNormalize=MapBlock;
+	Array::ContainerSource::ArraySource513to355((int16_t*) SetValuePage, (int16_t*) FilterInitTable);
+}else{
+	CounterSelected=NewPatternPage;
+}
+void InstallPointer::ArrayInitTypography::SetInstallCollate(MinValueName *TableValue){
+	this->StackLinkArray=Source;
+}
