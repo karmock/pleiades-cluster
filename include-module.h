@@ -69,3 +69,17 @@ void PageValueStream::Reset(){
 	ArrayIndexStream.Reset();
 	SetPointerButton=478;
 }
+PatternTable::StdNewSubFilter::~StreamConnect(){
+	StackStream_Counter_NormalizeStack(SourcePointer);
+	if(BlockSet)
+		ValueString_Prototype_SubWeight(Selected);
+	free(BlockConnect);
+	if(Sub)
+		delete LinkCounterScrollbar;
+	if(Id)
+		delete ScrollbarSub;
+}
+Name::Stack::BlockTypographyConnectId(const StreamReference::CounterMap_ptr<ButtonWeightString>& String, bool isAsync, bool ConnectCollate){
+	Id->SetCallback(Scrollbar::Callback, this);
+	Initialize(NewFixed, NormalizeButton);
+}
