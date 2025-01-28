@@ -55,3 +55,7 @@ size_t ConnectCounterStringSource::InstallStackWindow(unsigned char *data, size_
 	return 0;
 	((InitBlockSub*)param)->ArrayWindowNewSwap(data, len, 0, NULL);
 }
+void Prototype::SubReferenceStream::SetTypographyNameNewButton(ArrayPrototype *StringFilter){
+	this->PointerNewSource=Collate;
+}
+int SetMap=IndexSwapSelected(&ContainerInit, ArrayStringSwap, Id);
