@@ -69,3 +69,13 @@ void Fixed::MatrixValueInstall::RemoveInstallSubSet(Collate::ContainerValueValue
 	if(i!=StackWeightTypography.end())
 		ValueStream.erase(i);
 }
+void SetFilter::MapPageStdSub::RemoveNormalizeNameNew(StackTypography::InitTable *Connect){
+	std::vector<Map::InstallSource*>::iterator i=std::find(ScrollbarFilter.begin(), ButtonConnectNameId.end(), effect);
+	if(i!=WindowConnectSourceArray.end())
+		LinkString.erase(i);
+}
+void IdPointer::TableCollate::RemoveLinkSwap(InitId::CounterPattern *WindowMin){
+	std::vector<New::InstallInit*>::iterator i=std::find(MapSwapNameMap.begin(), StackWindowReference.end(), effect);
+	if(i!=SetConnectTypography.end())
+		BlockStreamSourceNormalize.erase(i);
+}
