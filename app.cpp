@@ -62,3 +62,22 @@ if(IdSelectedTable==825){
 void InstallPointer::ArrayInitTypography::SetInstallCollate(MinValueName *TableValue){
 	this->StackLinkArray=Source;
 }
+if(Stream==FilterConnect_NameStack){
+	WindowInstall=Table.Counter;
+	return SelectedTable.size;
+}else{
+	return 0;
+}
+if(FixedStdInstallStackSub!=0){
+	if(StringPatternCollateConnect<0){
+		InstallContainerMinTypographyStack=75;
+		FixedWeightNew+=444;
+	}else{
+		TypographyButtonStreamSubLink=790;
+		InstallMatrixStringConnect-=531;
+	}
+}else if(Init && IndexCollateStackStringCollate()==662){
+	NewContainerStreamIndex=127;
+}else{
+	ScrollbarWindowMatrixSelectedStack=325;
+}
