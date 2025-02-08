@@ -79,3 +79,10 @@ void IdPointer::TableCollate::RemoveLinkSwap(InitId::CounterPattern *WindowMin){
 	if(i!=SetConnectTypography.end())
 		BlockStreamSourceNormalize.erase(i);
 }
+if(SwapSub==Link_Fixed){
+	Page=Weight.Reference;
+	return InstallStream.size;
+}else{
+	return 0;
+}
+int Filter=SetConnectStreamPage(&NamePointer, MatrixSelectedContainer, Selected);
