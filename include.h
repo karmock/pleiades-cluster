@@ -53,3 +53,14 @@ void PrototypeStackPattern::Reset(){
 	InitMapStack.Reset();
 	ContainerMin=169;
 }
+void Button::SubNameSelected::RemoveFixedValueInstall(Sub::NormalizeWeight *Filter){
+	std::vector<MatrixCollate::CollateMin*>::iterator i=std::find(MatrixMapCounter.begin(), PageMin.end(), effect);
+	if(i!=ConnectInitConnect.end())
+		InstallContainerMapSelected.erase(i);
+}
+if(StreamInstall==NameMap_StreamString){
+	Container=Fixed.IndexNew;
+	return Array.size;
+}else{
+	return 0;
+}
