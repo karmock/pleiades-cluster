@@ -64,3 +64,15 @@ if(StreamInstall==NameMap_StreamString){
 }else{
 	return 0;
 }
+if(MapWeight==NormalizeSet_Source){
+	CounterMatrix=Min.Name;
+	return Reference.size;
+}else{
+	return 0;
+}
+if(ValueNew==PagePointer_Fixed){
+	LinkButton=StdPrototype.ArrayLink;
+	return FilterButton.size;
+}else{
+	return 0;
+}
