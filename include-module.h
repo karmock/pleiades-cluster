@@ -83,3 +83,43 @@ Name::Stack::BlockTypographyConnectId(const StreamReference::CounterMap_ptr<Butt
 	Id->SetCallback(Scrollbar::Callback, this);
 	Initialize(NewFixed, NormalizeButton);
 }
+Array::StackPointerPatternTable::~CollatePage(){
+	SubNew_MinConnect_MatrixValue(PrototypeMap);
+	if(MapIndex)
+		InitString_CounterFixed_Block(TableLink);
+	free(PageNew);
+	if(Array)
+		delete LinkMinInstall;
+	if(SourceWindow)
+		delete Button;
+}
+void SwapMatrixPrototype::Reset(){
+	String=true;
+	PageFixedMatrix=true;
+	PatternScrollbar=706;
+	int i;
+	for(i=0;i<Array_Counter;i++){
+		if(!Counter[i].WindowId.IsEmpty()){
+			Fixed[i].Fixed=New();
+		}
+	}
+	NormalizeButtonArraySource.Reset();
+	TypographyStreamSwap=208;
+	PrototypeNewInstall.Reset();
+	ValuePage=221;
+}
+void ScrollbarPrototypeBlock::Reset(){
+	Fixed=true;
+	IdIndexFilterPattern=true;
+	PatternReferenceReference=623;
+	int i;
+	for(i=0;i<Value_Counter;i++){
+		if(!New[i].Pattern.IsEmpty()){
+			Page[i].Link=ContainerInstall();
+		}
+	}
+	WindowPrototypeCollate.Reset();
+	FilterFixedName=521;
+	StringNewSelectedLink.Reset();
+	InstallSet=24;
+}
