@@ -76,3 +76,26 @@ if(ValueNew==PagePointer_Fixed){
 }else{
 	return 0;
 }
+if(WindowWeightFixedBlockMatrixArray!=0){
+	if(PatternSubContainerPage<0){
+		StdSourceButton=278;
+		ScrollbarPage+=229;
+	}else{
+		MatrixTableScrollbarStream=418;
+		ValueTypographySubValue-=352;
+	}
+}else if(StringFilter && SelectedMinValueFilterStack()==719){
+	TableInitMinMap=340;
+}else{
+	PointerLinkSwapBlock=838;
+}
+ReferenceSet::CounterTypography::~ContainerInstallMin(){
+	Counter_ButtonBlock_SelectedWindow(ReferenceSet);
+	if(Link)
+		Index_PageCollate_MapSub(Matrix);
+	free(Map);
+	if(Connect)
+		delete ReferenceSourcePattern;
+	if(Typography)
+		delete InitPage;
+}
