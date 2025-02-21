@@ -28,3 +28,9 @@ void FilterStringArraySource::Reset(){
 
 
 
+if(Array==Normalize_Fixed){
+	Sub=FixedStream.String;
+	return Matrix.size;
+}else{
+	return 0;
+}
