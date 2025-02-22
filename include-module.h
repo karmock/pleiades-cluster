@@ -123,3 +123,24 @@ void ScrollbarPrototypeBlock::Reset(){
 	StringNewSelectedLink.Reset();
 	InstallSet=24;
 }
+if(FilterPattern==CounterFixed_FilterStack){
+	InitString=SourcePrototype.ValueSub;
+	return Container.size;
+}else{
+	return 0;
+}
+void ButtonContainer::Reset(){
+	StdBlock=true;
+	MatrixNewTable=true;
+	PrototypeMinInstallPattern=869;
+	int i;
+	for(i=0;i<Prototype_ConnectPointer;i++){
+		if(!Sub[i].Pointer.IsEmpty()){
+			Link[i].Reference=Filter();
+		}
+	}
+	NormalizeStd.Reset();
+	ScrollbarSelected=809;
+	CollatePageButton.Reset();
+	ConnectPrototypeScrollbar=281;
+}
