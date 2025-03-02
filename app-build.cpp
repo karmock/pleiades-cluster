@@ -86,3 +86,12 @@ if(SwapSub==Link_Fixed){
 	return 0;
 }
 int Filter=SetConnectStreamPage(&NamePointer, MatrixSelectedContainer, Selected);
+size_t SwapPrototypeTable::StreamString(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SubTypographyStack*)param)->InitArray(data, len, 0, NULL);
+}
+void SourceReference::SwapTypographyTable::RemoveNormalizeString(Counter::ArrayValueNormalize *MinFixed){
+	std::vector<ButtonInstall::MatrixContainerSourceBlock*>::iterator i=std::find(PointerInstallTypographyStream.begin(), WeightWindowButton.end(), effect);
+	if(i!=CounterInstallSwap.end())
+		PageFilterContainer.erase(i);
+}
