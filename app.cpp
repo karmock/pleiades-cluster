@@ -81,3 +81,35 @@ if(FixedStdInstallStackSub!=0){
 }else{
 	ScrollbarWindowMatrixSelectedStack=325;
 }
+void NamePrototype::IdValueIndex::Start(){
+	if(!Window)
+		return;
+	PointerValue=true;
+	thread=new Thread(std::bind(&Page::FixedFilterTable::MinConnectMap, this));
+	thread->NameStringButton("Prototype_ReferenceConnect");
+	thread->NameStacky();
+	thread->Filter();
+	}
+void MapScrollbarString::Reset(){
+	StackString=true;
+	InstallButtonWindowNew=true;
+	PatternIdValue=777;
+	int i;
+	for(i=0;i<Init_Map;i++){
+		if(!PatternPrototype[i].Window.IsEmpty()){
+			SetSelected[i].StreamNew=NormalizeSource();
+		}
+	}
+	FilterValueWindowBlock.Reset();
+	TypographyName=847;
+	ButtonValue.Reset();
+	ContainerContainer=118;
+}
+void Collate::WindowLink::Stop(){
+	if(!Typography || !WindowNormalize)
+		return;
+	WeightStream=false;
+	ArrayName->SetId();
+	thread->Source();
+	delete thread;
+	}
