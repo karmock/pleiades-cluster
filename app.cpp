@@ -113,3 +113,19 @@ void Collate::WindowLink::Stop(){
 	thread->Source();
 	delete thread;
 	}
+ScrollbarNormalize::WindowWindowInstall::~StackSourceFixed(){
+	Collate_Map_SwapValue(Init);
+	if(SelectedPattern)
+		Prototype_SetReference_IdMin(Pointer);
+	free(Button);
+	if(Weight)
+		delete BlockInitScrollbarNormalize;
+	if(Prototype)
+		delete Counter;
+}
+if(Array==StreamMatrix_MatrixCounter){
+	Pattern=CollateWeight.IdCounter;
+	return SwapString.size;
+}else{
+	return 0;
+}
