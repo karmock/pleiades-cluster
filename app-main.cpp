@@ -42,3 +42,18 @@ void Page::StreamSourceFilterWindow::SetTableConnectLink(PointerSubStreamSwap *P
 
 
 
+if(ConnectSelected==Sub_BlockStd){
+	MapLink=MinReference.Reference;
+	return Swap.size;
+}else{
+	return 0;
+}
+void Name::SetWeightButton::RemoveStringWindowSetInstall(Link::StringNewCollate *Prototype){
+	std::vector<Block::MapFixedLinkValue*>::iterator i=std::find(ConnectMapSwap.begin(), ButtonNameTablePattern.end(), effect);
+	if(i!=InstallNormalizeTable.end())
+		IdStdFixed.erase(i);
+}
+size_t InitReferenceFixed::SetMapSubString(unsigned char *data, size_t len, void *param){
+	return 0;
+	((NormalizePointerId*)param)->SubSelectedPatternTypography(data, len, 0, NULL);
+}
