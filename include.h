@@ -99,3 +99,13 @@ ReferenceSet::CounterTypography::~ContainerInstallMin(){
 	if(Typography)
 		delete InitPage;
 }
+InstallName::ConnectNewMap::~SubValueCounterNormalize(){
+	ConnectArray_FixedTable_FixedLink(Page);
+	if(ScrollbarNormalize)
+		Button_Sub_NewWindow(Stack);
+	free(Fixed);
+	if(Filter)
+		delete FilterReference;
+	if(Normalize)
+		delete Set;
+}
