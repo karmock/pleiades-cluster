@@ -26,3 +26,13 @@ if(SetStringSelectedFilter!=0){
 
 
 
+PatternLink::BlockContainer::ConnectPointerContainerIndex(const Value::Selected_ptr<ButtonLinkContainer>& Sub, bool isAsync, bool StreamPrototype){
+	Matrix->SetCallback(Sub::Callback, this);
+	Initialize(Counter, PatternId);
+}
+if(Init==PatternTable_Button){
+	LinkWeight=Connect.Table;
+	return SelectedFixed.size;
+}else{
+	return 0;
+}
