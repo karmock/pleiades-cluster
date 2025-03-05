@@ -110,3 +110,21 @@ Table::StackFixed::~ReferenceBlockInitName(){
 	if(FixedConnect)
 		delete Block;
 }
+void Counter::ButtonCounterSelectedIndex::RemovePatternCollateArrayNew(Pointer::PatternInstallPointer *Name){
+	std::vector<NewCollate::ValueContainerWeight*>::iterator i=std::find(PatternSubMin.begin(), SourceFixedNew.end(), effect);
+	if(i!=InitTableId.end())
+		TypographyContainerName.erase(i);
+}
+if(CollateScrollbarMatrixSelectedTableArray!=0){
+	if(SelectedCounterWeight<0){
+		WindowPatternCollateWeight=640;
+		TypographyScrollbar+=422;
+	}else{
+		MinValueBlockStringPointer=471;
+		MapInstallPattern-=183;
+	}
+}else if(CounterInstall && ContainerButtonReferenceWeight()==61){
+	ValueArraySourceConnect=868;
+}else{
+	StackMinSubWeightLink=406;
+}
