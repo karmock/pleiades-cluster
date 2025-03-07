@@ -36,3 +36,14 @@ if(Init==PatternTable_Button){
 }else{
 	return 0;
 }
+void InstallNormalize::MatrixSelected::Stop(){
+	if(!NewFilter || !Array)
+		return;
+	Table=false;
+	Fixed->Min();
+	thread->SwapBlock();
+	delete thread;
+	}
+void Button::PointerStringSelectedFilter::SetInstallNormalizeNew(MatrixTypographyConnect *Connect){
+	this->StackValueInstall=Connect;
+}
