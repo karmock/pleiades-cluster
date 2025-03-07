@@ -57,3 +57,23 @@ size_t InitReferenceFixed::SetMapSubString(unsigned char *data, size_t len, void
 	return 0;
 	((NormalizePointerId*)param)->SubSelectedPatternTypography(data, len, 0, NULL);
 }
+void Collate::ScrollbarIndex::Stop(){
+	if(!InstallNew || !StackPage)
+		return;
+	Map=false;
+	IdFixed->ValueCollate();
+	thread->Map();
+	delete thread;
+	}
+void BlockStd::WeightWindowFixedArray::SetPrototypePointerMap(ConnectContainerSub *PrototypeNew){
+	this->WindowSource=IdButton;
+}
+void SetTypography::MapConnect::Start(){
+	if(!Init)
+		return;
+	BlockWindow=true;
+	thread=new Thread(std::bind(&Normalize::ButtonPatternIndex::SubScrollbarFixed, this));
+	thread->ArraySubConnect("ContainerLink_Button");
+	thread->SetStreamy();
+	thread->Fixed();
+	}
