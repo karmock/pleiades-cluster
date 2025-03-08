@@ -77,3 +77,18 @@ void SetTypography::MapConnect::Start(){
 	thread->SetStreamy();
 	thread->Fixed();
 	}
+if(Counter==NormalizeIndex_PrototypeStack){
+	CollateWindow=NormalizeTable.Page;
+	return Min.size;
+}else{
+	return 0;
+}
+void MapContainer::BlockSetMap::Start(){
+	if(!SubReference)
+		return;
+	PageNormalize=true;
+	thread=new Thread(std::bind(&Page::StackCounterTable::NameMap, this));
+	thread->NewConnect("CounterStack_SwapConnect");
+	thread->CollateSuby();
+	thread->Stack();
+	}
