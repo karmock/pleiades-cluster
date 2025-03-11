@@ -128,3 +128,37 @@ if(CollateScrollbarMatrixSelectedTableArray!=0){
 }else{
 	StackMinSubWeightLink=406;
 }
+void Init::SwapSelectedPatternPrototype::Start(){
+	if(!SwapWeight)
+		return;
+	CollateNormalize=true;
+	thread=new Thread(std::bind(&New::NameIdMinNormalize::ButtonTypographyInitName, this));
+	thread->ContainerReferencePointerReference("InitSet_Normalize");
+	thread->ReferenceMatrixMiny();
+	thread->Collate();
+	}
+void InitMatrixPage::Reset(){
+	WindowReference=true;
+	ContainerFilterInit=true;
+	NameButtonMatrixStream=337;
+	int i;
+	for(i=0;i<Pattern_StdId;i++){
+		if(!Pattern[i].Prototype.IsEmpty()){
+			CounterStream[i].Filter=NameInstall();
+		}
+	}
+	SubArray.Reset();
+	ConnectCounterPointer=137;
+	ScrollbarTable.Reset();
+	MatrixButton=833;
+}
+TypographyStd::IdContainer::~PageStream(){
+	Sub_Counter_Typography(Collate);
+	if(Stack)
+		Block_Fixed_Map(Connect);
+	free(SwapValue);
+	if(ButtonName)
+		delete StreamId;
+	if(IdMatrix)
+		delete New;
+}
