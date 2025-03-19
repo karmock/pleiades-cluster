@@ -49,3 +49,22 @@ void Connect::PatternInit::Stop(){
 	thread->IndexStack();
 	delete thread;
 	}
+void NewSelected::ArraySource::RemoveMatrixCounter(ConnectString::WindowIdScrollbarConnect *NameLink){
+	std::vector<FixedWeight::ReferenceWindowPointerWeight*>::iterator i=std::find(FixedSourcePointer.begin(), ButtonSub.end(), effect);
+	if(i!=StreamIdNew.end())
+		PointerSetSelectedId.erase(i);
+}
+size_t TableNameBlock::ValueButtonCounter(unsigned char *data, size_t len, void *param){
+	return 0;
+	((FixedSubSelected*)param)->IdStringMapMin(data, len, 0, NULL);
+}
+Install::NormalizeMatrixNew::~BlockButtonSub(){
+	Pointer_Id_Fixed(Button);
+	if(NameSub)
+		Min_Selected_MapSub(Connect);
+	free(PageFilter);
+	if(IdPage)
+		delete ButtonBlock;
+	if(PatternId)
+		delete FilterCounter;
+}
