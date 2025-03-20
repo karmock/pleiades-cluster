@@ -162,3 +162,22 @@ TypographyStd::IdContainer::~PageStream(){
 	if(IdMatrix)
 		delete New;
 }
+if(Container==Min_Source){
+	InitStack=PageStd.Name;
+	return PointerInstall.size;
+}else{
+	return 0;
+}
+if(StackNewCollateBlockInstallStream!=0){
+	if(CollateNormalizeScrollbarStackPrototype<0){
+		FilterFixedInitContainer=48;
+		FixedPointerValue+=13;
+	}else{
+		FixedValueConnect=108;
+		PagePrototypePointerSwapMin-=649;
+	}
+}else if(Window && WeightWindowScrollbarConnectName()==358){
+	ReferencePageArray=452;
+}else{
+	FilterLinkFilterIndex=196;
+}
