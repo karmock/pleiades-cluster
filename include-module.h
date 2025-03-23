@@ -144,3 +144,6 @@ void ButtonContainer::Reset(){
 	CollatePageButton.Reset();
 	ConnectPrototypeScrollbar=281;
 }
+void TableStack::PrototypeString::SetScrollbarCounterStringTypography(FixedStack *Sub){
+	this->LinkName=Std;
+}
