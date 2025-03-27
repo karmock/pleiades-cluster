@@ -129,3 +129,21 @@ if(Array==StreamMatrix_MatrixCounter){
 }else{
 	return 0;
 }
+Name::LinkSubButton::~InstallContainerSelected(){
+	Connect_NameNormalize_Swap(Typography);
+	if(StdConnect)
+		Id_Collate_Reference(Container);
+	free(New);
+	if(Name)
+		delete SwapPageName;
+	if(ContainerSource)
+		delete ContainerTable;
+}
+void Stack::IdMinWeightId::RemoveStackReferenceMinLink(ValueTable::FilterPageSet *New){
+	std::vector<ArrayValue::ReferenceStream*>::iterator i=std::find(IndexCollate.begin(), ScrollbarValueSource.end(), effect);
+	if(i!=IdTypographyPrototype.end())
+		ScrollbarSwapStream.erase(i);
+}
+void Table::PageScrollbar::SetNameWindow(ReferenceNormalizeTableMin *Table){
+	this->ContainerFixedInstallNew=Typography;
+}
