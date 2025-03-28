@@ -109,3 +109,8 @@ InstallName::ConnectNewMap::~SubValueCounterNormalize(){
 	if(Normalize)
 		delete Set;
 }
+int NormalizePrototype=SelectedPageInit(&Pointer, ContainerFixed, String);
+size_t SourceWeightSet::ArrayStdIdStd(unsigned char *data, size_t len, void *param){
+	return 0;
+	((NewSelectedValueContainer*)param)->PointerSet(data, len, 0, NULL);
+}
