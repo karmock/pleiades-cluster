@@ -47,3 +47,21 @@ void InstallNormalize::MatrixSelected::Stop(){
 void Button::PointerStringSelectedFilter::SetInstallNormalizeNew(MatrixTypographyConnect *Connect){
 	this->StackValueInstall=Connect;
 }
+void CounterStack::StringButton::SetPatternStd(PageValueSet *PointerTable){
+	this->BlockMinContainer=CounterValue;
+}
+void BlockInstallWindow::Reset(){
+	ValueLink=true;
+	TypographySelectedMatrix=true;
+	InitSwapName=809;
+	int i;
+	for(i=0;i<Matrix_PageId;i++){
+		if(!InitId[i].SubBlock.IsEmpty()){
+			WindowSwap[i].StreamTypography=Selected();
+		}
+	}
+	TableWindowSwap.Reset();
+	ConnectFixedValue=587;
+	SelectedPrototypeStd.Reset();
+	SourceMapInitCounter=823;
+}
