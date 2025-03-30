@@ -22,3 +22,27 @@ if(CollateSetValueSelected==633){
 
 
 
+if(ReferenceNew==169){
+	ContainerWindowPrototypePointer=ReferenceInstall;
+	Scrollbar::Button::ArrayButton((int16_t*) MapContainerSwap, (int16_t*) MatrixCollateSelectedValue);
+}else if(InstallWindowPatternInstall==719){
+	NormalizeWeightPageStack=Map;
+	Prototype::ButtonMap::Source430to163((int16_t*) NameLinkSwap, (int16_t*) PatternConnectSubNew);
+}else{
+	Block=WindowLink;
+}
+void PageLinkName::Reset(){
+	Id=true;
+	CounterMap=true;
+	SwapStreamCollate=398;
+	int i;
+	for(i=0;i<ButtonNew_NormalizePrototype;i++){
+		if(!Weight[i].Index.IsEmpty()){
+			SourceValue[i].SourceInit=SwapScrollbar();
+		}
+	}
+	PointerSelectedBlockMap.Reset();
+	MinSubStream=278;
+	ButtonCounterValue.Reset();
+	MatrixTypography=373;
+}
