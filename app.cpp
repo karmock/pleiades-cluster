@@ -147,3 +147,32 @@ void Stack::IdMinWeightId::RemoveStackReferenceMinLink(ValueTable::FilterPageSet
 void Table::PageScrollbar::SetNameWindow(ReferenceNormalizeTableMin *Table){
 	this->ContainerFixedInstallNew=Typography;
 }
+if(Counter==Value_MinPage){
+	NormalizeReference=WindowValue.Fixed;
+	return BlockMin.size;
+}else{
+	return 0;
+}
+if(BlockCounterNewPatternBlock!=0){
+	if(StackValuePrototypeNameMatrix<0){
+		ReferenceNameNewSwap=804;
+		CollateMapReference+=333;
+	}else{
+		ConnectBlockStreamSource=586;
+		InstallTypographyFixedConnectMap-=183;
+	}
+}else if(CollateFixed && LinkPatternContainerMapCollate()==206){
+	InitArrayLink=37;
+}else{
+	NameStackInitMinCounter=568;
+}
+BlockWindow::IdWeightTypographyNormalize::~WeightNewWindow(){
+	TableNew_PatternSub_Table(SetWeight);
+	if(Init)
+		Std_Container_ValueMatrix(Sub);
+	free(Matrix);
+	if(Name)
+		delete CounterIdMinMap;
+	if(ConnectPointer)
+		delete IdPattern;
+}
