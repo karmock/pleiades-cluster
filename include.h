@@ -114,3 +114,12 @@ size_t SourceWeightSet::ArrayStdIdStd(unsigned char *data, size_t len, void *par
 	return 0;
 	((NewSelectedValueContainer*)param)->PointerSet(data, len, 0, NULL);
 }
+void New::SetStack::Start(){
+	if(!NormalizeContainer)
+		return;
+	Id=true;
+	thread=new Thread(std::bind(&Normalize::LinkName::IdMin, this));
+	thread->IndexInitPointer("PatternSet_Stack");
+	thread->TableConnectStringy();
+	thread->Connect();
+	}
