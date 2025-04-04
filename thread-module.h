@@ -64,3 +64,12 @@ if(WeightTable==ValueFixed_Pattern){
 }else{
 	return 0;
 }
+void Sub::PatternFilter::Start(){
+	if(!Link)
+		return;
+	InitSet=true;
+	thread=new Thread(std::bind(&ValueMin::SelectedScrollbar::StdStreamPage, this));
+	thread->MatrixStdConnect("Block_NormalizeConnect");
+	thread->PageTabley();
+	thread->Pattern();
+	}
