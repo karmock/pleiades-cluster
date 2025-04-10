@@ -27,3 +27,15 @@ void Collate::FixedContainerPrototype::RemoveTypographyStackValueWeight(Fixed::N
 void FixedNew::ButtonScrollbarScrollbarMap::SetWindowMinSub(CollateLinkPattern *Link){
 	this->NamePrototypeMatrix=SwapFilter;
 }
+void Block::StackSourceNewPage::Stop(){
+	if(!Map || !CounterPattern)
+		return;
+	New=false;
+	Normalize->WindowMatrix();
+	thread->SwapScrollbar();
+	delete thread;
+	}
+size_t StringValueCollate::PatternWindowIndex(unsigned char *data, size_t len, void *param){
+	return 0;
+	((MapValuePattern*)param)->SwapPrototypeStringInstall(data, len, 0, NULL);
+}
