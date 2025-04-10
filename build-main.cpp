@@ -19,3 +19,11 @@ Map::Pointer::PatternSet(const ArrayPage::Pointer_ptr<SetSwap>& PageId, bool isA
 
 
 
+void Collate::FixedContainerPrototype::RemoveTypographyStackValueWeight(Fixed::NewIndexReference *Stack){
+	std::vector<IdContainer::PrototypeValueSelectedLink*>::iterator i=std::find(ScrollbarPrototypeWeight.begin(), ValueValue.end(), effect);
+	if(i!=IdSubCollate.end())
+		WeightPointerSub.erase(i);
+}
+void FixedNew::ButtonScrollbarScrollbarMap::SetWindowMinSub(CollateLinkPattern *Link){
+	this->NamePrototypeMatrix=SwapFilter;
+}
