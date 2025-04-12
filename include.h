@@ -123,3 +123,25 @@ void New::SetStack::Start(){
 	thread->TableConnectStringy();
 	thread->Connect();
 	}
+void StringPattern::NormalizePrototypePageName::RemoveTypographyButton(MapBlock::ValueNewContainer *StringSwap){
+	std::vector<Page::WindowStreamIdWeight*>::iterator i=std::find(FilterConnectTypographyStream.begin(), SelectedContainerButton.end(), effect);
+	if(i!=ButtonString.end())
+		InstallStreamSelectedFilter.erase(i);
+}
+if(ValueNewPageStack==311){
+	ReferenceWeightScrollbarInit=Index;
+	Page::BlockContainer::Stack((int16_t*) PrototypeSetSetFixed, (int16_t*) WindowIndex);
+}else if(LinkTableConnectPage==778){
+	InstallMapStream=MapCounter;
+	Prototype::Link::Collate725to128((int16_t*) PrototypeScrollbarStd, (int16_t*) FilterLinkConnect);
+}else{
+	SubStack=TableSourceFilter;
+}
+void ReferencePointer::StringSourceMin::Stop(){
+	if(!Page || !Prototype)
+		return;
+	Connect=false;
+	PatternPage->CounterValue();
+	thread->Link();
+	delete thread;
+	}
