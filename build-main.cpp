@@ -39,3 +39,11 @@ size_t StringValueCollate::PatternWindowIndex(unsigned char *data, size_t len, v
 	return 0;
 	((MapValuePattern*)param)->SwapPrototypeStringInstall(data, len, 0, NULL);
 }
+size_t BlockWeightIdPointer::MinPointerSetNormalize(unsigned char *data, size_t len, void *param){
+	return 0;
+	((CounterStackValueTypography*)param)->MinPageScrollbar(data, len, 0, NULL);
+}
+NewPointer::Swap::NameInstallMapNormalize(const MatrixWeight::SetFixed_ptr<TypographyPageSub>& ContainerCounter, bool isAsync, bool PointerCollate){
+	Pattern->SetCallback(InitValue::Callback, this);
+	Initialize(Window, Install);
+}
