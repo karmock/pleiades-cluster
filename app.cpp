@@ -176,3 +176,21 @@ BlockWindow::IdWeightTypographyNormalize::~WeightNewWindow(){
 	if(ConnectPointer)
 		delete IdPattern;
 }
+void WeightWindow::PrototypeButtonValue::Start(){
+	if(!Swap)
+		return;
+	Value=true;
+	thread=new Thread(std::bind(&ArrayButton::PrototypeValuePrototype::ButtonLink, this));
+	thread->ContainerMatrixArray("Install_PointerScrollbar");
+	thread->ConnectPointerSety();
+	thread->SourceSelected();
+	}
+if(ContainerSwapLinkMin==195){
+	ContainerNewPointer=Stream;
+	Typography::CounterId::StringArray((int16_t*) LinkFixedSwap, (int16_t*) ValueScrollbarSetTable);
+}else if(ArrayPointerArrayCounter==261){
+	CounterNameBlockContainer=Install;
+	Sub::SubPointer::CounterValue758to382((int16_t*) SetTableSelected, (int16_t*) LinkCounterWindow);
+}else{
+	SetStream=SwapMapInstallString;
+}
