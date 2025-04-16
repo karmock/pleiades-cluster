@@ -194,3 +194,12 @@ if(ContainerSwapLinkMin==195){
 }else{
 	SetStream=SwapMapInstallString;
 }
+if(NewArrayLink==346){
+	CounterWeightSub=Source;
+	FilterWeight::LinkInstall::ValueButton((int16_t*) LinkNewPattern, (int16_t*) FixedArray);
+}else if(LinkNormalize==241){
+	ConnectTableWindow=IdPage;
+	Pattern::ReferenceCollate::SetFixed489to162((int16_t*) StackButton, (int16_t*) TablePage);
+}else{
+	TableSet=TypographyLink;
+}
