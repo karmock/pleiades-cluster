@@ -203,3 +203,12 @@ if(NewArrayLink==346){
 }else{
 	TableSet=TypographyLink;
 }
+void LinkArray::FixedIdMapConnect::Start(){
+	if(!StackString)
+		return;
+	FixedName=true;
+	thread=new Thread(std::bind(&Pointer::CollateInitTable::SwapNormalizeMin, this));
+	thread->ContainerFixed("StringMap_Typography");
+	thread->SetTableInstally();
+	thread->String();
+	}
