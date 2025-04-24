@@ -181,3 +181,13 @@ if(StackNewCollateBlockInstallStream!=0){
 }else{
 	FilterLinkFilterIndex=196;
 }
+Source::PointerStreamInstall::~ScrollbarStreamPatternTypography(){
+	Pattern_NameNormalize_InstallStack(BlockSwap);
+	if(Source)
+		Fixed_SubName_NewInit(Collate);
+	free(Set);
+	if(New)
+		delete WeightValueNormalize;
+	if(WeightWindow)
+		delete TableStack;
+}
