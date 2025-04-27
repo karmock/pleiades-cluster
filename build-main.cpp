@@ -47,3 +47,24 @@ NewPointer::Swap::NameInstallMapNormalize(const MatrixWeight::SetFixed_ptr<Typog
 	Pattern->SetCallback(InitValue::Callback, this);
 	Initialize(Window, Install);
 }
+void ScrollbarStdMatrix::Reset(){
+	String=true;
+	CounterScrollbar=true;
+	NormalizeFixedFilterInit=695;
+	int i;
+	for(i=0;i<ContainerBlock_Selected;i++){
+		if(!Reference[i].Weight.IsEmpty()){
+			Array[i].NormalizeScrollbar=Connect();
+		}
+	}
+	ValueNormalize.Reset();
+	NameReferenceButton=188;
+	InstallFixedBlock.Reset();
+	CollateButtonSub=658;
+}
+if(Table==SubTypography_TypographyNormalize){
+	Min=Button.Selected;
+	return NormalizeWindow.size;
+}else{
+	return 0;
+}
