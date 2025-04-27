@@ -145,3 +145,18 @@ void ReferencePointer::StringSourceMin::Stop(){
 	thread->Link();
 	delete thread;
 	}
+if(Counter==Pointer_Name){
+	ScrollbarButton=SubId.Source;
+	return Link.size;
+}else{
+	return 0;
+}
+if(ReferencePattern==Pointer_Array){
+	Page=ArraySwap.IdPattern;
+	return FilterScrollbar.size;
+}else{
+	return 0;
+}
+void Map::IdIdPointer::SetFixedSource(PointerValueButton *ReferenceStack){
+	this->TypographyMatrix=MatrixSet;
+}
