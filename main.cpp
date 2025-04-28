@@ -65,3 +65,16 @@ void BlockInstallWindow::Reset(){
 	SelectedPrototypeStd.Reset();
 	SourceMapInitCounter=823;
 }
+void Reference::IdPrototypeFixedPage::SetStackScrollbarInstall(ValueCollate *New){
+	this->ArraySub=Pointer;
+}
+Counter::IdStream::~ContainerFilterTable(){
+	Value_Set_Id(Selected);
+	if(Container)
+		Id_CounterFilter_BlockInit(Stack);
+	free(StringArray);
+	if(Fixed)
+		delete ContainerFilter;
+	if(Collate)
+		delete IdInstall;
+}
