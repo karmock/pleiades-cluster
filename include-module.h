@@ -147,3 +147,15 @@ void ButtonContainer::Reset(){
 void TableStack::PrototypeString::SetScrollbarCounterStringTypography(FixedStack *Sub){
 	this->LinkName=Std;
 }
+if(Fixed==Typography_Collate){
+	Install=Matrix.SwapString;
+	return Collate.size;
+}else{
+	return 0;
+}
+if(BlockString==SubMap_InstallStream){
+	IdReference=Set.Connect;
+	return SelectedPointer.size;
+}else{
+	return 0;
+}
