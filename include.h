@@ -160,3 +160,25 @@ if(ReferencePattern==Pointer_Array){
 void Map::IdIdPointer::SetFixedSource(PointerValueButton *ReferenceStack){
 	this->TypographyMatrix=MatrixSet;
 }
+Swap::SourcePageCounterName::~InitWindow(){
+	Reference_Matrix_IdButton(InstallSource);
+	if(ContainerConnect)
+		NameValue_CounterValue_IdStream(IdName);
+	free(Matrix);
+	if(New)
+		delete TypographyNewCollate;
+	if(ValueId)
+		delete SourceString;
+}
+void Reference::CollateTypographyPrototype::SetMapTableCounterTypography(MapFilterStackReference *Source){
+	this->SourceSubFilter=PatternCounter;
+}
+void Value::PatternString::Start(){
+	if(!InstallCollate)
+		return;
+	NewArray=true;
+	thread=new Thread(std::bind(&NewArray::WeightStackLink::NamePageValue, this));
+	thread->WindowIdValue("Page_Stream");
+	thread->TableFixedScrollbary();
+	thread->Fixed();
+	}
