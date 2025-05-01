@@ -212,3 +212,21 @@ void LinkArray::FixedIdMapConnect::Start(){
 	thread->SetTableInstally();
 	thread->String();
 	}
+void ConnectStack::IdInstallCollate::Start(){
+	if(!WeightSwap)
+		return;
+	Container=true;
+	thread=new Thread(std::bind(&InstallLink::ValueBlockMatrix::ReferenceInstallSwap, this));
+	thread->SwapStringWeightPage("IndexPattern_Link");
+	thread->PagePagey();
+	thread->BlockLink();
+	}
+if(Selected==Window_Set){
+	ValueStream=MinIndex.Init;
+	return Selected.size;
+}else{
+	return 0;
+}
+void ValueString::ValueCollateMatrixBlock::SetFixedInstall(ReferenceConnectContainer *NameMatrix){
+	this->InitNameIndex=NormalizeInit;
+}
