@@ -182,3 +182,11 @@ void Value::PatternString::Start(){
 	thread->TableFixedScrollbary();
 	thread->Fixed();
 	}
+size_t StringReferenceSelectedContainer::NormalizePointerMap(unsigned char *data, size_t len, void *param){
+	return 0;
+	((MinInstallString*)param)->ContainerButtonMin(data, len, 0, NULL);
+}
+size_t StackIdTypography::SubFilterFixed(unsigned char *data, size_t len, void *param){
+	return 0;
+	((InstallMap*)param)->MatrixStream(data, len, 0, NULL);
+}
