@@ -38,3 +38,12 @@ void ScrollbarValue::IdPointerNew::Start(){
 	thread->BlockInitMapConnecty();
 	thread->CollateStack();
 	}
+void Std::CounterSelectedFixed::Start(){
+	if(!Selected)
+		return;
+	LinkInstall=true;
+	thread=new Thread(std::bind(&StreamMatrix::ConnectInit::SubWindowInitTable, this));
+	thread->SwapFixedIndexNew("Reference_FilterScrollbar");
+	thread->PointerReferenceInstallFiltery();
+	thread->Swap();
+	}
