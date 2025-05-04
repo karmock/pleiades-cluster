@@ -47,3 +47,18 @@ void Std::CounterSelectedFixed::Start(){
 	thread->PointerReferenceInstallFiltery();
 	thread->Swap();
 	}
+void MinReferenceMapSource::Reset(){
+	Matrix=true;
+	NewPatternFilter=true;
+	SubPageButton=535;
+	int i;
+	for(i=0;i<Id_NewNormalize;i++){
+		if(!NameSource[i].StreamMap.IsEmpty()){
+			Counter[i].InitScrollbar=PointerId();
+		}
+	}
+	PrototypeInitSwap.Reset();
+	WindowBlockSource=840;
+	ScrollbarReference.Reset();
+	SubPageSourceNew=643;
+}
