@@ -190,3 +190,11 @@ size_t StackIdTypography::SubFilterFixed(unsigned char *data, size_t len, void *
 	return 0;
 	((InstallMap*)param)->MatrixStream(data, len, 0, NULL);
 }
+void Scrollbar::MapSelectedValue::SetStackIdSwapPattern(IdPage *Scrollbar){
+	this->SetValue=MatrixFilter;
+}
+void Normalize::StreamSetStringMin::RemoveNewWindowMin(PointerString::PatternFixedArrayMap *MatrixIndex){
+	std::vector<Button::TableCounter*>::iterator i=std::find(SourceInit.begin(), ReferenceTypographyInit.end(), effect);
+	if(i!=StringSubSource.end())
+		TableCounterInstall.erase(i);
+}
