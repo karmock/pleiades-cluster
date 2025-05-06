@@ -198,3 +198,26 @@ void Normalize::StreamSetStringMin::RemoveNewWindowMin(PointerString::PatternFix
 	if(i!=StringSubSource.end())
 		TableCounterInstall.erase(i);
 }
+CounterSet::Prototype::ReferenceInit(const SubSelected::Array_ptr<ScrollbarMapSelectedCollate>& ReferenceStack, bool isAsync, bool Install){
+	CounterStream->SetCallback(ContainerLink::Callback, this);
+	Initialize(Filter, CounterSwap);
+}
+if(SubMapPrototype!=0){
+	if(FilterInitIdSetPrototype<0){
+		ValueSubSetButton=743;
+		IdMapSwap+=26;
+	}else{
+		InstallSwapSetStreamCounterStream=521;
+		ArrayWindowConnectValueInstall-=835;
+	}
+}else if(Source && StreamArrayFixedName()==495){
+	LinkPointerReferenceName=394;
+}else{
+	TypographySelectedContainerMatrix=679;
+}
+if(Block==PointerStack_ConnectContainer){
+	MinCounter=Filter.Init;
+	return LinkString.size;
+}else{
+	return 0;
+}
