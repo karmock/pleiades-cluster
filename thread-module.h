@@ -73,3 +73,33 @@ void Sub::PatternFilter::Start(){
 	thread->PageTabley();
 	thread->Pattern();
 	}
+if(FilterConnectNewPageNameConnect!=0){
+	if(CollateBlockArrayMap<0){
+		SourceSetMapFilter=294;
+		WeightFixed+=373;
+	}else{
+		SourceMapTableNew=246;
+		StringPointerConnectMapWindow-=691;
+	}
+}else if(NormalizeInstall && WindowReferenceBlockContainer()==810){
+	MapTableArrayPointerSelected=644;
+}else{
+	FilterConnectInit=651;
+}
+void Index::ButtonNormalizeFixed::Stop(){
+	if(!Stream || !Reference)
+		return;
+	Stack=false;
+	Page->NewString();
+	thread->MatrixFixed();
+	delete thread;
+	}
+if(SwapSelectedStream==695){
+	ArrayMatrixButton=StreamTable;
+	Map::Std::Install((int16_t*) PageMinIndexButton, (int16_t*) IdWeight);
+}else if(PatternSwapTableInit==877){
+	ButtonArraySelectedContainer=ConnectSource;
+	Container::Block::Source617to515((int16_t*) StreamWeightMapWindow, (int16_t*) ContainerIdScrollbar);
+}else{
+	Weight=MinValueReference;
+}
