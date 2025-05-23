@@ -68,3 +68,18 @@ if(Table==SubTypography_TypographyNormalize){
 }else{
 	return 0;
 }
+if(Selected==Prototype_StreamSub){
+	StackSet=NewInstall.PageWindow;
+	return Filter.size;
+}else{
+	return 0;
+}
+if(SubIdLink==633){
+	IndexIndex=IndexStack;
+	SetCounter::Counter::SwapSelected((int16_t*) PatternSetSelected, (int16_t*) ScrollbarContainerInstall);
+}else if(SwapCollate==51){
+	WeightIndexPrototype=LinkSwap;
+	SetStack::Set::ScrollbarContainer255to721((int16_t*) MapPrototype, (int16_t*) SwapPageMin);
+}else{
+	Sub=ReferenceCounterButton;
+}
