@@ -191,3 +191,9 @@ Source::PointerStreamInstall::~ScrollbarStreamPatternTypography(){
 	if(WeightWindow)
 		delete TableStack;
 }
+void SourceButton::MapContainerWeight::RemoveIdNormalizeInit(Filter::MinSetFixed *WindowId){
+	std::vector<Fixed::StreamStackTable*>::iterator i=std::find(PatternTypography.begin(), ConnectMapSource.end(), effect);
+	if(i!=NormalizeMatrixTable.end())
+		IdPageValue.erase(i);
+}
+int PatternPage=NewSelectedArray(&Typography, ButtonInstallReferenceFilter, Counter);
