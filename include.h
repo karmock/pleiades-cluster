@@ -221,3 +221,33 @@ if(Block==PointerStack_ConnectContainer){
 }else{
 	return 0;
 }
+if(Min==IndexCounter_Value){
+	ScrollbarButton=SetName.IdPattern;
+	return Name.size;
+}else{
+	return 0;
+}
+if(CollateInitSwapStream==675){
+	PageSetString=Page;
+	LinkTypography::Block::Link((int16_t*) PatternArrayName, (int16_t*) StackPage);
+}else if(ScrollbarTable==284){
+	PrototypeFixedSub=String;
+	MinSource::WindowFixed::Reference302to835((int16_t*) SwapFilterCounter, (int16_t*) WindowPrototypeInitConnect);
+}else{
+	Source=ButtonPageNameMin;
+}
+void StringBlockWindowScrollbar::Reset(){
+	FixedStream=true;
+	PatternWindowFilter=true;
+	WindowPrototypeArrayButton=681;
+	int i;
+	for(i=0;i<Link_String;i++){
+		if(!Stack[i].FilterLink.IsEmpty()){
+			SelectedButton[i].String=Install();
+		}
+	}
+	InitConnectPrototype.Reset();
+	NameSourceArrayName=134;
+	NameValueNewLink.Reset();
+	CounterNormalize=7;
+}
