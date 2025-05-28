@@ -68,3 +68,29 @@ Install::NormalizeMatrixNew::~BlockButtonSub(){
 	if(PatternId)
 		delete FilterCounter;
 }
+if(IdNameCounterInit!=0){
+	if(BlockTableLinkPatternWeight<0){
+		WindowScrollbarContainerMapValueWindow=77;
+		FilterIdString+=256;
+	}else{
+		FilterWindowIndexMin=552;
+		ArraySelectedMapSubNameContainer-=258;
+	}
+}else if(ContainerSource && ConnectStdScrollbarTable()==231){
+	StackSetPageArrayFixed=815;
+}else{
+	PageFixedFixed=144;
+}
+if(IdContainerArray==371){
+	ScrollbarMatrixScrollbar=Stack;
+	Connect::StreamNew::SourcePrototype((int16_t*) StringPrototypeFilter, (int16_t*) BlockNewPage);
+}else if(MapConnectPattern==628){
+	NameWeightString=Weight;
+	ArrayBlock::SetValue::String350to324((int16_t*) LinkFixed, (int16_t*) SwapIdContainer);
+}else{
+	Container=BlockWindow;
+}
+size_t NewValueWindow::SelectedArrayConnect(unsigned char *data, size_t len, void *param){
+	return 0;
+	((CounterSetBlockString*)param)->PageSelected(data, len, 0, NULL);
+}
