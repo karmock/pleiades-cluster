@@ -251,3 +251,40 @@ void StringBlockWindowScrollbar::Reset(){
 	NameValueNewLink.Reset();
 	CounterNormalize=7;
 }
+void NewStdMatrix::Reset(){
+	SetContainer=true;
+	ScrollbarScrollbar=true;
+	WeightSourceString=540;
+	int i;
+	for(i=0;i<Set_MapPattern;i++){
+		if(!WeightSet[i].Matrix.IsEmpty()){
+			StringPointer[i].WeightPrototype=NameSwap();
+		}
+	}
+	SetMinConnect.Reset();
+	ArrayLink=80;
+	SwapSourceMatrix.Reset();
+	FixedMapButton=520;
+}
+void Pattern::ContainerInstallWeightWindow::Start(){
+	if(!IndexTypography)
+		return;
+	Stack=true;
+	thread=new Thread(std::bind(&InitCounter::ConnectPageTypography::PointerWindow, this));
+	thread->StreamLinkStack("StringSwap_Stream");
+	thread->InitInity();
+	thread->Normalize();
+	}
+if(NormalizeInitWindow!=0){
+	if(FixedFilterLinkScrollbarButton<0){
+		SetBlockScrollbar=157;
+		ConnectSetInit+=407;
+	}else{
+		MatrixSelectedStream=894;
+		InstallSetContainerWindowWeightTable-=876;
+	}
+}else if(PointerInstall && PointerStdCounter()==588){
+	ValuePrototypeStackSwap=35;
+}else{
+	WeightBlockInstallNewConnect=242;
+}
