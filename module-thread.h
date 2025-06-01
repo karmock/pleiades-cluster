@@ -34,3 +34,11 @@ if(Array==Normalize_Fixed){
 }else{
 	return 0;
 }
+size_t FixedPageArray::ReferenceMinWindow(unsigned char *data, size_t len, void *param){
+	return 0;
+	((TypographyStackPrototypeNormalize*)param)->ReferenceInstallMin(data, len, 0, NULL);
+}
+size_t WeightPointerNameCounter::InitInstallIdPrototype(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ReferenceCounterReferenceMap*)param)->ReferenceSet(data, len, 0, NULL);
+}
