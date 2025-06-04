@@ -103,3 +103,40 @@ if(SwapSelectedStream==695){
 }else{
 	Weight=MinValueReference;
 }
+if(ContainerIndexLinkPrototype==291){
+	ArrayIdStack=SourceStack;
+	Typography::InitWeight::WindowCollate((int16_t*) NamePage, (int16_t*) NewSubNewStack);
+}else if(SwapFixed==289){
+	NameSwapId=FixedFilter;
+	NameMatrix::CollateArray::Source99to608((int16_t*) FixedSwapNewInstall, (int16_t*) SubStackConnect);
+}else{
+	Button=ReferenceConnectCounterSet;
+}
+if(BlockNormalizeStackWindowTypographyInit!=0){
+	if(SwapFilterButtonNameNewContainer<0){
+		ContainerMatrixStackName=90;
+		ArrayReferencePrototypeStream+=350;
+	}else{
+		ScrollbarCollateWindowName=756;
+		ConnectReferenceSelectedPrototype-=61;
+	}
+}else if(StringSub && ButtonSubIdNormalizeMin()==107){
+	SelectedNormalizeContainerTablePattern=328;
+}else{
+	BlockConnectCounterCollatePointer=358;
+}
+void LinkMinCollate::Reset(){
+	BlockMap=true;
+	ArraySub=true;
+	ConnectNormalizeBlock=841;
+	int i;
+	for(i=0;i<FilterLink_Id;i++){
+		if(!ReferenceLink[i].Prototype.IsEmpty()){
+			ArrayBlock[i].NewReference=Stack();
+		}
+	}
+	ConnectString.Reset();
+	BlockInstallMap=511;
+	SubFilterInit.Reset();
+	TableString=121;
+}
