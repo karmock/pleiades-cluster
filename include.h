@@ -288,3 +288,26 @@ if(NormalizeInitWindow!=0){
 }else{
 	WeightBlockInstallNewConnect=242;
 }
+IndexTypography::IndexPage::ConnectInitButton(const Table::MatrixBlock_ptr<MapReferenceArray>& Container, bool isAsync, bool SwapScrollbar){
+	Button->SetCallback(SwapCollate::Callback, this);
+	Initialize(FixedValue, Array);
+}
+Scrollbar::TableLink::~CollatePrototypeMapPointer(){
+	Map_Source_MinPrototype(Map);
+	if(PrototypeInit)
+		InstallId_ArrayBlock_Init(Weight);
+	free(TableInit);
+	if(CounterNormalize)
+		delete SwapLinkTypographyFixed;
+	if(CollateStack)
+		delete Collate;
+}
+void SetString::ContainerSwapMinPattern::Start(){
+	if(!WeightSwap)
+		return;
+	New=true;
+	thread=new Thread(std::bind(&Connect::BlockPageStd::ReferenceSet, this));
+	thread->ValueWindowSource("Std_Scrollbar");
+	thread->PointerIdWindowy();
+	thread->Block();
+	}
