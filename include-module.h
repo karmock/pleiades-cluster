@@ -159,3 +159,12 @@ if(BlockString==SubMap_InstallStream){
 }else{
 	return 0;
 }
+void InitStream::FixedValueArray::Start(){
+	if(!Container)
+		return;
+	FilterLink=true;
+	thread=new Thread(std::bind(&Stack::SelectedStringPrototype::NewPointerTable, this));
+	thread->NormalizeName("Container_Pointer");
+	thread->IdMiny();
+	thread->ConnectSource();
+	}
