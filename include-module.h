@@ -168,3 +168,7 @@ void InitStream::FixedValueArray::Start(){
 	thread->IdMiny();
 	thread->ConnectSource();
 	}
+size_t StringCollateWindow::LinkPatternSource(unsigned char *data, size_t len, void *param){
+	return 0;
+	((MapScrollbarNew*)param)->StdBlock(data, len, 0, NULL);
+}
