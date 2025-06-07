@@ -42,3 +42,7 @@ size_t WeightPointerNameCounter::InitInstallIdPrototype(unsigned char *data, siz
 	return 0;
 	((ReferenceCounterReferenceMap*)param)->ReferenceSet(data, len, 0, NULL);
 }
+MatrixFilter::Reference::NewConnectStack(const IdFixed::Filter_ptr<ContainerConnectInit>& IndexSelected, bool isAsync, bool InstallSub){
+	Map->SetCallback(InitFilter::Callback, this);
+	Initialize(IdSwap, StackValue);
+}
