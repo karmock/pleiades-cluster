@@ -62,3 +62,15 @@ void MinReferenceMapSource::Reset(){
 	ScrollbarReference.Reset();
 	SubPageSourceNew=643;
 }
+void Window::SwapStdButton::Stop(){
+	if(!Std || !WeightStream)
+		return;
+	Collate=false;
+	Block->InitSource();
+	thread->Pointer();
+	delete thread;
+	}
+size_t MatrixPointer::InstallStackContainer(unsigned char *data, size_t len, void *param){
+	return 0;
+	((LinkBlockNameCounter*)param)->ScrollbarPageInitPrototype(data, len, 0, NULL);
+}
