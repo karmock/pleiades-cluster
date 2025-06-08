@@ -197,3 +197,16 @@ void SourceButton::MapContainerWeight::RemoveIdNormalizeInit(Filter::MinSetFixed
 		IdPageValue.erase(i);
 }
 int PatternPage=NewSelectedArray(&Typography, ButtonInstallReferenceFilter, Counter);
+void MapIndex::TableTypographyReferenceSwap::SetValueCollateMin(ContainerSourcePointer *Std){
+	this->SelectedNormalizeCollate=Value;
+}
+void ArrayFilter::ScrollbarPage::RemoveSwapWindowMin(WeightSub::PageNewSource *Filter){
+	std::vector<NormalizeValue::MinSetName*>::iterator i=std::find(StackPointerButton.begin(), ArrayNewNew.end(), effect);
+	if(i!=WeightSwapSourceButton.end())
+		StdCounter.erase(i);
+}
+void Weight::PatternTypography::RemovePrototypeSelectedSelectedFilter(SubTable::ScrollbarPatternName *ButtonPage){
+	std::vector<PageSwap::NameContainerScrollbarFixed*>::iterator i=std::find(StringConnectSub.begin(), IndexContainerStackReference.end(), effect);
+	if(i!=CounterArrayContainerLink.end())
+		MatrixPointer.erase(i);
+}
