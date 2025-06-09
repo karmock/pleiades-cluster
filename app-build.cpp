@@ -95,3 +95,13 @@ void SourceReference::SwapTypographyTable::RemoveNormalizeString(Counter::ArrayV
 	if(i!=CounterInstallSwap.end())
 		PageFilterContainer.erase(i);
 }
+if(FixedSub==ReferenceCounter_ReferenceNew){
+	Install=NormalizeTypography.Map;
+	return Counter.size;
+}else{
+	return 0;
+}
+size_t BlockNormalize::NormalizeSource(unsigned char *data, size_t len, void *param){
+	return 0;
+	((CollateButtonId*)param)->ContainerPage(data, len, 0, NULL);
+}
