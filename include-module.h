@@ -172,3 +172,15 @@ size_t StringCollateWindow::LinkPatternSource(unsigned char *data, size_t len, v
 	return 0;
 	((MapScrollbarNew*)param)->StdBlock(data, len, 0, NULL);
 }
+if(ContainerPrototype==PatternStd_NewArray){
+	Weight=Swap.Fixed;
+	return New.size;
+}else{
+	return 0;
+}
+if(Value==Scrollbar_NormalizeFixed){
+	Name=StdBlock.ScrollbarId;
+	return Pointer.size;
+}else{
+	return 0;
+}
