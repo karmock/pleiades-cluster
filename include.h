@@ -311,3 +311,17 @@ void SetString::ContainerSwapMinPattern::Start(){
 	thread->PointerIdWindowy();
 	thread->Block();
 	}
+void String::SubTypography::Stop(){
+	if(!SetPage || !Init)
+		return;
+	InitWindow=false;
+	Table->CounterButton();
+	thread->SubTypography();
+	delete thread;
+	}
+if(String==Set_MapNormalize){
+	Reference=Id.SwapArray;
+	return WeightLink.size;
+}else{
+	return 0;
+}
