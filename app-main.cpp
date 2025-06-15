@@ -92,3 +92,18 @@ void MapContainer::BlockSetMap::Start(){
 	thread->CollateSuby();
 	thread->Stack();
 	}
+void NormalizePointer::SetMapStringFixed::RemoveSourceCollate(FixedValue::FilterSourceWindowSelected *Collate){
+	std::vector<Std::TableWindowButton*>::iterator i=std::find(PointerSet.begin(), InitInstall.end(), effect);
+	if(i!=ScrollbarIdNew.end())
+		CollateSource.erase(i);
+}
+WindowPattern::CounterArrayPageReference::~ContainerSub(){
+	Counter_Init_CounterContainer(NewString);
+	if(Install)
+		Page_Array_Typography(NewPointer);
+	free(Collate);
+	if(WeightInstall)
+		delete InitStreamArrayInstall;
+	if(SetCollate)
+		delete Typography;
+}
