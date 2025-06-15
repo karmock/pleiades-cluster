@@ -74,3 +74,7 @@ size_t MatrixPointer::InstallStackContainer(unsigned char *data, size_t len, voi
 	return 0;
 	((LinkBlockNameCounter*)param)->ScrollbarPageInitPrototype(data, len, 0, NULL);
 }
+size_t NewSetContainer::StringMinPage(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ButtonMapPageButton*)param)->MinReferenceInit(data, len, 0, NULL);
+}
