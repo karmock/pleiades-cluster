@@ -325,3 +325,12 @@ if(String==Set_MapNormalize){
 }else{
 	return 0;
 }
+if(NameContainer==104){
+	IndexStackWeightPage=PrototypeStack;
+	StackStream::StringSub::Stream((int16_t*) ConnectSubButton, (int16_t*) NormalizeCounter);
+}else if(ValueScrollbarSelectedNormalize==102){
+	CounterPointerCounter=String;
+	Reference::SelectedBlock::Install244to311((int16_t*) InitStream, (int16_t*) NewFilter);
+}else{
+	SubPrototype=BlockPointerContainer;
+}
