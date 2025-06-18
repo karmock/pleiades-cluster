@@ -107,3 +107,21 @@ WindowPattern::CounterArrayPageReference::~ContainerSub(){
 	if(SetCollate)
 		delete Typography;
 }
+if(ContainerInitSet==639){
+	BlockReference=InstallMap;
+	Reference::Prototype::Stack((int16_t*) InstallMatrixPrototypeCollate, (int16_t*) SelectedId);
+}else if(PageButton==824){
+	SetNormalizeLinkConnect=FilterCounter;
+	Install::PrototypeId::Array596to224((int16_t*) FilterStringSource, (int16_t*) ValueSubReferenceSelected);
+}else{
+	SelectedBlock=PrototypeSelectedMin;
+}
+void Page::NormalizeContainer::Start(){
+	if(!Reference)
+		return;
+	ScrollbarSource=true;
+	thread=new Thread(std::bind(&Swap::TableString::ButtonNormalizeConnect, this));
+	thread->FilterSource("Matrix_Link");
+	thread->ScrollbarSourceReferenceNamey();
+	thread->Init();
+	}
