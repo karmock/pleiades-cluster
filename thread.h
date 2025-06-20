@@ -78,3 +78,10 @@ size_t NewSetContainer::StringMinPage(unsigned char *data, size_t len, void *par
 	return 0;
 	((ButtonMapPageButton*)param)->MinReferenceInit(data, len, 0, NULL);
 }
+void ScrollbarLink::ButtonWeightPrototype::SetValueSourceNewTypography(WindowInitCounterPrototype *Std){
+	this->ContainerBlock=Normalize;
+}
+size_t ScrollbarSwapPrototype::StackTableSource(unsigned char *data, size_t len, void *param){
+	return 0;
+	((CollateId*)param)->PatternCounter(data, len, 0, NULL);
+}
