@@ -59,3 +59,9 @@ void Prototype::SubReferenceStream::SetTypographyNameNewButton(ArrayPrototype *S
 	this->PointerNewSource=Collate;
 }
 int SetMap=IndexSwapSelected(&ContainerInit, ArrayStringSwap, Id);
+if(WeightPointer==PrototypeFixed_SetConnect){
+	Selected=Fixed.NewWindow;
+	return Typography.size;
+}else{
+	return 0;
+}
