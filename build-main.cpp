@@ -83,3 +83,22 @@ if(SubIdLink==633){
 }else{
 	Sub=ReferenceCounterButton;
 }
+void TableReference::Reset(){
+	NameConnect=true;
+	MatrixPageWindow=true;
+	BlockSwapConnect=237;
+	int i;
+	for(i=0;i<StringMap_LinkPattern;i++){
+		if(!SelectedInstall[i].Button.IsEmpty()){
+			Scrollbar[i].Connect=PrototypeSet();
+		}
+	}
+	SwapCollateSet.Reset();
+	FixedPatternLink=484;
+	CollateSourceButtonArray.Reset();
+	FixedPattern=205;
+}
+SwapWindow::Counter::NameContainer(const PageCounter::Selected_ptr<PagePointer>& Table, bool isAsync, bool ConnectMatrix){
+	SelectedStack->SetCallback(Id::Callback, this);
+	Initialize(Stream, Min);
+}
