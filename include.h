@@ -334,3 +334,28 @@ if(NameContainer==104){
 }else{
 	SubPrototype=BlockPointerContainer;
 }
+void MinPageArray::Reset(){
+	Swap=true;
+	ScrollbarNameMap=true;
+	WeightStd=421;
+	int i;
+	for(i=0;i<WindowWeight_PatternTable;i++){
+		if(!Sub[i].MinWeight.IsEmpty()){
+			Connect[i].StreamSelected=SourceWeight();
+		}
+	}
+	SelectedReference.Reset();
+	SubWeight=614;
+	ReferenceSet.Reset();
+	StringWeight=36;
+}
+if(Link==Min_Prototype){
+	NormalizeScrollbar=String.Matrix;
+	return PointerTable.size;
+}else{
+	return 0;
+}
+size_t FixedValue::SwapStack(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SwapContainerSourceLink*)param)->IdNormalizePattern(data, len, 0, NULL);
+}
