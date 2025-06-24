@@ -230,3 +230,9 @@ if(Selected==Window_Set){
 void ValueString::ValueCollateMatrixBlock::SetFixedInstall(ReferenceConnectContainer *NameMatrix){
 	this->InitNameIndex=NormalizeInit;
 }
+if(Container==Window_StackSource){
+	Normalize=Matrix.Source;
+	return Filter.size;
+}else{
+	return 0;
+}
