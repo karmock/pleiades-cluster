@@ -42,3 +42,15 @@ if(Source==Table_TableIndex){
 }else{
 	return 0;
 }
+void NameCollate::SelectedFilterInitSource::Stop(){
+	if(!ReferenceSource || !StackNew)
+		return;
+	PrototypeWeight=false;
+	ScrollbarTable->SetContainer();
+	thread->InstallTypography();
+	delete thread;
+	}
+size_t SubContainerSource::TypographyValueTableIndex(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PatternStream*)param)->ArrayIndexWeight(data, len, 0, NULL);
+}
