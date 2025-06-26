@@ -57,3 +57,22 @@ if(InstallLinkCollateFilterNormalize!=0){
 }else{
 	ConnectInstallWindowSetWeight=337;
 }
+void ConnectNormalize::ContainerConnectLinkNew::RemoveLinkFilterArray(ButtonName::PatternStreamInitStack *NameWindow){
+	std::vector<Min::NameReferenceTable*>::iterator i=std::find(ContainerStackNew.begin(), ScrollbarTypography.end(), effect);
+	if(i!=CounterCounterStack.end())
+		NewMatrixFixed.erase(i);
+}
+void Table::PointerPatternInstallPattern::RemoveSubSwapPageInstall(New::MapArrayNormalizeMap *ButtonConnect){
+	std::vector<StringFixed::MapButtonMin*>::iterator i=std::find(PageId.begin(), NormalizeId.end(), effect);
+	if(i!=StreamStream.end())
+		ConnectSubNormalize.erase(i);
+}
+if(SetString==330){
+	MapNameInitValue=NormalizeSub;
+	Filter::PointerMatrix::BlockNormalize((int16_t*) SelectedStringIndexSelected, (int16_t*) SetSourceTable);
+}else if(TypographySub==756){
+	PointerLink=TableMap;
+	MapScrollbar::Window::WeightButton405to424((int16_t*) StdSourceTypography, (int16_t*) TablePatternScrollbar);
+}else{
+	ScrollbarBlock=FixedConnect;
+}
