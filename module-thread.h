@@ -46,3 +46,21 @@ MatrixFilter::Reference::NewConnectStack(const IdFixed::Filter_ptr<ContainerConn
 	Map->SetCallback(InitFilter::Callback, this);
 	Initialize(IdSwap, StackValue);
 }
+void WindowContainer::MatrixStringInstallSelected::RemovePointerArrayInstallContainer(ArrayStack::WindowCounterMin *Button){
+	std::vector<Block::NewMapSelected*>::iterator i=std::find(InstallPrototypeFixedBlock.begin(), IndexIdPage.end(), effect);
+	if(i!=MinIdWindow.end())
+		BlockBlockTable.erase(i);
+}
+if(TypographyPatternWindowStack!=0){
+	if(NormalizeWeightTypography<0){
+		LinkNormalizeInstallFilter=18;
+		StringSelectedWindow+=329;
+	}else{
+		SwapSetReferenceSelected=845;
+		InitWindowStackId-=347;
+	}
+}else if(Window && StdWindowMapStack()==731){
+	FilterPrototypeSourceContainerStack=253;
+}else{
+	InitConnectButtonStream=459;
+}
