@@ -76,3 +76,22 @@ if(SetString==330){
 }else{
 	ScrollbarBlock=FixedConnect;
 }
+if(Collate==Swap_PageIndex){
+	Fixed=TableSwap.String;
+	return BlockInit.size;
+}else{
+	return 0;
+}
+if(IdContainerValueScrollbarButton!=0){
+	if(FixedIdLinkFixedIndex<0){
+		LinkReferenceLinkWindowSelected=87;
+		StackReferencePage+=133;
+	}else{
+		ValueMatrixFilterInitFixed=543;
+		ScrollbarNewCollateContainerBlock-=325;
+	}
+}else if(SetReference && InitScrollbarIndex()==690){
+	InitNewSourceStdStream=492;
+}else{
+	MatrixNewButtonMapArraySet=50;
+}
