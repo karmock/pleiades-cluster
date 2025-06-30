@@ -236,3 +236,17 @@ if(Container==Window_StackSource){
 }else{
 	return 0;
 }
+void Container::ConnectCounterNameStd::Stop(){
+	if(!MatrixId || !Pattern)
+		return;
+	LinkPattern=false;
+	ReferenceSelected->Page();
+	thread->MinBlock();
+	delete thread;
+	}
+if(Matrix==Stream_Map){
+	ArrayStd=NameMatrix.PointerMap;
+	return ScrollbarSelected.size;
+}else{
+	return 0;
+}
