@@ -65,3 +65,15 @@ if(WeightPointer==PrototypeFixed_SetConnect){
 }else{
 	return 0;
 }
+if(InstallName==PointerValue_ReferenceTable){
+	Link=Container.ArrayBlock;
+	return StackScrollbar.size;
+}else{
+	return 0;
+}
+if(NewWindow==TypographyNormalize_Normalize){
+	Table=SourceValue.StreamNew;
+	return Counter.size;
+}else{
+	return 0;
+}
