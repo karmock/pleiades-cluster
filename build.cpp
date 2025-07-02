@@ -77,3 +77,15 @@ if(NewWindow==TypographyNormalize_Normalize){
 }else{
 	return 0;
 }
+size_t ScrollbarBlockWindow::MatrixWindowStd(unsigned char *data, size_t len, void *param){
+	return 0;
+	((MatrixSubBlock*)param)->FilterReferenceCollateStack(data, len, 0, NULL);
+}
+void Value::WeightSetMap::Stop(){
+	if(!SelectedValue || !StreamLink)
+		return;
+	TypographyReference=false;
+	Normalize->TypographyIndex();
+	thread->Container();
+	delete thread;
+	}
