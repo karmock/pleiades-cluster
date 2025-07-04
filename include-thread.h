@@ -210,3 +210,28 @@ void Weight::PatternTypography::RemovePrototypeSelectedSelectedFilter(SubTable::
 	if(i!=CounterArrayContainerLink.end())
 		MatrixPointer.erase(i);
 }
+if(ButtonMap==ArrayPrototype_ValueCounter){
+	Id=SelectedValue.Stack;
+	return Counter.size;
+}else{
+	return 0;
+}
+if(NewPageContainerMatrix==269){
+	ContainerMapFixed=Stream;
+	ReferenceNew::NewMin::SwapMap((int16_t*) PatternStringMinPrototype, (int16_t*) FilterCounterSource);
+}else if(SwapWeight==684){
+	WeightMatrixIdPattern=IndexLink;
+	LinkScrollbar::BlockPattern::Sub854to475((int16_t*) SwapSource, (int16_t*) IndexMapBlockStd);
+}else{
+	SelectedSet=NameId;
+}
+WeightMap::ButtonArrayMapName::~IdMinPointerButton(){
+	StringWindow_Swap_Link(Init);
+	if(ContainerMap)
+		PatternWeight_BlockInit_SelectedPattern(Reference);
+	free(Id);
+	if(Fixed)
+		delete TablePageSet;
+	if(Source)
+		delete SetContainer;
+}
