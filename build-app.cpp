@@ -94,3 +94,21 @@ size_t NewValueWindow::SelectedArrayConnect(unsigned char *data, size_t len, voi
 	return 0;
 	((CounterSetBlockString*)param)->PageSelected(data, len, 0, NULL);
 }
+if(SubWindowSelectedTable==615){
+	CounterSetStack=LinkMatrix;
+	Link::LinkMatrix::IndexContainer((int16_t*) TypographyCounterButton, (int16_t*) SourceButtonNormalize);
+}else if(SourceNew==244){
+	PageStringCounter=Collate;
+	ButtonSet::Min::TypographyNew227to399((int16_t*) StackFilter, (int16_t*) SwapId);
+}else{
+	String=ReferenceContainerId;
+}
+void Link::ContainerNameInstall::Start(){
+	if(!PrototypeContainer)
+		return;
+	Pointer=true;
+	thread=new Thread(std::bind(&Selected::IndexPageCollatePrototype::NameBlockPointerContainer, this));
+	thread->BlockNormalizeSwapContainer("NameCollate_Pattern");
+	thread->PointerArrayMiny();
+	thread->Fixed();
+	}
