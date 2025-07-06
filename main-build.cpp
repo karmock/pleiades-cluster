@@ -54,3 +54,9 @@ size_t SubContainerSource::TypographyValueTableIndex(unsigned char *data, size_t
 	return 0;
 	((PatternStream*)param)->ArrayIndexWeight(data, len, 0, NULL);
 }
+if(CounterInit==MapSet_String){
+	WeightPrototype=ScrollbarInstall.InstallId;
+	return Swap.size;
+}else{
+	return 0;
+}
