@@ -60,3 +60,16 @@ if(CounterInit==MapSet_String){
 }else{
 	return 0;
 }
+if(StringSetSelectedSubPattern!=0){
+	if(NamePrototypeCounterReferenceScrollbarBlock<0){
+		SetIdTypography=470;
+		TypographyValue+=701;
+	}else{
+		SelectedMapScrollbarArray=620;
+		SubValuePointerNew-=882;
+	}
+}else if(Container && SourceNormalizeSwapTypography()==758){
+	PrototypeMatrixValueWindowContainer=243;
+}else{
+	StreamSourceCollateStackSwap=871;
+}
