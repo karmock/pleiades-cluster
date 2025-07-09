@@ -85,3 +85,19 @@ size_t ScrollbarSwapPrototype::StackTableSource(unsigned char *data, size_t len,
 	return 0;
 	((CollateId*)param)->PatternCounter(data, len, 0, NULL);
 }
+size_t WindowSetSub::CounterStack(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ReferenceConnectButtonReference*)param)->WindowNormalizeConnect(data, len, 0, NULL);
+}
+if(SetPage==Stream_FilterStack){
+	String=ScrollbarPage.PointerValue;
+	return MinPage.size;
+}else{
+	return 0;
+}
+if(Collate==StringScrollbar_Init){
+	Name=ScrollbarPattern.Map;
+	return Counter.size;
+}else{
+	return 0;
+}
