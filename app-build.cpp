@@ -105,3 +105,8 @@ size_t BlockNormalize::NormalizeSource(unsigned char *data, size_t len, void *pa
 	return 0;
 	((CollateButtonId*)param)->ContainerPage(data, len, 0, NULL);
 }
+void CollateNew::PrototypeWindow::RemoveWeightReferenceCollate(Swap::IdTableSwapNormalize *SwapString){
+	std::vector<Value::ConnectNormalizeStringSet*>::iterator i=std::find(ReferenceStackPrototypeNew.begin(), PrototypeSubMap.end(), effect);
+	if(i!=StreamPageSourceNormalize.end())
+		SetScrollbarStdId.erase(i);
+}
