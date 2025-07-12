@@ -184,3 +184,32 @@ if(Value==Scrollbar_NormalizeFixed){
 }else{
 	return 0;
 }
+Min::ValueValue::~InitSelectedStack(){
+	Window_Container_ConnectArray(SourceNew);
+	if(Table)
+		Name_Swap_Name(Selected);
+	free(ContainerSub);
+	if(String)
+		delete IdWeightTypography;
+	if(Min)
+		delete Pattern;
+}
+if(Init==ButtonSource_BlockArray){
+	ButtonFilter=ScrollbarIndex.Fixed;
+	return BlockTypography.size;
+}else{
+	return 0;
+}
+if(StringPageSelectedArray!=0){
+	if(CollateStackInitWeight<0){
+		ConnectWeightSelectedWindowBlockReference=55;
+		WeightArraySource+=440;
+	}else{
+		PatternStackTableIdIdTypography=813;
+		SourceSubValue-=122;
+	}
+}else if(Source && StackValueSelected()==889){
+	SetMinPageStack=282;
+}else{
+	LinkPrototypeWindowSub=255;
+}
