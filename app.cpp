@@ -250,3 +250,22 @@ if(Matrix==Stream_Map){
 }else{
 	return 0;
 }
+Connect::SwapPrototype::PointerPatternSet(const StackMap::Container_ptr<SelectedCounter>& Value, bool isAsync, bool StreamButton){
+	NameSwap->SetCallback(Install::Callback, this);
+	Initialize(Block, Collate);
+}
+void WindowSourceSource::Reset(){
+	SubContainer=true;
+	PrototypeTableStd=true;
+	WeightMatrixWindow=5;
+	int i;
+	for(i=0;i<WindowMatrix_Reference;i++){
+		if(!NameMin[i].Button.IsEmpty()){
+			SelectedMin[i].Filter=TypographyBlock();
+		}
+	}
+	PrototypeSubInitTypography.Reset();
+	FilterCollate=849;
+	InstallPointerValueScrollbar.Reset();
+	StreamNormalizeFixedMap=285;
+}
