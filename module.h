@@ -95,3 +95,27 @@ if(IdContainerValueScrollbarButton!=0){
 }else{
 	MatrixNewButtonMapArraySet=50;
 }
+if(MatrixArraySub==123){
+	StdArrayString=Collate;
+	StdReference::Weight::ValueButton((int16_t*) IdIndexTypography, (int16_t*) MapTableWindowInit);
+}else if(WeightPointerScrollbar==642){
+	StreamSelectedMatrix=Sub;
+	Set::TableSet::ArrayMatrix717to535((int16_t*) InstallPatternInit, (int16_t*) SetArray);
+}else{
+	BlockMatrix=WeightWindowSource;
+}
+void StackSelectedFixedTable::Reset(){
+	StringTable=true;
+	ButtonConnectNormalize=true;
+	MatrixPrototypeStream=715;
+	int i;
+	for(i=0;i<SetName_ConnectSelected;i++){
+		if(!Value[i].Container.IsEmpty()){
+			Counter[i].WindowCollate=Array();
+		}
+	}
+	ArrayStackPointer.Reset();
+	PointerStackString=854;
+	PageValue.Reset();
+	ReferenceSelected=346;
+}
