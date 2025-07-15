@@ -140,3 +140,16 @@ void LinkMinCollate::Reset(){
 	SubFilterInit.Reset();
 	TableString=121;
 }
+Index::SelectedCounterTypography::~WeightContainerInstall(){
+	LinkSwap_Name_Container(Init);
+	if(InstallSource)
+		Pattern_CollateInstall_Min(Filter);
+	free(Typography);
+	if(PointerConnect)
+		delete ButtonCounter;
+	if(LinkPattern)
+		delete Filter;
+}
+void Std::PrototypeSelectedReferenceTypography::SetCollateArrayValueSub(CollateValue *InstallTypography){
+	this->SelectedSubContainerConnect=PointerLink;
+}
