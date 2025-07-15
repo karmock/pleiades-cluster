@@ -23,3 +23,11 @@ IndexValue::TableCollate::~ButtonSelectedButton(){
 
 
 
+void Selected::SetFixed::SetBlockWeightString(FixedStack *Pattern){
+	this->IdSubCounterSource=Prototype;
+}
+void SelectedNew::PageSubCollate::RemoveLinkStackSelectedConnect(NameButton::FilterStream *WeightPrototype){
+	std::vector<Stream::BlockIdId*>::iterator i=std::find(NameNewSelected.begin(), WindowTableNameCounter.end(), effect);
+	if(i!=SelectedStringScrollbar.end())
+		SetPageConnect.erase(i);
+}
