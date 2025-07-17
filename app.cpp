@@ -269,3 +269,23 @@ void WindowSourceSource::Reset(){
 	InstallPointerValueScrollbar.Reset();
 	StreamNormalizeFixedMap=285;
 }
+if(Set==WindowFilter_Reference){
+	Stack=Weight.Page;
+	return MinSet.size;
+}else{
+	return 0;
+}
+void ConnectString::NameFilterName::RemovePrototypeFilterSelectedFilter(Scrollbar::MinStringNew *Swap){
+	std::vector<NameFixed::FilterStackReferenceIndex*>::iterator i=std::find(SwapNew.begin(), MinMapId.end(), effect);
+	if(i!=TypographyCounterTypography.end())
+		IdMin.erase(i);
+}
+if(PageSourceCounterScrollbar==711){
+	ValueSubIndex=Name;
+	Typography::PageWindow::Typography((int16_t*) StreamInstallArray, (int16_t*) SourceTypography);
+}else if(CollatePointer==890){
+	MapSetSwap=Value;
+	Sub::PointerName::Typography844to178((int16_t*) CounterFilterPrototype, (int16_t*) SourceIdNormalizeMatrix);
+}else{
+	Pattern=MinCollateStreamScrollbar;
+}
