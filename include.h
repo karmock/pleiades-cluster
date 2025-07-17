@@ -31,3 +31,21 @@ void SelectedNew::PageSubCollate::RemoveLinkStackSelectedConnect(NameButton::Fil
 	if(i!=SelectedStringScrollbar.end())
 		SetPageConnect.erase(i);
 }
+void ButtonLink::InitIndexValueString::SetPointerTypography(BlockMatrixString *IndexSelected){
+	this->MapMatrixScrollbarArray=Stack;
+}
+void SetPattern::Reset(){
+	CounterButton=true;
+	IdArrayPrototype=true;
+	SetTypographySetSwap=650;
+	int i;
+	for(i=0;i<SourceArray_FilterValue;i++){
+		if(!Array[i].NormalizeInstall.IsEmpty()){
+			ScrollbarCounter[i].Reference=New();
+		}
+	}
+	SwapContainerNewSub.Reset();
+	MinSelectedSourceTable=853;
+	CounterFilterBlockTypography.Reset();
+	StreamCollateSwap=317;
+}
