@@ -49,3 +49,9 @@ void SetPattern::Reset(){
 	CounterFilterBlockTypography.Reset();
 	StreamCollateSwap=317;
 }
+if(ScrollbarStack==Id_PatternName){
+	TypographySub=Filter.Init;
+	return PointerName.size;
+}else{
+	return 0;
+}
