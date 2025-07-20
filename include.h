@@ -55,3 +55,18 @@ if(ScrollbarStack==Id_PatternName){
 }else{
 	return 0;
 }
+if(Set==Window_ReferencePage){
+	Source=Name.StreamWeight;
+	return SwapPointer.size;
+}else{
+	return 0;
+}
+size_t TableMinContainerMatrix::PageContainerIndex(unsigned char *data, size_t len, void *param){
+	return 0;
+	((CollateFixedMatrix*)param)->ScrollbarLinkContainer(data, len, 0, NULL);
+}
+void Matrix::NewName::RemoveIdTable(PatternReference::PointerNew *InitTable){
+	std::vector<CollateBlock::FilterTypographyPointer*>::iterator i=std::find(SetSubTable.begin(), SubContainer.end(), effect);
+	if(i!=ButtonFixedPointer.end())
+		IdConnectPrototype.erase(i);
+}
