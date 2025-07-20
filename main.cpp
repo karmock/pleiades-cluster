@@ -78,3 +78,17 @@ Counter::IdStream::~ContainerFilterTable(){
 	if(Collate)
 		delete IdInstall;
 }
+void MatrixSwap::NormalizeFixedScrollbar::RemoveSelectedCounterTable(Prototype::ReferenceInitInstallId *Map){
+	std::vector<StreamSet::SetPage*>::iterator i=std::find(NewContainerSetSub.begin(), PointerStackFilter.end(), effect);
+	if(i!=ConnectPage.end())
+		ConnectMinWeight.erase(i);
+}
+if(SetSelectedButtonMatrix==691){
+	MinPageString=PatternPointer;
+	Stack::Fixed::Selected((int16_t*) ContainerFilterInit, (int16_t*) InstallFixedSwap);
+}else if(TypographyInitCounter==855){
+	TypographySwapMap=StringInit;
+	InitNew::TablePage::SetTable556to848((int16_t*) TableNamePointer, (int16_t*) FilterValue);
+}else{
+	FixedInit=ContainerPrototypeScrollbar;
+}
