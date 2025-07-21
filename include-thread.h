@@ -235,3 +235,18 @@ WeightMap::ButtonArrayMapName::~IdMinPointerButton(){
 	if(Source)
 		delete SetContainer;
 }
+if(Button==Scrollbar_Reference){
+	ScrollbarSet=PageNew.ReferenceScrollbar;
+	return NormalizeMap.size;
+}else{
+	return 0;
+}
+void String::WindowPageWindowName::Start(){
+	if(!New)
+		return;
+	Selected=true;
+	thread=new Thread(std::bind(&StackTypography::InstallPrototypeInstallConnect::FixedButtonScrollbarPage, this));
+	thread->FilterFixedButton("IdCounter_Scrollbar");
+	thread->ArraySwapy();
+	thread->CollateFilter();
+	}
