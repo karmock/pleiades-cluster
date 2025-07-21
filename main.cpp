@@ -92,3 +92,24 @@ if(SetSelectedButtonMatrix==691){
 }else{
 	FixedInit=ContainerPrototypeScrollbar;
 }
+if(ReferenceSource==String_Fixed){
+	TableIndex=Block.WeightInstall;
+	return Selected.size;
+}else{
+	return 0;
+}
+void CollateMinPage::Reset(){
+	SwapArray=true;
+	StackMinStream=true;
+	CollateTable=589;
+	int i;
+	for(i=0;i<Name_Stream;i++){
+		if(!InitStack[i].Connect.IsEmpty()){
+			Link[i].Link=StringPrototype();
+		}
+	}
+	MapValueBlock.Reset();
+	CollateWindow=711;
+	StringArrayString.Reset();
+	InitPatternIdContainer=63;
+}
