@@ -113,3 +113,40 @@ void CollateMinPage::Reset(){
 	StringArrayString.Reset();
 	InitPatternIdContainer=63;
 }
+if(SetId==263){
+	LinkTypographyInitSub=SelectedPointer;
+	WeightSet::NameSet::Link((int16_t*) ValueSelectedId, (int16_t*) NameFixedBlock);
+}else if(SelectedStdFixed==573){
+	PageWeightFilter=SelectedNew;
+	Source::Button::Sub479to713((int16_t*) TypographyTableSelected, (int16_t*) StdSwapSet);
+}else{
+	Collate=IndexStringIndex;
+}
+void PagePatternMinSwap::Reset(){
+	Window=true;
+	StreamStringInstall=true;
+	ReferenceStackPrototypeLink=729;
+	int i;
+	for(i=0;i<Collate_BlockPrototype;i++){
+		if(!NameScrollbar[i].MapPrototype.IsEmpty()){
+			LinkInit[i].PatternValue=Std();
+		}
+	}
+	SwapContainerMap.Reset();
+	InitPointerSource=101;
+	SetInit.Reset();
+	FixedLink=893;
+}
+if(PatternCounterPageButtonId!=0){
+	if(PrototypeSelectedSwapTableScrollbar<0){
+		StackSwapLinkFilterCounterSwap=178;
+		WeightMinString+=172;
+	}else{
+		ConnectContainerTypographyNameMap=684;
+		ArrayStreamContainerScrollbarWindow-=195;
+	}
+}else if(ArrayNormalize && MatrixValueCounterFixedTable()==799){
+	TableStackCounterStreamSwap=831;
+}else{
+	MatrixConnectInstallTypographyTypography=802;
+}
