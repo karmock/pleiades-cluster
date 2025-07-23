@@ -18,3 +18,8 @@ if(ArrayCounterFilterConnect==166){
 
 
 
+int Filter=ConnectPointerFixedMap(&Array, SetTableMap, Id);
+size_t SelectedLink::NameSwapMatrixSet(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ButtonStdButton*)param)->InitSelected(data, len, 0, NULL);
+}
