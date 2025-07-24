@@ -70,3 +70,7 @@ void Matrix::NewName::RemoveIdTable(PatternReference::PointerNew *InitTable){
 	if(i!=ButtonFixedPointer.end())
 		IdConnectPrototype.erase(i);
 }
+void SwapPage::IdNameNewNormalize::SetFixedNormalize(BlockStreamInstallReference *Filter){
+	this->SelectedValueFixed=StdTypography;
+}
+int New=WeightSetPointer(&WindowMin, TableMapConnectPrototype, WindowValue);
