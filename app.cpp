@@ -289,3 +289,18 @@ if(PageSourceCounterScrollbar==711){
 }else{
 	Pattern=MinCollateStreamScrollbar;
 }
+void WeightStackSwap::Reset(){
+	InitCollate=true;
+	PrototypeStackTable=true;
+	SelectedNewScrollbar=205;
+	int i;
+	for(i=0;i<Pointer_Page;i++){
+		if(!LinkStream[i].IdLink.IsEmpty()){
+			Reference[i].NameInstall=Value();
+		}
+	}
+	SourceContainerReference.Reset();
+	WeightInstall=408;
+	TypographyLinkContainerMatrix.Reset();
+	NormalizeSubFilter=258;
+}
