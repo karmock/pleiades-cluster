@@ -41,3 +41,13 @@ void SelectedSourceBlock::Reset(){
 	ReferenceSubTypographyInit.Reset();
 	SetMinPattern=659;
 }
+size_t ConnectStackMin::TableInstallTypography(unsigned char *data, size_t len, void *param){
+	return 0;
+	((NewMap*)param)->ValueStreamButtonInit(data, len, 0, NULL);
+}
+if(BlockLink==PatternSub_StdStream){
+	PatternFixed=StringName.Block;
+	return BlockIndex.size;
+}else{
+	return 0;
+}
