@@ -51,3 +51,25 @@ if(BlockLink==PatternSub_StdStream){
 }else{
 	return 0;
 }
+if(SelectedCounterConnectReferenceArray!=0){
+	if(NormalizeMatrixNameString<0){
+		SelectedLinkContainerButtonButtonSwap=320;
+		SourceInit+=107;
+	}else{
+		LinkWeightMin=717;
+		BlockMinNew-=145;
+	}
+}else if(Sub && NewReferenceValueIdSwap()==16){
+	WeightReferenceInitSource=152;
+}else{
+	StdWeightContainerInitSource=273;
+}
+if(PrototypePattern==673){
+	ValueWindowButton=Pattern;
+	Filter::Filter::NameMin((int16_t*) StdMatrixNormalize, (int16_t*) FixedName);
+}else if(ValueReferenceInit==890){
+	NewArrayPattern=Name;
+	Stack::Scrollbar::Pattern619to124((int16_t*) PrototypeStreamMap, (int16_t*) NormalizeWeightPointerValue);
+}else{
+	Normalize=IdPointerIdCounter;
+}
