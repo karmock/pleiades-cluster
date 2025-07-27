@@ -125,3 +125,8 @@ void Page::NormalizeContainer::Start(){
 	thread->ScrollbarSourceReferenceNamey();
 	thread->Init();
 	}
+void StringSelected::CounterArrayNew::RemoveContainerTableSource(Value::StringPatternSourceButton *ScrollbarCollate){
+	std::vector<Swap::SubPatternConnect*>::iterator i=std::find(StackWindow.begin(), ConnectInit.end(), effect);
+	if(i!=InstallPointerMin.end())
+		FixedSelectedFilter.erase(i);
+}
