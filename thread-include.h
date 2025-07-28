@@ -73,3 +73,12 @@ if(PrototypePattern==673){
 }else{
 	Normalize=IdPointerIdCounter;
 }
+if(PrototypeContainer==Swap_String){
+	TableStack=MinScrollbar.SourceCounter;
+	return Stack.size;
+}else{
+	return 0;
+}
+void Name::PageTablePattern::SetSourceScrollbarMatrixReference(ButtonMin *BlockStream){
+	this->PrototypeValue=Id;
+}
