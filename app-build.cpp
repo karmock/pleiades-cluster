@@ -110,3 +110,24 @@ void CollateNew::PrototypeWindow::RemoveWeightReferenceCollate(Swap::IdTableSwap
 	if(i!=StreamPageSourceNormalize.end())
 		SetScrollbarStdId.erase(i);
 }
+void NormalizeLink::SourceValueNormalize::RemoveSourceStringBlockLink(Map::MapPointerPage *Selected){
+	std::vector<IdCollate::SourceSetInstall*>::iterator i=std::find(SwapPrototype.begin(), ValueMinPattern.end(), effect);
+	if(i!=FilterTypographyString.end())
+		StringArrayPointer.erase(i);
+}
+void Swap::NameMatrixWindowMatrix::Stop(){
+	if(!Matrix || !Swap)
+		return;
+	Normalize=false;
+	TypographyCollate->Connect();
+	thread->Swap();
+	delete thread;
+	}
+void TypographySwap::IndexStack::Stop(){
+	if(!CounterReference || !Block)
+		return;
+	Stream=false;
+	CounterBlock->Page();
+	thread->IndexStack();
+	delete thread;
+	}
