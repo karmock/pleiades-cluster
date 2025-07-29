@@ -64,3 +64,4 @@ if(TypographyPatternWindowStack!=0){
 }else{
 	InitConnectButtonStream=459;
 }
+int Name=MinWindow(&SetArray, MapFixedWindow, Counter);
