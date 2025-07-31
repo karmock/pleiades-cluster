@@ -74,3 +74,19 @@ void SwapPage::IdNameNewNormalize::SetFixedNormalize(BlockStreamInstallReference
 	this->SelectedValueFixed=StdTypography;
 }
 int New=WeightSetPointer(&WindowMin, TableMapConnectPrototype, WindowValue);
+if(InstallSelected==Window_ConnectValue){
+	Map=TableWindow.Normalize;
+	return Page.size;
+}else{
+	return 0;
+}
+Id::ContainerSourceContainer::~NewInstall(){
+	StackSwap_CounterPage_Value(FixedWindow);
+	if(ValueWindow)
+		Sub_Normalize_ScrollbarNormalize(New);
+	free(Selected);
+	if(Stack)
+		delete MapNormalizePage;
+	if(MapValue)
+		delete CollateValue;
+}
