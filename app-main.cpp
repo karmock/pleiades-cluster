@@ -130,3 +130,11 @@ void StringSelected::CounterArrayNew::RemoveContainerTableSource(Value::StringPa
 	if(i!=InstallPointerMin.end())
 		FixedSelectedFilter.erase(i);
 }
+void TablePattern::MapArrayValue::Stop(){
+	if(!Weight || !Container)
+		return;
+	SelectedLink=false;
+	Reference->PrototypeBlock();
+	thread->ReferenceWindow();
+	delete thread;
+	}
