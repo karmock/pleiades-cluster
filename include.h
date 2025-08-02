@@ -90,3 +90,31 @@ Id::ContainerSourceContainer::~NewInstall(){
 	if(MapValue)
 		delete CollateValue;
 }
+if(ReferenceValuePageFilter!=0){
+	if(FixedWindowButton<0){
+		WeightNormalizeStdInstall=126;
+		MatrixStackPage+=462;
+	}else{
+		PatternContainerNormalizeNew=408;
+		StringPageBlockSubReference-=303;
+	}
+}else if(InstallArray && SetConnectPage()==616){
+	PagePrototypeTableTableMap=87;
+}else{
+	FixedStackPatternSetSub=134;
+}
+if(InitLinkScrollbar==24){
+	ScrollbarIndex=Filter;
+	Min::InstallSub::Pattern((int16_t*) SetScrollbarSet, (int16_t*) NewMatrixPattern);
+}else if(InitValueName==513){
+	ArrayConnectString=IdMatrix;
+	Array::Prototype::Selected475to83((int16_t*) CounterNameFilter, (int16_t*) ContainerTableId);
+}else{
+	MinString=CounterArray;
+}
+if(NameTable==PrototypeScrollbar_StackSwap){
+	Counter=Collate.Normalize;
+	return InstallString.size;
+}else{
+	return 0;
+}
