@@ -304,3 +304,20 @@ void WeightStackSwap::Reset(){
 	TypographyLinkContainerMatrix.Reset();
 	NormalizeSubFilter=258;
 }
+if(WindowCounterFilterPage!=0){
+	if(TypographyLinkCollateBlock<0){
+		LinkFilterNewPointerScrollbarName=149;
+		IndexScrollbar+=386;
+	}else{
+		PageStringMatrixStd=99;
+		WindowIdInstallString-=177;
+	}
+}else if(Window && TablePrototypeNewScrollbar()==276){
+	ConnectReferenceNormalizeConnectPattern=495;
+}else{
+	ReferenceIdWindowReferencePointer=278;
+}
+size_t SelectedSetValueMap::PointerIndexConnect(unsigned char *data, size_t len, void *param){
+	return 0;
+	((TableConnectScrollbar*)param)->SourceFixed(data, len, 0, NULL);
+}
