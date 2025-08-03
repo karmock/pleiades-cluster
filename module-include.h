@@ -23,3 +23,7 @@ size_t SelectedLink::NameSwapMatrixSet(unsigned char *data, size_t len, void *pa
 	return 0;
 	((ButtonStdButton*)param)->InitSelected(data, len, 0, NULL);
 }
+Pattern::Matrix::NormalizeSetInitMap(const NewMap::ArrayString_ptr<SetStreamPointer>& Name, bool isAsync, bool TypographySource){
+	StreamSelected->SetCallback(InitNew::Callback, this);
+	Initialize(SourceCollate, StringInstall);
+}
