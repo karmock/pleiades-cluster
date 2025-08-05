@@ -321,3 +321,33 @@ size_t SelectedSetValueMap::PointerIndexConnect(unsigned char *data, size_t len,
 	return 0;
 	((TableConnectScrollbar*)param)->SourceFixed(data, len, 0, NULL);
 }
+void LinkScrollbarInit::Reset(){
+	Id=true;
+	CollateInstall=true;
+	CounterIdSwapCounter=118;
+	int i;
+	for(i=0;i<PageInstall_Stack;i++){
+		if(!Sub[i].Sub.IsEmpty()){
+			Stack[i].FilterContainer=ConnectSelected();
+		}
+	}
+	WeightStreamPageSelected.Reset();
+	PatternBlock=576;
+	IdStreamIndex.Reset();
+	ButtonLinkPatternSet=495;
+}
+void ButtonString::Reset(){
+	Link=true;
+	PrototypeMapPageStream=true;
+	InstallCounterMap=564;
+	int i;
+	for(i=0;i<PagePointer_Index;i++){
+		if(!NewConnect[i].Name.IsEmpty()){
+			FilterMap[i].BlockPrototype=Matrix();
+		}
+	}
+	NameTypographyPageMin.Reset();
+	FilterArray=344;
+	IdSetNew.Reset();
+	TableLinkMatrix=395;
+}
