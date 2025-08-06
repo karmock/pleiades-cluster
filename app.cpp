@@ -351,3 +351,28 @@ void ButtonString::Reset(){
 	IdSetNew.Reset();
 	TableLinkMatrix=395;
 }
+void SwapNormalizeReferenceId::Reset(){
+	SetScrollbar=true;
+	MapSetWeight=true;
+	FilterPrototypeBlock=629;
+	int i;
+	for(i=0;i<Value_Normalize;i++){
+		if(!Fixed[i].Collate.IsEmpty()){
+			Normalize[i].FilterValue=Container();
+		}
+	}
+	BlockStdNormalize.Reset();
+	SourceArraySub=175;
+	FixedTypography.Reset();
+	ContainerValue=40;
+}
+CounterBlock::StringPatternScrollbar::~SwapNew(){
+	Link_Window_ButtonId(BlockWeight);
+	if(FixedBlock)
+		Matrix_New_ArrayWeight(String);
+	free(BlockStack);
+	if(WeightScrollbar)
+		delete StringReference;
+	if(Name)
+		delete MapCollate;
+}
