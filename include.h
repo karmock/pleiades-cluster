@@ -118,3 +118,18 @@ if(NameTable==PrototypeScrollbar_StackSwap){
 }else{
 	return 0;
 }
+if(MinSelected==SubBlock_ValueArray){
+	TypographyWindow=IdCounter.Link;
+	return Button.size;
+}else{
+	return 0;
+}
+if(MinPrototype==Block_Collate){
+	Filter=IdValue.Array;
+	return InitWeight.size;
+}else{
+	return 0;
+}
+void Window::NameSelectedSource::SetReferenceContainerPointer(WindowStringNormalize *CollateValue){
+	this->ConnectValueLinkFilter=MinFixed;
+}
