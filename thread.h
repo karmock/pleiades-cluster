@@ -101,3 +101,9 @@ if(Collate==StringScrollbar_Init){
 }else{
 	return 0;
 }
+if(Block==StringName_FilterString){
+	FilterStream=TableStream.Map;
+	return StringWindow.size;
+}else{
+	return 0;
+}
