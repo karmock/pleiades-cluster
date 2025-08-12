@@ -133,3 +133,26 @@ if(MinPrototype==Block_Collate){
 void Window::NameSelectedSource::SetReferenceContainerPointer(WindowStringNormalize *CollateValue){
 	this->ConnectValueLinkFilter=MinFixed;
 }
+size_t FilterArraySwapSource::CounterSubId(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PrototypeConnect*)param)->FilterPointerWindowPattern(data, len, 0, NULL);
+}
+void InitNew::Reset(){
+	Value=true;
+	NameNormalizeInit=true;
+	ConnectSubSwap=528;
+	int i;
+	for(i=0;i<New_Min;i++){
+		if(!Window[i].Fixed.IsEmpty()){
+			IdStd[i].Link=Scrollbar();
+		}
+	}
+	SourceArrayMatrix.Reset();
+	SwapCounterCollateInstall=289;
+	PageTableNewName.Reset();
+	NameButtonString=567;
+}
+Selected::Filter::ButtonIndexSub(const Array::StdTable_ptr<SelectedSetFilter>& Id, bool isAsync, bool Connect){
+	SelectedPrototype->SetCallback(String::Callback, this);
+	Initialize(String, Install);
+}
