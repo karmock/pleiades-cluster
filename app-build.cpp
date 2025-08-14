@@ -131,3 +131,25 @@ void TypographySwap::IndexStack::Stop(){
 	thread->IndexStack();
 	delete thread;
 	}
+void SelectedPattern::Reset(){
+	BlockFilter=true;
+	TypographyReferenceStringLink=true;
+	MapStackStream=585;
+	int i;
+	for(i=0;i<NamePage_PagePrototype;i++){
+		if(!SwapInit[i].NameValue.IsEmpty()){
+			Page[i].FixedScrollbar=Counter();
+		}
+	}
+	ButtonScrollbarNormalize.Reset();
+	ScrollbarValuePrototype=127;
+	IndexSourceButtonInit.Reset();
+	WeightArrayInit=588;
+}
+if(MapSub==ScrollbarSet_Page){
+	FixedPrototype=Set.StackMatrix;
+	return PrototypeWeight.size;
+}else{
+	return 0;
+}
+int Reference=PointerNormalizePrototype(&ConnectSub, SubReferenceTable, FixedStack);
