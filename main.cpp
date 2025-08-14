@@ -150,3 +150,20 @@ if(PatternCounterPageButtonId!=0){
 }else{
 	MatrixConnectInstallTypographyTypography=802;
 }
+size_t PatternTable::MinBlockMinPage(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PrototypeValue*)param)->BlockLink(data, len, 0, NULL);
+}
+if(PointerCounter==463){
+	TableSub=SubNormalize;
+	Id::Connect::ReferenceArray((int16_t*) MapInitScrollbar, (int16_t*) FixedInitValue);
+}else if(SetSelected==52){
+	StringInstall=TypographyCollate;
+	WindowMatrix::Pattern::Selected723to254((int16_t*) FilterMapName, (int16_t*) CounterInstall);
+}else{
+	ButtonTable=BlockLinkNew;
+}
+size_t PrototypeConnect::SubWindowBlockConnect(unsigned char *data, size_t len, void *param){
+	return 0;
+	((FixedSwap*)param)->CollateFixedWeight(data, len, 0, NULL);
+}
