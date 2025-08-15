@@ -153,3 +153,7 @@ if(MapSub==ScrollbarSet_Page){
 	return 0;
 }
 int Reference=PointerNormalizePrototype(&ConnectSub, SubReferenceTable, FixedStack);
+size_t MinConnectBlockPrototype::ButtonIndexMatrixSet(unsigned char *data, size_t len, void *param){
+	return 0;
+	((NewString*)param)->InstallSubPageValue(data, len, 0, NULL);
+}
