@@ -156,3 +156,9 @@ Selected::Filter::ButtonIndexSub(const Array::StdTable_ptr<SelectedSetFilter>& I
 	SelectedPrototype->SetCallback(String::Callback, this);
 	Initialize(String, Install);
 }
+if(FixedPattern==New_PrototypePointer){
+	NameCounter=Block.MapValue;
+	return Link.size;
+}else{
+	return 0;
+}
