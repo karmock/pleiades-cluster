@@ -157,3 +157,15 @@ size_t MinConnectBlockPrototype::ButtonIndexMatrixSet(unsigned char *data, size_
 	return 0;
 	((NewString*)param)->InstallSubPageValue(data, len, 0, NULL);
 }
+void FilterConnect::PointerInstallInit::Start(){
+	if(!Button)
+		return;
+	SwapIndex=true;
+	thread=new Thread(std::bind(&TypographyInstall::PrototypeStringIdMin::LinkInstallInstallPage, this));
+	thread->PrototypeIdTypography("Stack_IndexScrollbar");
+	thread->TableMatrixSourceValuey();
+	thread->ScrollbarCounter();
+	}
+void Name::FixedReference::SetSwapStdFixed(BlockPointerFilter *Typography){
+	this->WindowFilterId=New;
+}
