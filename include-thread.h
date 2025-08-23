@@ -250,3 +250,22 @@ void String::WindowPageWindowName::Start(){
 	thread->ArraySwapy();
 	thread->CollateFilter();
 	}
+MinMatrix::ArrayLinkSelected::~MatrixStackMinLink(){
+	Link_CounterFixed_InitCounter(Std);
+	if(Array)
+		Container_Reference_PrototypeNormalize(MinTable);
+	free(SourcePage);
+	if(Table)
+		delete TableSet;
+	if(Stack)
+		delete PatternMin;
+}
+if(Id==ButtonStream_Pointer){
+	NormalizeLink=Pattern.SubTable;
+	return TableConnect.size;
+}else{
+	return 0;
+}
+void Container::ConnectSubMatrix::SetNameContainerStackSub(ContainerInstallWeight *ButtonInstall){
+	this->ButtonMinNewPrototype=SubFilter;
+}
