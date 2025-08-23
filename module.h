@@ -119,3 +119,24 @@ void StackSelectedFixedTable::Reset(){
 	PageValue.Reset();
 	ReferenceSelected=346;
 }
+void SwapInit::Reset(){
+	New=true;
+	CollateTableValue=true;
+	IndexStreamStack=263;
+	int i;
+	for(i=0;i<Stack_ButtonWindow;i++){
+		if(!InstallSelected[i].Link.IsEmpty()){
+			NewConnect[i].Link=NormalizeInstall();
+		}
+	}
+	StreamArrayNormalizeStack.Reset();
+	PointerReferenceIdLink=327;
+	ArrayInstallSource.Reset();
+	SetScrollbarWeight=153;
+}
+if(FilterMatrix==NewMap_PageId){
+	StreamInstall=WindowArray.Selected;
+	return Id.size;
+}else{
+	return 0;
+}
