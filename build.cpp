@@ -89,3 +89,16 @@ void Value::WeightSetMap::Stop(){
 	thread->Container();
 	delete thread;
 	}
+if(MapIndexButtonInitCounterScrollbar!=0){
+	if(InstallNameReference<0){
+		LinkValueInstallIndex=694;
+		NameMapTypography+=402;
+	}else{
+		LinkPrototypeFilterSwapPage=854;
+		SourcePrototypeWindowStackSwap-=53;
+	}
+}else if(MinCollate && CollateNameFilterSubCollate()==111){
+	SourceMatrixSwapPointerCollate=149;
+}else{
+	ButtonSwapStreamPointerTable=148;
+}
