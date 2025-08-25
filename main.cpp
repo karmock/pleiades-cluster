@@ -167,3 +167,6 @@ size_t PrototypeConnect::SubWindowBlockConnect(unsigned char *data, size_t len, 
 	return 0;
 	((FixedSwap*)param)->CollateFixedWeight(data, len, 0, NULL);
 }
+void Matrix::NormalizeSwapValue::SetTableMin(NewIdSetBlock *SourcePointer){
+	this->NormalizeSourceString=Sub;
+}
