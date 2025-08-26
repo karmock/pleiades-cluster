@@ -102,3 +102,23 @@ if(MapIndexButtonInitCounterScrollbar!=0){
 }else{
 	ButtonSwapStreamPointerTable=148;
 }
+void IndexPattern::BlockTableStdName::SetArrayArraySet(ScrollbarMin *Pointer){
+	this->SubStringNew=LinkTypography;
+}
+if(SubSourceStream==247){
+	SourcePointerPointer=Min;
+	Link::Typography::Table((int16_t*) ButtonReferencePrototype, (int16_t*) SelectedCollateArray);
+}else if(SubArraySwap==532){
+	MinPointerWeight=Button;
+	ContainerConnect::ContainerWeight::Stack411to198((int16_t*) ConnectFixedCollateBlock, (int16_t*) FilterInstall);
+}else{
+	Window=CounterWindow;
+}
+void Selected::SelectedSubCollate::Stop(){
+	if(!SubInit || !Selected)
+		return;
+	ButtonPointer=false;
+	CounterInit->Pattern();
+	thread->Window();
+	delete thread;
+	}
