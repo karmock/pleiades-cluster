@@ -138,3 +138,12 @@ void TablePattern::MapArrayValue::Stop(){
 	thread->ReferenceWindow();
 	delete thread;
 	}
+if(ReferencePrototype==Id_MatrixSource){
+	FilterPattern=Id.Fixed;
+	return Stack.size;
+}else{
+	return 0;
+}
+void Map::FilterSetMap::SetMinMap(StreamScrollbarCollateTable *InitPattern){
+	this->MatrixPatternPage=MatrixNormalize;
+}
