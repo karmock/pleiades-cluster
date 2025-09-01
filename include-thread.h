@@ -269,3 +269,24 @@ if(Id==ButtonStream_Pointer){
 void Container::ConnectSubMatrix::SetNameContainerStackSub(ContainerInstallWeight *ButtonInstall){
 	this->ButtonMinNewPrototype=SubFilter;
 }
+if(Pointer==NormalizeStream_ReferenceStream){
+	Button=FixedPage.ContainerSelected;
+	return ButtonStream.size;
+}else{
+	return 0;
+}
+if(ContainerNormalize==SelectedInit_Weight){
+	CollateReference=MapSource.Page;
+	return PageFixed.size;
+}else{
+	return 0;
+}
+if(WindowSource==61){
+	SetWindowMinConnect=TableStream;
+	StdSub::Counter::Stream((int16_t*) CounterLinkConnectSource, (int16_t*) SwapArraySelectedConnect);
+}else if(PointerConnectMap==766){
+	CollateCounterPage=StringLink;
+	SwapSource::SubReference::CollateValue175to671((int16_t*) StringContainerStream, (int16_t*) TableTable);
+}else{
+	Table=FixedPatternName;
+}
