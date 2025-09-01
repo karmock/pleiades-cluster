@@ -147,3 +147,18 @@ if(ReferencePrototype==Id_MatrixSource){
 void Map::FilterSetMap::SetMinMap(StreamScrollbarCollateTable *InitPattern){
 	this->MatrixPatternPage=MatrixNormalize;
 }
+if(BlockValue==InitSwap_NameSource){
+	Swap=Name.NormalizeTable;
+	return SelectedSub.size;
+}else{
+	return 0;
+}
+void Table::SelectedNewValueSet::Start(){
+	if(!PointerArray)
+		return;
+	ReferenceMap=true;
+	thread=new Thread(std::bind(&ValueStack::ContainerMap::TableCounterStream, this));
+	thread->WindowButton("Weight_StringScrollbar");
+	thread->FixedWindowCountery();
+	thread->Array();
+	}
