@@ -46,3 +46,21 @@ void PageLinkName::Reset(){
 	ButtonCounterValue.Reset();
 	MatrixTypography=373;
 }
+size_t SourceStd::SwapSourceSourceConnect(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SourceNormalizeSetMatrix*)param)->ButtonLinkName(data, len, 0, NULL);
+}
+if(MatrixNormalize==LinkSub_ReferenceNormalize){
+	StringWindow=Normalize.ContainerPattern;
+	return Page.size;
+}else{
+	return 0;
+}
+void Normalize::InstallWindowId::Stop(){
+	if(!Counter || !CounterSwap)
+		return;
+	Pointer=false;
+	String->PrototypeSource();
+	thread->IdNormalize();
+	delete thread;
+	}
