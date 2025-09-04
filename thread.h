@@ -107,3 +107,28 @@ if(Block==StringName_FilterString){
 }else{
 	return 0;
 }
+if(WindowNormalizePointerBlock!=0){
+	if(NewCollatePrototype<0){
+		SwapValueNameWeightReferenceBlock=867;
+		CounterFixedConnect+=239;
+	}else{
+		BlockNameNormalizeSub=851;
+		PageContainerArrayContainer-=890;
+	}
+}else if(Button && FixedTableArrayValue()==749){
+	CollateNewNormalizeConnect=169;
+}else{
+	MatrixScrollbarInitWeightNormalize=250;
+}
+void Init::ScrollbarName::Start(){
+	if(!LinkPage)
+		return;
+	PrototypeMap=true;
+	thread=new Thread(std::bind(&Block::ReferencePatternIndex::MapMinName, this));
+	thread->StringSetArray("SetMin_MatrixInit");
+	thread->ValueCounterCollatey();
+	thread->PatternWindow();
+	}
+void TableTypography::InitSwap::SetValueSwap(FilterPrototypeCollateScrollbar *Link){
+	this->SourceTableLink=Collate;
+}
