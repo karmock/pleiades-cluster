@@ -140,3 +140,9 @@ if(FilterMatrix==NewMap_PageId){
 }else{
 	return 0;
 }
+if(ArrayCollate==LinkTypography_StreamSwap){
+	PatternBlock=Selected.Link;
+	return Stream.size;
+}else{
+	return 0;
+}
