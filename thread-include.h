@@ -82,3 +82,26 @@ if(PrototypeContainer==Swap_String){
 void Name::PageTablePattern::SetSourceScrollbarMatrixReference(ButtonMin *BlockStream){
 	this->PrototypeValue=Id;
 }
+void Init::ValuePrototypeSource::Stop(){
+	if(!IdSource || !New)
+		return;
+	InitMap=false;
+	FixedStream->ContainerSub();
+	thread->SubPage();
+	delete thread;
+	}
+void TableLinkBlock::Reset(){
+	CounterArray=true;
+	SelectedCounter=true;
+	ValuePatternWeightCollate=298;
+	int i;
+	for(i=0;i<ScrollbarSwap_StreamContainer;i++){
+		if(!StackInit[i].Selected.IsEmpty()){
+			Std[i].BlockString=FixedCollate();
+		}
+	}
+	ScrollbarIndex.Reset();
+	PatternWeightPage=406;
+	WindowSwap.Reset();
+	ContainerLinkSub=413;
+}
