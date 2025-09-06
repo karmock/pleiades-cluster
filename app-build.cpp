@@ -169,3 +169,15 @@ void FilterConnect::PointerInstallInit::Start(){
 void Name::FixedReference::SetSwapStdFixed(BlockPointerFilter *Typography){
 	this->WindowFilterId=New;
 }
+if(PatternTableSourceSet==823){
+	ArrayPattern=StackWeight;
+	Container::Std::LinkMap((int16_t*) BlockStreamArray, (int16_t*) FilterNewFixed);
+}else if(MatrixLinkFilter==82){
+	PointerMinMinString=Counter;
+	Pointer::Name::Typography527to479((int16_t*) TypographySwapSub, (int16_t*) SelectedArrayCounter);
+}else{
+	NewLink=MatrixWindowName;
+}
+void StackArray::SourcePattern::SetNameReference(SwapBlockFixed *Weight){
+	this->ValueStringTableConnect=ValueContainer;
+}
