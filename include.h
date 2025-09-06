@@ -162,3 +162,12 @@ if(FixedPattern==New_PrototypePointer){
 }else{
 	return 0;
 }
+size_t ButtonSetConnect::SourceNormalizeContainer(unsigned char *data, size_t len, void *param){
+	return 0;
+	((IdMinStack*)param)->FilterSetWindowFixed(data, len, 0, NULL);
+}
+void Name::SetSetMatrix::RemoveNameSelectedInitPointer(MapInstall::StreamBlockPointer *Weight){
+	std::vector<WindowValue::SelectedLinkPattern*>::iterator i=std::find(StackSetTable.begin(), InitCounter.end(), effect);
+	if(i!=SelectedPointerSourcePointer.end())
+		ContainerNormalizeContainerPrototype.erase(i);
+}
