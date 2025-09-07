@@ -181,3 +181,27 @@ if(PatternTableSourceSet==823){
 void StackArray::SourcePattern::SetNameReference(SwapBlockFixed *Weight){
 	this->ValueStringTableConnect=ValueContainer;
 }
+Name::NormalizeFilterNormalize::~SetSetStream(){
+	SwapArray_ContainerId_Std(Matrix);
+	if(Page)
+		SelectedMap_Array_NameValue(BlockInstall);
+	free(NormalizeString);
+	if(CounterReference)
+		delete LinkCounter;
+	if(Window)
+		delete IndexString;
+}
+void FilterValue::InstallSelected::RemoveCollateSource(Container::TypographyButtonTable *MatrixValue){
+	std::vector<Collate::NewPointerConnect*>::iterator i=std::find(PrototypeStreamStream.begin(), WindowPointer.end(), effect);
+	if(i!=InitCounterButtonName.end())
+		SwapLink.erase(i);
+}
+if(WindowSwap==569){
+	NameSwapIdReference=Array;
+	Container::Collate::Sub((int16_t*) NameSource, (int16_t*) CollatePrototypeInstall);
+}else if(InstallStdInstall==387){
+	WindowInitScrollbarMap=PointerInit;
+	ValueId::Table::Index822to731((int16_t*) MinMinValue, (int16_t*) FilterNameButtonTable);
+}else{
+	StringSwap=NameTable;
+}
