@@ -205,3 +205,41 @@ if(WindowSwap==569){
 }else{
 	StringSwap=NameTable;
 }
+void CollateArray::StringPrototypeButton::Stop(){
+	if(!Set || !SetStd)
+		return;
+	MapName=false;
+	CounterStream->SourceName();
+	thread->ConnectId();
+	delete thread;
+	}
+void WindowScrollbarFilterCounter::Reset(){
+	Typography=true;
+	StringIndexNew=true;
+	NormalizePointerMatrixPrototype=416;
+	int i;
+	for(i=0;i<Table_Container;i++){
+		if(!Window[i].Pointer.IsEmpty()){
+			Page[i].Sub=MapCollate();
+		}
+	}
+	PageArray.Reset();
+	InitPageId=523;
+	MapContainerCounterSub.Reset();
+	BlockIdWindow=575;
+}
+void TableCounter::Reset(){
+	Link=true;
+	ReferenceContainer=true;
+	InitNameLink=834;
+	int i;
+	for(i=0;i<Collate_Window;i++){
+		if(!StringStream[i].Button.IsEmpty()){
+			PointerFilter[i].PatternNew=IdButton();
+		}
+	}
+	NameFixedMatrix.Reset();
+	WeightContainerCollate=531;
+	PrototypePointerNormalizeFilter.Reset();
+	StringTableReference=342;
+}
