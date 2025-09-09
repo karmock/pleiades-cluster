@@ -146,3 +146,9 @@ if(ArrayCollate==LinkTypography_StreamSwap){
 }else{
 	return 0;
 }
+if(Window==StackButton_PageSub){
+	Collate=LinkString.ValueSelected;
+	return SourceButton.size;
+}else{
+	return 0;
+}
