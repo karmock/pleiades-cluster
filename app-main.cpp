@@ -162,3 +162,7 @@ void Table::SelectedNewValueSet::Start(){
 	thread->FixedWindowCountery();
 	thread->Array();
 	}
+size_t TypographyPageSelected::SubId(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ContainerStringSelected*)param)->PageSwap(data, len, 0, NULL);
+}
