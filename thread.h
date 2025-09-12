@@ -132,3 +132,22 @@ void Init::ScrollbarName::Start(){
 void TableTypography::InitSwap::SetValueSwap(FilterPrototypeCollateScrollbar *Link){
 	this->SourceTableLink=Collate;
 }
+void ButtonTypographyValue::Reset(){
+	Stack=true;
+	InitFilter=true;
+	ValueContainerInit=841;
+	int i;
+	for(i=0;i<ButtonSource_PrototypeSet;i++){
+		if(!Fixed[i].WeightInstall.IsEmpty()){
+			Set[i].Button=Swap();
+		}
+	}
+	BlockPatternSubButton.Reset();
+	TableMatrixContainer=140;
+	WeightSelectedSelected.Reset();
+	SourceWindow=443;
+}
+size_t IdMapStreamFilter::ConnectMinLinkPage(unsigned char *data, size_t len, void *param){
+	return 0;
+	((MapSwapSourceStd*)param)->ContainerReference(data, len, 0, NULL);
+}
