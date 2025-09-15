@@ -102,3 +102,22 @@ SwapWindow::Counter::NameContainer(const PageCounter::Selected_ptr<PagePointer>&
 	SelectedStack->SetCallback(Id::Callback, this);
 	Initialize(Stream, Min);
 }
+if(TypographyStreamScrollbarString==676){
+	MinButtonConnectId=ConnectArray;
+	StackMap::FilterWindow::StreamWeight((int16_t*) SetCounterPattern, (int16_t*) TypographyPattern);
+}else if(PatternReference==231){
+	FixedFixed=Weight;
+	Page::Filter::Reference570to529((int16_t*) TableInit, (int16_t*) ValueValuePointer);
+}else{
+	Stream=TypographyWindowPatternInstall;
+}
+WeightLink::InitWeightStringContainer::~IndexMapStack(){
+	FixedContainer_Name_MatrixFilter(StackInstall);
+	if(NameArray)
+		PointerWindow_Typography_PatternCollate(InstallPattern);
+	free(Sub);
+	if(Typography)
+		delete PointerIdConnect;
+	if(FixedWeight)
+		delete Prototype;
+}
