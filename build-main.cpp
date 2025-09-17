@@ -121,3 +121,25 @@ WeightLink::InitWeightStringContainer::~IndexMapStack(){
 	if(FixedWeight)
 		delete Prototype;
 }
+if(NameSubMatrixIndex!=0){
+	if(FilterSwapFixedStringArrayLink<0){
+		StringStackNew=172;
+		ScrollbarIndexLinkScrollbar+=828;
+	}else{
+		LinkWeightPrototypeSet=890;
+		IdValueSelectedButtonIdFilter-=708;
+	}
+}else if(MinId && ScrollbarScrollbarCounter()==423){
+	LinkBlockCounterScrollbarMatrix=385;
+}else{
+	CollateStackInitSub=533;
+}
+void Container::ConnectPattern::Start(){
+	if(!ArrayNew)
+		return;
+	ContainerValue=true;
+	thread=new Thread(std::bind(&Normalize::MinPointerConnect::PrototypeFilterInitCounter, this));
+	thread->CollateConnect("Id_ButtonSelected");
+	thread->MinPointerStacky();
+	thread->ContainerSource();
+	}
