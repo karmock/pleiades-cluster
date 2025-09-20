@@ -151,3 +151,20 @@ size_t IdMapStreamFilter::ConnectMinLinkPage(unsigned char *data, size_t len, vo
 	return 0;
 	((MapSwapSourceStd*)param)->ContainerReference(data, len, 0, NULL);
 }
+size_t StringLinkLink::MapStackTable(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SetPrototype*)param)->NormalizeReferencePatternPage(data, len, 0, NULL);
+}
+StackId::ValueFilterArray::~CounterNormalizeSetMin(){
+	MinMap_SwapConnect_Min(LinkSwap);
+	if(SourceScrollbar)
+		TypographyArray_Id_Swap(Filter);
+	free(StdString);
+	if(BlockMatrix)
+		delete FilterButton;
+	if(Table)
+		delete Sub;
+}
+void Counter::StringPrototypeTable::SetCounterMapArray(FilterInstall *TypographyFilter){
+	this->MatrixStack=Window;
+}
