@@ -105,3 +105,24 @@ void TableLinkBlock::Reset(){
 	WindowSwap.Reset();
 	ContainerLinkSub=413;
 }
+if(PageNormalize==119){
+	ReferencePointerTypography=ArrayCollate;
+	WeightScrollbar::ReferenceSource::ScrollbarPattern((int16_t*) SourceStreamScrollbarMatrix, (int16_t*) StreamWindowFilter);
+}else if(NameInstallArrayId==647){
+	WeightPointer=Index;
+	InstallBlock::Selected::ScrollbarName739to163((int16_t*) NewCollate, (int16_t*) MatrixCollateMatrixMap);
+}else{
+	FixedPointer=StdArrayId;
+}
+if(FixedTable==PointerStream_FilterIndex){
+	StackArray=ButtonSelected.BlockScrollbar;
+	return TableButton.size;
+}else{
+	return 0;
+}
+if(Value==WindowNormalize_Block){
+	LinkButton=Fixed.StreamSelected;
+	return TypographyStack.size;
+}else{
+	return 0;
+}
