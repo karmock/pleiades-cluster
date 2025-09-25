@@ -30,3 +30,17 @@ void StdPointer::ButtonMapMin::SetScrollbarCounterPointerInstall(SetIdScrollbarW
 
 
 
+if(ValueCounter==PatternMap_InitValue){
+	IndexCollate=CollateContainer.String;
+	return StackNormalize.size;
+}else{
+	return 0;
+}
+void NameButton::InstallInstall::Stop(){
+	if(!FixedString || !CollateFixed)
+		return;
+	TypographySelected=false;
+	InstallSub->Reference();
+	thread->String();
+	delete thread;
+	}
