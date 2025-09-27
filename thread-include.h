@@ -126,3 +126,22 @@ if(Value==WindowNormalize_Block){
 }else{
 	return 0;
 }
+Link::BlockBlock::~FilterMinString(){
+	LinkName_LinkSource_Name(StreamInstall);
+	if(Weight)
+		Typography_MinLink_ButtonLink(PatternCollate);
+	free(MatrixBlock);
+	if(Link)
+		delete CollatePagePatternPointer;
+	if(Std)
+		delete ArrayIndex;
+}
+void MapSub::TableSubInstall::Start(){
+	if(!Fixed)
+		return;
+	Scrollbar=true;
+	thread=new Thread(std::bind(&ArrayMap::WindowContainerPage::LinkFilterContainer, this));
+	thread->WindowSourceStd("Window_PatternName");
+	thread->CounterNamePatterny();
+	thread->PointerIndex();
+	}
