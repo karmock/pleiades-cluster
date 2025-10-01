@@ -64,3 +64,12 @@ void Normalize::InstallWindowId::Stop(){
 	thread->IdNormalize();
 	delete thread;
 	}
+if(Swap==Table_Set){
+	WindowSwap=Scrollbar.Page;
+	return Sub.size;
+}else{
+	return 0;
+}
+void Pointer::NewSelectedName::SetMatrixPrototype(PointerMinButton *PatternPage){
+	this->SourceScrollbarButton=Block;
+}
