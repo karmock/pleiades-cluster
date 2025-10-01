@@ -243,3 +243,18 @@ void TableCounter::Reset(){
 	PrototypePointerNormalizeFilter.Reset();
 	StringTableReference=342;
 }
+void WindowConnect::Reset(){
+	CounterCollate=true;
+	StringStreamArray=true;
+	IdInitSelected=610;
+	int i;
+	for(i=0;i<CollatePointer_WeightReference;i++){
+		if(!Fixed[i].PatternSource.IsEmpty()){
+			Reference[i].PatternStream=Pointer();
+		}
+	}
+	SourcePointerMatrix.Reset();
+	WindowPointer=366;
+	CollateWindowContainer.Reset();
+	StackSelectedMin=607;
+}
