@@ -170,3 +170,17 @@ size_t PrototypeConnect::SubWindowBlockConnect(unsigned char *data, size_t len, 
 void Matrix::NormalizeSwapValue::SetTableMin(NewIdSetBlock *SourcePointer){
 	this->NormalizeSourceString=Sub;
 }
+size_t ButtonMinNameSelected::SelectedStream(unsigned char *data, size_t len, void *param){
+	return 0;
+	((StringMatrixArrayWeight*)param)->NewPageStackScrollbar(data, len, 0, NULL);
+}
+SwapStack::CollateSwapStd::~PrototypeSelectedSetCounter(){
+	StackMin_SourceStd_Pattern(Stream);
+	if(Stack)
+		Id_CounterFilter_SubPrototype(StackStream);
+	free(ContainerPage);
+	if(ContainerFixed)
+		delete ArrayCounterButton;
+	if(MatrixFilter)
+		delete Connect;
+}
