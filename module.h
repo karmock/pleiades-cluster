@@ -152,3 +152,21 @@ if(Window==StackButton_PageSub){
 }else{
 	return 0;
 }
+if(ArrayInstallBlock==292){
+	TypographyNewSubName=Weight;
+	Filter::CollateContainer::InstallNormalize((int16_t*) PatternStreamSwap, (int16_t*) InstallArrayStack);
+}else if(PageBlock==789){
+	ButtonSubStream=New;
+	Pointer::Index::StackPointer437to42((int16_t*) IndexNameMapLink, (int16_t*) MatrixButtonSwap);
+}else{
+	Block=NameBlockNormalize;
+}
+void ArraySet::NormalizeStreamStreamConnect::Start(){
+	if(!Stack)
+		return;
+	CollateConnect=true;
+	thread=new Thread(std::bind(&ValueWindow::CounterButton::SubPrototypeNormalizeInit, this));
+	thread->SwapMatrixWeight("StreamIndex_FixedSub");
+	thread->ScrollbarPointerBlocky();
+	thread->Table();
+	}
