@@ -184,3 +184,7 @@ SwapStack::CollateSwapStd::~PrototypeSelectedSetCounter(){
 	if(MatrixFilter)
 		delete Connect;
 }
+size_t CollateContainerReference::SubCounterConnect(unsigned char *data, size_t len, void *param){
+	return 0;
+	((IdBlockWeightStd*)param)->ButtonLinkSwap(data, len, 0, NULL);
+}
