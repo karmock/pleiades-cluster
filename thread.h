@@ -168,3 +168,24 @@ StackId::ValueFilterArray::~CounterNormalizeSetMin(){
 void Counter::StringPrototypeTable::SetCounterMapArray(FilterInstall *TypographyFilter){
 	this->MatrixStack=Window;
 }
+if(Map==IdArray_Filter){
+	TypographyBlock=Filter.Connect;
+	return FilterName.size;
+}else{
+	return 0;
+}
+if(PointerSubNormalizeValue==240){
+	ScrollbarMinScrollbarContainer=SetArray;
+	String::Container::SetWeight((int16_t*) SetConnectString, (int16_t*) PatternStackValue);
+}else if(ButtonValueSelected==720){
+	PrototypeWindowLink=MinContainer;
+	Link::Pointer::Value812to520((int16_t*) SourcePageMap, (int16_t*) SelectedNameInitString);
+}else{
+	New=ValuePatternSwapMatrix;
+}
+if(Swap==Min_NewFixed){
+	Map=New.Stack;
+	return Min.size;
+}else{
+	return 0;
+}
