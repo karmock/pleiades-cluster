@@ -290,3 +290,22 @@ if(WindowSource==61){
 }else{
 	Table=FixedPatternName;
 }
+if(MinValuePointerReference==825){
+	ArrayCollate=Map;
+	Value::StringPointer::WeightValue((int16_t*) WindowStreamSub, (int16_t*) ScrollbarPage);
+}else if(FixedLinkStack==557){
+	ValueContainerId=MinPage;
+	NameSource::NormalizeSelected::IdSelected157to475((int16_t*) SetWindow, (int16_t*) NewScrollbarContainerNew);
+}else{
+	SourceWindow=ValueIdCollateInit;
+}
+int Stream=PointerSourcePrototypeString(&Swap, MinStringInstall, Page);
+void Init::FixedFilterNormalize::Start(){
+	if(!StreamScrollbar)
+		return;
+	Id=true;
+	thread=new Thread(std::bind(&MatrixPattern::IdButton::PrototypeSelected, this));
+	thread->FilterStringSetIndex("Id_SourceScrollbar");
+	thread->BlockPagePatternPointery();
+	thread->LinkTable();
+	}
