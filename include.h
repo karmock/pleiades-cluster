@@ -171,3 +171,32 @@ void Name::SetSetMatrix::RemoveNameSelectedInitPointer(MapInstall::StreamBlockPo
 	if(i!=SelectedPointerSourcePointer.end())
 		ContainerNormalizeContainerPrototype.erase(i);
 }
+if(PageStackInitCollateConnect!=0){
+	if(MapSourceSelectedPattern<0){
+		ValueInitIndexStackFilter=545;
+		PrototypeInstallFilter+=458;
+	}else{
+		ReferencePagePointerSwapPointer=202;
+		NewSubValueBlockInstall-=581;
+	}
+}else if(String && ScrollbarNewPage()==101){
+	CollateConnectStdMatrix=868;
+}else{
+	WeightPrototypeScrollbarFixedSource=344;
+}
+if(BlockName==Weight_Container){
+	WindowMap=Connect.Id;
+	return StackSub.size;
+}else{
+	return 0;
+}
+ArrayPattern::FilterPage::~FilterMatrixSource(){
+	PointerSub_Array_SourceNew(Array);
+	if(Page)
+		FixedSub_InstallScrollbar_Button(Pattern);
+	free(Counter);
+	if(Id)
+		delete StringBlockSet;
+	if(StackId)
+		delete ScrollbarSet;
+}
