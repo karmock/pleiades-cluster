@@ -44,3 +44,13 @@ void NameButton::InstallInstall::Stop(){
 	thread->String();
 	delete thread;
 	}
+size_t SwapStringWeightScrollbar::CollateInit(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SwapContainerStream*)param)->SelectedPointerContainerSelected(data, len, 0, NULL);
+}
+if(Value==StreamSet_Stack){
+	Stack=Pointer.Window;
+	return FixedPattern.size;
+}else{
+	return 0;
+}
