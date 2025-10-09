@@ -200,3 +200,21 @@ ArrayPattern::FilterPage::~FilterMatrixSource(){
 	if(StackId)
 		delete ScrollbarSet;
 }
+void Connect::CollateCounterValueId::Start(){
+	if(!New)
+		return;
+	MatrixInstall=true;
+	thread=new Thread(std::bind(&Container::SourceBlockSwapSub::BlockContainerTypography, this));
+	thread->ValueIdMatrix("Install_StackId");
+	thread->StdFilterInstallNamey();
+	thread->Source();
+	}
+if(Weight==Collate_InitCounter){
+	Source=Id.WindowPage;
+	return LinkStd.size;
+}else{
+	return 0;
+}
+void Filter::NewButton::SetIdArrayIdPage(PatternNormalizeButton *Init){
+	this->NormalizeBlockLink=ReferenceScrollbar;
+}
