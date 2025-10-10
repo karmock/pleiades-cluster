@@ -54,3 +54,17 @@ if(Value==StreamSet_Stack){
 }else{
 	return 0;
 }
+void BlockConnect::InitMatrixId::Stop(){
+	if(!Pointer || !CollateId)
+		return;
+	Value=false;
+	Connect->SwapSelected();
+	thread->NewMatrix();
+	delete thread;
+	}
+if(PrototypeCollate==Typography_IdPage){
+	Normalize=MapInit.FixedSelected;
+	return Prototype.size;
+}else{
+	return 0;
+}
