@@ -258,3 +258,25 @@ void WindowConnect::Reset(){
 	CollateWindowContainer.Reset();
 	StackSelectedMin=607;
 }
+void IdPatternName::Reset(){
+	Typography=true;
+	CollateStringCollate=true;
+	SetNewPatternSwap=543;
+	int i;
+	for(i=0;i<WindowSwap_StreamPage;i++){
+		if(!Fixed[i].Fixed.IsEmpty()){
+			Source[i].Min=BlockCollate();
+		}
+	}
+	ValueFixedConnect.Reset();
+	ScrollbarContainerInstall=196;
+	NormalizeWindowString.Reset();
+	ArraySelected=883;
+}
+if(Set==SourceFixed_Pattern){
+	ArrayBlock=Value.Reference;
+	return ButtonId.size;
+}else{
+	return 0;
+}
+int Button=WindowWindow(&Scrollbar, InstallStack, Set);
