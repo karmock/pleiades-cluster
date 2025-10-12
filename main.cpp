@@ -188,3 +188,11 @@ size_t CollateContainerReference::SubCounterConnect(unsigned char *data, size_t 
 	return 0;
 	((IdBlockWeightStd*)param)->ButtonLinkSwap(data, len, 0, NULL);
 }
+void PointerTable::CollatePointer::RemoveSubMapPointer(WeightReference::ArrayStream *Sub){
+	std::vector<CollateBlock::InstallPage*>::iterator i=std::find(StreamSubFilterFixed.begin(), StreamContainerPointer.end(), effect);
+	if(i!=LinkFilterMatrix.end())
+		PatternSourceContainerWindow.erase(i);
+}
+void InitTable::WindowStringNormalize::SetArraySetContainer(BlockInitCounterScrollbar *PointerInit){
+	this->MatrixStackContainerStack=Id;
+}
