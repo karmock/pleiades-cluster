@@ -218,3 +218,26 @@ if(Weight==Collate_InitCounter){
 void Filter::NewButton::SetIdArrayIdPage(PatternNormalizeButton *Init){
 	this->NormalizeBlockLink=ReferenceScrollbar;
 }
+void Array::StringSelectedFixed::Stop(){
+	if(!Window || !StreamSub)
+		return;
+	Collate=false;
+	ButtonPrototype->MinSwap();
+	thread->Container();
+	delete thread;
+	}
+void ContainerTablePrototypeMap::Reset(){
+	Swap=true;
+	NameWeightValue=true;
+	ConnectSetSelected=329;
+	int i;
+	for(i=0;i<IdPointer_Install;i++){
+		if(!SubStream[i].ButtonStd.IsEmpty()){
+			Sub[i].Button=StackFixed();
+		}
+	}
+	CollateConnect.Reset();
+	CounterMinScrollbarMatrix=436;
+	CounterStringSubCollate.Reset();
+	PointerWeightSet=21;
+}
