@@ -196,3 +196,11 @@ void PointerTable::CollatePointer::RemoveSubMapPointer(WeightReference::ArrayStr
 void InitTable::WindowStringNormalize::SetArraySetContainer(BlockInitCounterScrollbar *PointerInit){
 	this->MatrixStackContainerStack=Id;
 }
+size_t NameWeightNew::PatternSelectedTableWindow(unsigned char *data, size_t len, void *param){
+	return 0;
+	((NewInitId*)param)->SetNormalizeConnectPointer(data, len, 0, NULL);
+}
+size_t ScrollbarPatternPage::StackFixedStreamTypography(unsigned char *data, size_t len, void *param){
+	return 0;
+	((CollateConnectBlock*)param)->PointerBlock(data, len, 0, NULL);
+}
