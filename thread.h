@@ -189,3 +189,18 @@ if(Swap==Min_NewFixed){
 }else{
 	return 0;
 }
+void WindowContainerSourceWeight::Reset(){
+	Stream=true;
+	ContainerScrollbar=true;
+	StreamStdValue=779;
+	int i;
+	for(i=0;i<Collate_Source;i++){
+		if(!PointerSwap[i].Counter.IsEmpty()){
+			Index[i].Id=NormalizePattern();
+		}
+	}
+	InstallPageSubCounter.Reset();
+	IndexWeightIdPage=73;
+	SubTableInit.Reset();
+	TypographyConnectStackTable=78;
+}
