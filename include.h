@@ -241,3 +241,22 @@ void ContainerTablePrototypeMap::Reset(){
 	CounterStringSubCollate.Reset();
 	PointerWeightSet=21;
 }
+void SetLink::MapSourceInit::SetWeightInit(MapStd *Container){
+	this->ReferenceSelectedLink=FilterStack;
+}
+void ContainerSelected::StringNormalizeContainer::Stop(){
+	if(!Button || !Sub)
+		return;
+	InstallScrollbar=false;
+	LinkPointer->SubSet();
+	thread->ReferenceMatrix();
+	delete thread;
+	}
+void Array::CollatePageWindow::Stop(){
+	if(!PrototypeFixed || !ArrayMin)
+		return;
+	SubValue=false;
+	MinStack->New();
+	thread->StreamSwap();
+	delete thread;
+	}
