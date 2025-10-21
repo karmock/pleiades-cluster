@@ -166,3 +166,21 @@ size_t TypographyPageSelected::SubId(unsigned char *data, size_t len, void *para
 	return 0;
 	((ContainerStringSelected*)param)->PageSwap(data, len, 0, NULL);
 }
+void Connect::SourceStringValueFilter::RemoveCounterInstallMatrix(Stack::PrototypeNameInit *Page){
+	std::vector<TableLink::FilterSub*>::iterator i=std::find(SwapInitTable.begin(), ConnectPatternStreamCounter.end(), effect);
+	if(i!=ContainerPage.end())
+		IdInstallSwapTypography.erase(i);
+}
+if(TypographyPrototypeStringSwapPointer!=0){
+	if(ConnectWindowMapWeight<0){
+		ContainerPrototypeSourceString=628;
+		NameFilter+=639;
+	}else{
+		PointerMinStdFixed=832;
+		StringArrayFilterIndex-=399;
+	}
+}else if(ReferenceButton && ContainerFilterPrototypeInitFixed()==35){
+	NamePrototypeSelectedNew=51;
+}else{
+	ArrayStackFilterButtonSource=507;
+}
