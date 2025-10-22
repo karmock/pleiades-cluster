@@ -280,3 +280,11 @@ if(Set==SourceFixed_Pattern){
 	return 0;
 }
 int Button=WindowWindow(&Scrollbar, InstallStack, Set);
+void StreamBlock::ScrollbarNameInitStream::RemoveTableMapPattern(PatternInstall::StreamWindowCounter *BlockNormalize){
+	std::vector<Selected::StackIdBlock*>::iterator i=std::find(PatternTypographyMin.begin(), FixedNewButton.end(), effect);
+	if(i!=ContainerCounterSwap.end())
+		StackPage.erase(i);
+}
+void InstallValue::ValueScrollbar::SetValueLink(MapNormalize *MapInstall){
+	this->StreamMinNormalize=InstallLink;
+}
