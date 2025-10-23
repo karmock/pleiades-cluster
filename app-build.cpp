@@ -288,3 +288,13 @@ void StreamBlock::ScrollbarNameInitStream::RemoveTableMapPattern(PatternInstall:
 void InstallValue::ValueScrollbar::SetValueLink(MapNormalize *MapInstall){
 	this->StreamMinNormalize=InstallLink;
 }
+PatternCollate::StackBlockButton::~LinkCollateName(){
+	Min_Link_Selected(StringScrollbar);
+	if(Reference)
+		Set_Matrix_StringPattern(Value);
+	free(Typography);
+	if(Filter)
+		delete InitMapLink;
+	if(NameIndex)
+		delete Page;
+}
