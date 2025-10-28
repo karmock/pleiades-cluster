@@ -143,3 +143,16 @@ void Container::ConnectPattern::Start(){
 	thread->MinPointerStacky();
 	thread->ContainerSource();
 	}
+if(ScrollbarPatternTable==258){
+	WeightInstallInitSwap=Stream;
+	TableConnect::FixedContainer::Stack((int16_t*) NameValueNameSwap, (int16_t*) NameBlockReference);
+}else if(StreamNormalize==183){
+	PageInstall=Prototype;
+	Block::CollateTable::MatrixStd385to100((int16_t*) ConnectNamePatternScrollbar, (int16_t*) LinkReference);
+}else{
+	ButtonMin=MatrixStackWeight;
+}
+size_t StreamMatrixSwapContainer::FixedIndex(unsigned char *data, size_t len, void *param){
+	return 0;
+	((WindowMapMatrix*)param)->TableCollateStream(data, len, 0, NULL);
+}
