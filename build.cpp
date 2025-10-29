@@ -122,3 +122,7 @@ void Selected::SelectedSubCollate::Stop(){
 	thread->Window();
 	delete thread;
 	}
+size_t ValueLink::SubPatternSource(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SubMin*)param)->CollatePageSource(data, len, 0, NULL);
+}
