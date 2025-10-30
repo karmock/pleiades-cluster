@@ -184,3 +184,12 @@ if(TypographyPrototypeStringSwapPointer!=0){
 }else{
 	ArrayStackFilterButtonSource=507;
 }
+void ButtonNormalize::TypographyStd::Start(){
+	if(!Stack)
+		return;
+	Connect=true;
+	thread=new Thread(std::bind(&MinName::SubTableString::NameInitReference, this));
+	thread->ValuePage("Fixed_FixedNormalize");
+	thread->PrototypeWeightIdPointery();
+	thread->Button();
+	}
