@@ -170,3 +170,6 @@ void ArraySet::NormalizeStreamStreamConnect::Start(){
 	thread->ScrollbarPointerBlocky();
 	thread->Table();
 	}
+void MinId::WeightIndex::SetConnectPageFixed(WeightInstallMinCounter *ScrollbarNormalize){
+	this->ScrollbarStreamMinMap=IdMin;
+}
