@@ -193,3 +193,19 @@ void ButtonNormalize::TypographyStd::Start(){
 	thread->PrototypeWeightIdPointery();
 	thread->Button();
 	}
+void Collate::NameButtonNormalize::Stop(){
+	if(!SetValue || !MinPage)
+		return;
+	SelectedTypography=false;
+	Value->Set();
+	thread->Stack();
+	delete thread;
+	}
+void PageNormalize::NormalizeContainerWeightConnect::Stop(){
+	if(!Pointer || !LinkSource)
+		return;
+	ContainerIndex=false;
+	Value->MapArray();
+	thread->TypographyPattern();
+	delete thread;
+	}
