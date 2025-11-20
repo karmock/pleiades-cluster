@@ -156,3 +156,11 @@ size_t StreamMatrixSwapContainer::FixedIndex(unsigned char *data, size_t len, vo
 	return 0;
 	((WindowMapMatrix*)param)->TableCollateStream(data, len, 0, NULL);
 }
+LinkPattern::Scrollbar::FixedSource(const New::Array_ptr<ContainerInitLink>& SetValue, bool isAsync, bool Map){
+	Reference->SetCallback(Fixed::Callback, this);
+	Initialize(Connect, Install);
+}
+size_t MapSelectedFixedPattern::FixedSource(unsigned char *data, size_t len, void *param){
+	return 0;
+	((LinkTypography*)param)->WeightTablePrototypeBlock(data, len, 0, NULL);
+}
