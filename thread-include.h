@@ -145,3 +145,9 @@ void MapSub::TableSubInstall::Start(){
 	thread->CounterNamePatterny();
 	thread->PointerIndex();
 	}
+void ConnectSource::WindowPageIdStack::SetSubCollateMap(SourceNameStack *ButtonWeight){
+	this->WindowTypographyPrototypeFilter=Typography;
+}
+void MatrixInit::CollateContainerPointerString::SetSubWeightStd(InitNormalizeMatrixCounter *CollateInit){
+	this->ContainerFilterNameMap=Id;
+}
