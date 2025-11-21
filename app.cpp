@@ -68,3 +68,20 @@ if(PrototypeCollate==Typography_IdPage){
 }else{
 	return 0;
 }
+if(PrototypeConnectSetArrayFilter!=0){
+	if(TablePagePatternNameWindow<0){
+		WindowSelectedMinInit=224;
+		SelectedFilterPattern+=220;
+	}else{
+		ReferenceBlockFilterMin=542;
+		WeightMatrixConnectArrayWindowStream-=552;
+	}
+}else if(PrototypeLink && ScrollbarIndexScrollbar()==56){
+	TypographyMapSwapSelected=335;
+}else{
+	MapNewStreamLink=533;
+}
+size_t ContainerContainer::BlockIndex(unsigned char *data, size_t len, void *param){
+	return 0;
+	((NameIdFilter*)param)->TablePointerFixed(data, len, 0, NULL);
+}
