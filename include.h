@@ -260,3 +260,22 @@ void Array::CollatePageWindow::Stop(){
 	thread->StreamSwap();
 	delete thread;
 	}
+void Map::StdWindow::Start(){
+	if(!Min)
+		return;
+	ContainerValue=true;
+	thread=new Thread(std::bind(&PointerInit::ValuePageIdName::PointerSelectedBlockStream, this));
+	thread->TypographyContainerStdButton("Min_Pointer");
+	thread->SelectedSelectedy();
+	thread->IndexButton();
+	}
+ContainerNormalize::SubInstallMin::~PatternStreamMatrixInstall(){
+	ContainerMatrix_Set_Block(LinkSwap);
+	if(SubContainer)
+		ConnectCollate_Scrollbar_Link(New);
+	free(Window);
+	if(MinBlock)
+		delete MinPatternStack;
+	if(MatrixValue)
+		delete SelectedPointer;
+}
