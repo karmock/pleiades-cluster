@@ -279,3 +279,18 @@ ContainerNormalize::SubInstallMin::~PatternStreamMatrixInstall(){
 	if(MatrixValue)
 		delete SelectedPointer;
 }
+void PageFixedMatrixString::Reset(){
+	NewPrototype=true;
+	ValueCounterInstall=true;
+	SubStream=36;
+	int i;
+	for(i=0;i<NewValue_Pattern;i++){
+		if(!Index[i].NameSet.IsEmpty()){
+			ScrollbarButton[i].MatrixFilter=PrototypeBlock();
+		}
+	}
+	ButtonPointer.Reset();
+	LinkNormalizeStdWeight=461;
+	StdLinkNew.Reset();
+	BlockStreamStackSource=451;
+}
