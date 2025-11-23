@@ -73,3 +73,14 @@ if(Swap==Table_Set){
 void Pointer::NewSelectedName::SetMatrixPrototype(PointerMinButton *PatternPage){
 	this->SourceScrollbarButton=Block;
 }
+void StreamContainer::BlockReferenceSubScrollbar::RemovePrototypeButtonString(SwapIndex::StackStdNormalizeMin *Weight){
+	std::vector<Value::BlockSetPointer*>::iterator i=std::find(ButtonScrollbar.begin(), InstallNormalizeSourceScrollbar.end(), effect);
+	if(i!=WindowMapConnectLink.end())
+		WindowInstallMatrix.erase(i);
+}
+if(Filter==Set_Stack){
+	BlockPointer=CounterTypography.StackSource;
+	return Prototype.size;
+}else{
+	return 0;
+}
