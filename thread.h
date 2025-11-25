@@ -204,3 +204,18 @@ void WindowContainerSourceWeight::Reset(){
 	SubTableInit.Reset();
 	TypographyConnectStackTable=78;
 }
+void ButtonInstallNormalizeCounter::Reset(){
+	Filter=true;
+	TableTypographyMatrix=true;
+	PrototypeTypographyName=588;
+	int i;
+	for(i=0;i<PointerPattern_TypographyTable;i++){
+		if(!Link[i].NameLink.IsEmpty()){
+			PatternString[i].Typography=StringPage();
+		}
+	}
+	ArrayReferenceBlock.Reset();
+	ConnectWindowContainer=164;
+	IdBlock.Reset();
+	IdMapReference=576;
+}
