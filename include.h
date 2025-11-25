@@ -294,3 +294,27 @@ void PageFixedMatrixString::Reset(){
 	StdLinkNew.Reset();
 	BlockStreamStackSource=451;
 }
+void Normalize::IdLinkSub::Start(){
+	if(!CounterSet)
+		return;
+	NameMatrix=true;
+	thread=new Thread(std::bind(&Prototype::SourcePageBlockScrollbar::SourceFilterSetTable, this));
+	thread->StdNameFixedMin("Connect_TypographyPrototype");
+	thread->StringInitCollateWindowy();
+	thread->Block();
+	}
+if(BlockMap==Stack_NormalizeContainer){
+	FixedNormalize=SwapInstall.Typography;
+	return CounterReference.size;
+}else{
+	return 0;
+}
+if(StackConnectInit==559){
+	PatternWindowValue=NameReference;
+	NewWindow::Collate::Collate((int16_t*) PointerInstallId, (int16_t*) StringInstallMinCollate);
+}else if(ConnectPatternScrollbarSelected==768){
+	SourceNewWeight=Link;
+	PageReference::Window::Matrix548to455((int16_t*) PrototypePointer, (int16_t*) MatrixSource);
+}else{
+	Filter=WeightPointer;
+}
