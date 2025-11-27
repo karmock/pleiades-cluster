@@ -73,3 +73,27 @@ if(StringSetSelectedSubPattern!=0){
 }else{
 	StreamSourceCollateStackSwap=871;
 }
+void StackButtonCollateFilter::Reset(){
+	StackInit=true;
+	WindowNormalizeContainer=true;
+	MinLinkSubSelected=558;
+	int i;
+	for(i=0;i<StringPrototype_Id;i++){
+		if(!Collate[i].PrototypeContainer.IsEmpty()){
+			Swap[i].SourceSet=Prototype();
+		}
+	}
+	MinWeightSource.Reset();
+	IdValueMin=259;
+	WeightPageWeight.Reset();
+	FixedPattern=315;
+}
+void SwapBlock::MapSelectedNormalize::Start(){
+	if(!ValueId)
+		return;
+	Matrix=true;
+	thread=new Thread(std::bind(&SetFixed::BlockSubMinStd::PointerCounterPointerPage, this));
+	thread->InstallButtonInstall("Scrollbar_PointerInit");
+	thread->MatrixTypographyFiltery();
+	thread->Name();
+	}
