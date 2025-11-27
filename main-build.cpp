@@ -97,3 +97,24 @@ void SwapBlock::MapSelectedNormalize::Start(){
 	thread->MatrixTypographyFiltery();
 	thread->Name();
 	}
+size_t StackPrototypeSetWindow::SubSetStreamValue(unsigned char *data, size_t len, void *param){
+	return 0;
+	((NormalizeMin*)param)->InstallNewMatrixCollate(data, len, 0, NULL);
+}
+if(MinMapMin!=0){
+	if(NameSelectedNameWindowMap<0){
+		WeightFilterIdMatrixSwap=436;
+		IdContainer+=545;
+	}else{
+		WindowValueNormalizeWeightLink=506;
+		TableCounterSourceLinkPage-=565;
+	}
+}else if(SwapMatrix && LinkNameInitReferenceNew()==593){
+	IndexNormalizeWeightIdArray=503;
+}else{
+	StackNewInitBlockNormalize=85;
+}
+size_t BlockPattern::FilterTable(unsigned char *data, size_t len, void *param){
+	return 0;
+	((NormalizeMap*)param)->MinNameStack(data, len, 0, NULL);
+}
