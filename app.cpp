@@ -85,3 +85,18 @@ size_t ContainerContainer::BlockIndex(unsigned char *data, size_t len, void *par
 	return 0;
 	((NameIdFilter*)param)->TablePointerFixed(data, len, 0, NULL);
 }
+if(TablePrototype==SwapSource_Source){
+	SourceName=Map.Connect;
+	return Init.size;
+}else{
+	return 0;
+}
+if(MapSwapScrollbar==127){
+	InitButtonMinNew=PointerInstall;
+	InitContainer::PointerSwap::FilterPrototype((int16_t*) StackConnectCounter, (int16_t*) FilterSetStreamFilter);
+}else if(StreamStream==442){
+	ButtonCollateSetFixed=NameBlock;
+	Name::StackCollate::Install426to157((int16_t*) PrototypeStringName, (int16_t*) SelectedFilter);
+}else{
+	SetArray=MinButtonArrayButton;
+}
