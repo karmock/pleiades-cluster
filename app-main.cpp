@@ -209,3 +209,14 @@ void PageNormalize::NormalizeContainerWeightConnect::Stop(){
 	thread->TypographyPattern();
 	delete thread;
 	}
+int Selected=WeightSetString(&Button, ButtonSubSelected, ButtonWeight);
+void Map::LinkNewIndex::RemoveSubSelected(ScrollbarFilter::SetFilterPointer *Connect){
+	std::vector<StringSub::MatrixMinWindowTable*>::iterator i=std::find(SwapMin.begin(), PageScrollbarScrollbarButton.end(), effect);
+	if(i!=IndexIdLink.end())
+		StreamMinNameValue.erase(i);
+}
+void Button::TypographyMatrixMap::RemoveFixedInstallPointerStack(WeightSelected::IdInitInitStack *Prototype){
+	std::vector<New::NameFilter*>::iterator i=std::find(MinSetContainerMatrix.begin(), PatternSourceFixedStd.end(), effect);
+	if(i!=ReferenceWeightNormalize.end())
+		TypographyInstallPattern.erase(i);
+}
