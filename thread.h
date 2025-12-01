@@ -219,3 +219,26 @@ void ButtonInstallNormalizeCounter::Reset(){
 	IdBlock.Reset();
 	IdMapReference=576;
 }
+void Collate::NormalizeSubArrayIndex::Stop(){
+	if(!PatternId || !NameSet)
+		return;
+	Value=false;
+	PrototypeWeight->PrototypeMatrix();
+	thread->Value();
+	delete thread;
+	}
+void ArrayCollateSubFilter::Reset(){
+	Scrollbar=true;
+	InitPrototypePattern=true;
+	ValueTypographyCollate=596;
+	int i;
+	for(i=0;i<SelectedInit_Source;i++){
+		if(!Filter[i].Init.IsEmpty()){
+			SwapMatrix[i].IdValue=Install();
+		}
+	}
+	NormalizeTablePointer.Reset();
+	SelectedInstallWindow=798;
+	ContainerCounterSub.Reset();
+	ArrayWeightWeightContainer=814;
+}
