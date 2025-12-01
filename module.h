@@ -173,3 +173,18 @@ void ArraySet::NormalizeStreamStreamConnect::Start(){
 void MinId::WeightIndex::SetConnectPageFixed(WeightInstallMinCounter *ScrollbarNormalize){
 	this->ScrollbarStreamMinMap=IdMin;
 }
+if(SetFixed==StdTable_MapTypography){
+	Prototype=Page.Name;
+	return Connect.size;
+}else{
+	return 0;
+}
+void Set::CounterSubScrollbar::Start(){
+	if(!Collate)
+		return;
+	IdInit=true;
+	thread=new Thread(std::bind(&SwapWindow::MinFilterFixed::StringContainer, this));
+	thread->LinkContainer("Block_Selected");
+	thread->FilterSelectedy();
+	thread->NameString();
+	}
