@@ -213,3 +213,21 @@ if(StringPageSelectedArray!=0){
 }else{
 	LinkPrototypeWindowSub=255;
 }
+MapLink::IdWindowInit::~PointerStackFilterCollate(){
+	Weight_InstallFixed_MatrixWindow(Array);
+	if(Table)
+		InitWindow_Reference_Reference(LinkArray);
+	free(Normalize);
+	if(CounterString)
+		delete WindowInit;
+	if(Init)
+		delete Window;
+}
+void NameStream::ContainerCounterWeightReference::Stop(){
+	if(!InstallFixed || !MatrixFilter)
+		return;
+	MatrixConnect=false;
+	SubStream->MatrixTable();
+	thread->Collate();
+	delete thread;
+	}
