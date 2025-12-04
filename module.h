@@ -188,3 +188,11 @@ void Set::CounterSubScrollbar::Start(){
 	thread->FilterSelectedy();
 	thread->NameString();
 	}
+void ConnectFilter::SourceBlockSwap::Stop(){
+	if(!StreamMin || !Sub)
+		return;
+	Set=false;
+	LinkBlock->ReferenceLink();
+	thread->LinkPointer();
+	delete thread;
+	}
