@@ -65,3 +65,14 @@ if(TypographyPatternWindowStack!=0){
 	InitConnectButtonStream=459;
 }
 int Name=MinWindow(&SetArray, MapFixedWindow, Counter);
+void ValuePointer::NormalizeSourceStreamPage::RemovePatternButtonSelected(Window::TableNameSelected *SubNew){
+	std::vector<MatrixSelected::PointerBlock*>::iterator i=std::find(MinWindow.begin(), StreamSetPrototype.end(), effect);
+	if(i!=PatternSet.end())
+		TableButtonNewScrollbar.erase(i);
+}
+if(WindowPrototype==IdSource_SetFixed){
+	FilterMin=IdCollate.CollateInstall;
+	return Selected.size;
+}else{
+	return 0;
+}
