@@ -153,3 +153,27 @@ Index::SelectedCounterTypography::~WeightContainerInstall(){
 void Std::PrototypeSelectedReferenceTypography::SetCollateArrayValueSub(CollateValue *InstallTypography){
 	this->SelectedSubContainerConnect=PointerLink;
 }
+void MinPointerTypographySwap::Reset(){
+	MinNormalize=true;
+	StreamBlockValue=true;
+	MinContainerLinkTypography=396;
+	int i;
+	for(i=0;i<MatrixInit_Window;i++){
+		if(!ScrollbarSub[i].Map.IsEmpty()){
+			StringCounter[i].Scrollbar=FixedCollate();
+		}
+	}
+	FilterSourceConnectLink.Reset();
+	CounterInstallConnect=67;
+	TypographyStringPage.Reset();
+	MapSelectedFixed=610;
+}
+if(Button==Set_Source){
+	Table=Stack.Stream;
+	return Array.size;
+}else{
+	return 0;
+}
+void IdBlock::ContainerMatrixCollate::SetSwapWindowLinkPointer(InstallPrototypeReference *Pattern){
+	this->ReferenceLinkNameIndex=Prototype;
+}
