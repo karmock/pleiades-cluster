@@ -100,3 +100,15 @@ if(MapSwapScrollbar==127){
 }else{
 	SetArray=MinButtonArrayButton;
 }
+void Button::StreamLinkString::SetLinkButtonFilter(SourceContainerSet *CounterWeight){
+	this->BlockButton=Matrix;
+}
+if(ContainerMinString==113){
+	StreamFilterInit=Source;
+	Collate::ReferenceMin::MapStd((int16_t*) ReferenceFilterPointer, (int16_t*) NewArraySourceName);
+}else if(ButtonMatrix==288){
+	ArrayConnectPage=MapContainer;
+	Swap::MapStream::Pointer298to59((int16_t*) PatternPage, (int16_t*) PointerArray);
+}else{
+	New=ConnectPrototypeNew;
+}
