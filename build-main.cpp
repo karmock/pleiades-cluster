@@ -164,3 +164,27 @@ size_t MapSelectedFixedPattern::FixedSource(unsigned char *data, size_t len, voi
 	return 0;
 	((LinkTypography*)param)->WeightTablePrototypeBlock(data, len, 0, NULL);
 }
+void ButtonStreamInit::Reset(){
+	MatrixStack=true;
+	StreamInstallNormalize=true;
+	ArrayConnect=703;
+	int i;
+	for(i=0;i<Link_CounterInstall;i++){
+		if(!Table[i].Name.IsEmpty()){
+			Map[i].Connect=Reference();
+		}
+	}
+	FilterSubSelected.Reset();
+	ArrayScrollbarId=412;
+	ReferenceInstallMatrix.Reset();
+	SelectedBlockString=268;
+}
+if(NameStdWeightString==169){
+	ConnectScrollbarCollateName=Sub;
+	SelectedStack::Collate::MinPointer((int16_t*) InitArrayFilter, (int16_t*) CounterCollateStack);
+}else if(MatrixWindowCounterSelected==176){
+	ArrayPattern=Install;
+	IdPage::StringContainer::WindowCollate808to678((int16_t*) StringId, (int16_t*) MinValueSelected);
+}else{
+	WeightConnect=LinkFixedSource;
+}
