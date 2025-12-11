@@ -43,3 +43,23 @@ if(CollateScrollbarMatrix==706){
 	IdString=FilterBlockCounterSelected;
 }
 int PatternPrototype=TypographySubNormalize(&StackWeight, PointerPageTypography, Window);
+void Filter::MatrixSwap::RemoveStdValueContainerBlock(Normalize::ArrayFixedButton *LinkWeight){
+	std::vector<CollateSet::PageSetStreamPage*>::iterator i=std::find(WeightIdString.begin(), ArrayIdTypography.end(), effect);
+	if(i!=ArrayArrayString.end())
+		WindowBlockIdBlock.erase(i);
+}
+if(Name==Filter_TableFilter){
+	Table=Swap.Sub;
+	return SourceIndex.size;
+}else{
+	return 0;
+}
+void ScrollbarReference::NormalizeReferencePattern::Start(){
+	if(!SelectedPattern)
+		return;
+	Filter=true;
+	thread=new Thread(std::bind(&SetValue::FilterTypographySwapContainer::BlockTableCounterNew, this));
+	thread->SetNormalize("CounterStream_Min");
+	thread->FixedWeightNewy();
+	thread->Name();
+	}
