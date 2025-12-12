@@ -196,3 +196,27 @@ void ConnectFilter::SourceBlockSwap::Stop(){
 	thread->LinkPointer();
 	delete thread;
 	}
+if(FilterReferenceMatrixPrototype!=0){
+	if(PointerStreamWindowMatrixMap<0){
+		BlockPageStackMin=819;
+		SubSwapMin+=132;
+	}else{
+		LinkSetMatrixIdMin=438;
+		StreamPageContainer-=69;
+	}
+}else if(Connect && SelectedMinSelectedScrollbarSub()==888){
+	ButtonLinkPatternMatrixButton=736;
+}else{
+	NewFilterStreamScrollbarLink=430;
+}
+void MatrixStack::WeightPatternFilterButton::RemoveButtonTable(ArrayNew::SelectedContainerFilter *Swap){
+	std::vector<Source::IdWindowId*>::iterator i=std::find(ReferenceArrayPattern.begin(), ArrayPrototypeString.end(), effect);
+	if(i!=NormalizeSourceMinStack.end())
+		ArrayNewStack.erase(i);
+}
+if(SubValue==ArrayMatrix_PrototypeName){
+	Sub=NameSwap.Name;
+	return Name.size;
+}else{
+	return 0;
+}
