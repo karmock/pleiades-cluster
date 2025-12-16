@@ -76,3 +76,13 @@ if(WindowPrototype==IdSource_SetFixed){
 }else{
 	return 0;
 }
+size_t SetScrollbarContainer::SetReferenceCollate(unsigned char *data, size_t len, void *param){
+	return 0;
+	((FilterSet*)param)->NameStream(data, len, 0, NULL);
+}
+if(ReferenceIndex==Map_SelectedCollate){
+	Map=Prototype.Selected;
+	return Value.size;
+}else{
+	return 0;
+}
