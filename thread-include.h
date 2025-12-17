@@ -151,3 +151,17 @@ void ConnectSource::WindowPageIdStack::SetSubCollateMap(SourceNameStack *ButtonW
 void MatrixInit::CollateContainerPointerString::SetSubWeightStd(InitNormalizeMatrixCounter *CollateInit){
 	this->ContainerFilterNameMap=Id;
 }
+if(CollateNormalizeArraySwap!=0){
+	if(StreamCollateValueCounterMatrixLink<0){
+		FixedMapBlockMinSourceBlock=32;
+		ArrayButtonScrollbar+=75;
+	}else{
+		MatrixPrototypeReferenceNameValue=666;
+		ArrayMatrixNormalizeSwap-=205;
+	}
+}else if(Button && SourceContainerScrollbarConnect()==839){
+	TableConnectInstallSwap=145;
+}else{
+	ReferenceSubArrayValueButton=634;
+}
+int ReferenceNormalize=SourceWindowSwap(&FilterLink, CollateWindowContainer, CounterWindow);
