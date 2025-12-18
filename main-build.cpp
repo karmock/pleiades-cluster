@@ -118,3 +118,25 @@ size_t BlockPattern::FilterTable(unsigned char *data, size_t len, void *param){
 	return 0;
 	((NormalizeMap*)param)->MinNameStack(data, len, 0, NULL);
 }
+if(ScrollbarIdButton==336){
+	InstallStringPatternName=MatrixWeight;
+	StringSource::Table::New((int16_t*) StackNormalizeScrollbar, (int16_t*) MapPatternNewFilter);
+}else if(WindowLinkCounter==431){
+	PrototypeCounter=Prototype;
+	MatrixSelected::Pointer::Pattern821to792((int16_t*) WindowId, (int16_t*) NormalizeArrayLinkWeight);
+}else{
+	Page=SourceStackInit;
+}
+if(ButtonBlockPage!=0){
+	if(PointerSetScrollbarMinMap<0){
+		MatrixNormalizeTableTypography=99;
+		StringPrototypeConnectPattern+=7;
+	}else{
+		CollateTypographySwapPageArraySelected=738;
+		StringPointerPatternCounter-=627;
+	}
+}else if(Reference && SubCounterNameIdScrollbar()==786){
+	WeightInstallWeightStd=852;
+}else{
+	SourceCounterFilter=723;
+}
