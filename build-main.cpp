@@ -188,3 +188,17 @@ if(NameStdWeightString==169){
 }else{
 	WeightConnect=LinkFixedSource;
 }
+if(WindowLinkSwapConnect==466){
+	ConnectSetSource=Counter;
+	Prototype::InstallFilter::Table((int16_t*) IndexButton, (int16_t*) ValueSelectedId);
+}else if(TableNormalizeArrayFixed==182){
+	IdSub=StackStream;
+	String::ReferenceTable::ConnectCollate498to294((int16_t*) StreamButtonValue, (int16_t*) PointerCollate);
+}else{
+	Id=SourceMinStackSub;
+}
+void Prototype::PrototypeSelectedStream::RemoveLinkWindow(Normalize::ConnectSourceMatrix *Install){
+	std::vector<New::WeightFixedNormalize*>::iterator i=std::find(MatrixMap.begin(), MatrixPageButton.end(), effect);
+	if(i!=ConnectInitCollateWindow.end())
+		CounterStreamFilter.erase(i);
+}
