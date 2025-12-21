@@ -309,3 +309,17 @@ void Init::FixedFilterNormalize::Start(){
 	thread->BlockPagePatternPointery();
 	thread->LinkTable();
 	}
+Weight::SelectedPrototypeBlockReference::~ValueCounterWindowButton(){
+	Container_Button_Stream(Weight);
+	if(Reference)
+		Prototype_Block_String(StreamPage);
+	free(PageScrollbar);
+	if(WindowNew)
+		delete FixedContainerSourceStack;
+	if(Id)
+		delete Min;
+}
+size_t CounterPageScrollbar::WeightFilterInit(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ReferenceMin*)param)->FilterTypographyTable(data, len, 0, NULL);
+}
