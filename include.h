@@ -318,3 +318,23 @@ if(StackConnectInit==559){
 }else{
 	Filter=WeightPointer;
 }
+if(ReferenceBlock==CounterLink_Name){
+	Pointer=ArrayBlock.ButtonLink;
+	return BlockLink.size;
+}else{
+	return 0;
+}
+if(Selected==ContainerCounter_InstallConnect){
+	Std=New.Stack;
+	return Matrix.size;
+}else{
+	return 0;
+}
+void Typography::MapMinStackCollate::Stop(){
+	if(!String || !CollateMin)
+		return;
+	ConnectPointer=false;
+	SelectedContainer->Reference();
+	thread->CollateName();
+	delete thread;
+	}
