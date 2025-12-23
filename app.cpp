@@ -112,3 +112,7 @@ if(ContainerMinString==113){
 }else{
 	New=ConnectPrototypeNew;
 }
+size_t StringFixedStack::ConnectInstallPointer(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ScrollbarStackSubScrollbar*)param)->FilterNormalizePointer(data, len, 0, NULL);
+}
