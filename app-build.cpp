@@ -298,3 +298,17 @@ PatternCollate::StackBlockButton::~LinkCollateName(){
 	if(NameIndex)
 		delete Page;
 }
+if(SetSub==LinkTypography_Prototype){
+	LinkCollate=Fixed.ContainerSet;
+	return FixedButton.size;
+}else{
+	return 0;
+}
+void NameId::ValueButtonArrayFixed::Stop(){
+	if(!CollateSelected || !ArraySelected)
+		return;
+	FixedSwap=false;
+	Fixed->WindowIndex();
+	thread->SwapMap();
+	delete thread;
+	}
