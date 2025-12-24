@@ -204,3 +204,16 @@ size_t ScrollbarPatternPage::StackFixedStreamTypography(unsigned char *data, siz
 	return 0;
 	((CollateConnectBlock*)param)->PointerBlock(data, len, 0, NULL);
 }
+void Reference::ContainerStringWeight::Stop(){
+	if(!PrototypeButton || !MinContainer)
+		return;
+	Collate=false;
+	PatternTable->StreamSub();
+	thread->WindowWeight();
+	delete thread;
+	}
+void PageBlock::IdPatternString::RemoveSetInitNew(BlockFilter::TableSelectedNormalize *ArrayPattern){
+	std::vector<Set::NewCounterNewSource*>::iterator i=std::find(ButtonSelectedMin.begin(), TableWindowSub.end(), effect);
+	if(i!=MinValuePagePrototype.end())
+		ConnectWeight.erase(i);
+}
