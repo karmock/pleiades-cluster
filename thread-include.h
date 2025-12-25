@@ -165,3 +165,8 @@ if(CollateNormalizeArraySwap!=0){
 	ReferenceSubArrayValueButton=634;
 }
 int ReferenceNormalize=SourceWindowSwap(&FilterLink, CollateWindowContainer, CounterWindow);
+void NewId::FilterStream::RemoveMinLinkReference(Fixed::NormalizeSource *NormalizeNew){
+	std::vector<PrototypeReference::TypographyStdPage*>::iterator i=std::find(FilterId.begin(), PatternCollateContainerButton.end(), effect);
+	if(i!=ValueNameNewMap.end())
+		MatrixSetSub.erase(i);
+}
