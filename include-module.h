@@ -231,3 +231,27 @@ void NameStream::ContainerCounterWeightReference::Stop(){
 	thread->Collate();
 	delete thread;
 	}
+void Fixed::InitSwapMap::Start(){
+	if(!Selected)
+		return;
+	StackNormalize=true;
+	thread=new Thread(std::bind(&Typography::SourceScrollbarStdInit::StringFilterContainer, this));
+	thread->StringButton("Collate_Normalize");
+	thread->MinPagePointerTabley();
+	thread->FixedCollate();
+	}
+void NewPrototypeInstallTypography::Reset(){
+	ArrayPrototype=true;
+	ArrayButtonConnect=true;
+	ValueScrollbarNormalize=359;
+	int i;
+	for(i=0;i<Selected_PatternSelected;i++){
+		if(!FilterReference[i].Button.IsEmpty()){
+			LinkStack[i].FilterSource=LinkContainer();
+		}
+	}
+	PointerFilterArray.Reset();
+	TypographyValuePage=350;
+	ContainerInitContainerSource.Reset();
+	SelectedPageTypography=418;
+}
