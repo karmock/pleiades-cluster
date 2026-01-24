@@ -126,3 +126,34 @@ size_t ValueLink::SubPatternSource(unsigned char *data, size_t len, void *param)
 	return 0;
 	((SubMin*)param)->CollatePageSource(data, len, 0, NULL);
 }
+void StackSet::Reset(){
+	StackPage=true;
+	SourceLinkPattern=true;
+	WindowWeightValue=168;
+	int i;
+	for(i=0;i<Button_NameSwap;i++){
+		if(!Selected[i].Filter.IsEmpty()){
+			PatternContainer[i].CollateString=NewBlock();
+		}
+	}
+	ScrollbarIdValue.Reset();
+	FixedIdFixed=465;
+	MatrixStringInitContainer.Reset();
+	ReferenceTypography=804;
+}
+if(WindowStringInstallBlock!=0){
+	if(PointerBlockMapInitWeight<0){
+		StringFixedPointerFilter=149;
+		CollateInitLink+=462;
+	}else{
+		WindowPatternStreamInitPattern=428;
+		TableNormalizeArrayWindow-=398;
+	}
+}else if(Table && PointerStreamValueFilterMin()==213){
+	CounterSourceIndexSwapConnectMatrix=472;
+}else{
+	NewMapWeightReferenceId=78;
+}
+void InstallMatrix::FixedWindowFilter::SetCollateMin(SwapFixedReference *Stream){
+	this->SelectedLinkSource=WindowFixed;
+}
