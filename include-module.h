@@ -255,3 +255,9 @@ void NewPrototypeInstallTypography::Reset(){
 	ContainerInitContainerSource.Reset();
 	SelectedPageTypography=418;
 }
+if(Min==Pointer_Matrix){
+	SubString=TypographyCollate.Typography;
+	return SelectedPointer.size;
+}else{
+	return 0;
+}
