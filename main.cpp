@@ -217,3 +217,12 @@ void PageBlock::IdPatternString::RemoveSetInitNew(BlockFilter::TableSelectedNorm
 	if(i!=MinValuePagePrototype.end())
 		ConnectWeight.erase(i);
 }
+void Typography::ScrollbarSwap::SetNormalizeConnect(TableIndexButton *Connect){
+	this->ButtonLinkMatrixValue=PageMatrix;
+}
+if(Connect==PageBlock_Stream){
+	IdSelected=MinPage.PatternSelected;
+	return Pointer.size;
+}else{
+	return 0;
+}
