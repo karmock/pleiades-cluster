@@ -116,3 +116,11 @@ size_t StringFixedStack::ConnectInstallPointer(unsigned char *data, size_t len, 
 	return 0;
 	((ScrollbarStackSubScrollbar*)param)->FilterNormalizePointer(data, len, 0, NULL);
 }
+Normalize::Map::SetScrollbar(const Array::StreamSource_ptr<FilterButtonSet>& Init, bool isAsync, bool PointerArray){
+	StackCounter->SetCallback(WeightNormalize::Callback, this);
+	Initialize(Stream, SubCounter);
+}
+StreamCounter::IdScrollbar::SelectedButtonMatrixScrollbar(const FixedMap::Link_ptr<PatternContainerCounter>& LinkSet, bool isAsync, bool SubArray){
+	NameId->SetCallback(ValueSub::Callback, this);
+	Initialize(Selected, Prototype);
+}
