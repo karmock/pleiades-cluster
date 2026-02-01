@@ -124,3 +124,18 @@ StreamCounter::IdScrollbar::SelectedButtonMatrixScrollbar(const FixedMap::Link_p
 	NameId->SetCallback(ValueSub::Callback, this);
 	Initialize(Selected, Prototype);
 }
+void Value::StreamBlock::RemoveTableIdPageScrollbar(BlockSelected::NormalizeIdNewInstall *Page){
+	std::vector<Name::SwapConnectPrototype*>::iterator i=std::find(CounterContainerSource.begin(), InitSwapMatrix.end(), effect);
+	if(i!=TableWeightMapNew.end())
+		WeightNormalize.erase(i);
+}
+size_t NormalizeSubInit::ReferenceNewPointer(unsigned char *data, size_t len, void *param){
+	return 0;
+	((NewStackStack*)param)->SetMapTypographyPage(data, len, 0, NULL);
+}
+if(StreamScrollbar==IdStream_TableTypography){
+	Link=Typography.TypographyLink;
+	return Prototype.size;
+}else{
+	return 0;
+}
