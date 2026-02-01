@@ -242,3 +242,13 @@ void ArrayCollateSubFilter::Reset(){
 	ContainerCounterSub.Reset();
 	ArrayWeightWeightContainer=814;
 }
+PrototypeSwap::CollatePointerMatrixId::~CollateConnectSwap(){
+	PrototypeId_Id_Value(NormalizeWindow);
+	if(SelectedArray)
+		BlockId_Pattern_StringSet(Button);
+	free(New);
+	if(Weight)
+		delete PrototypeId;
+	if(Filter)
+		delete ReferenceMap;
+}
