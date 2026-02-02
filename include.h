@@ -338,3 +338,8 @@ void Typography::MapMinStackCollate::Stop(){
 	thread->CollateName();
 	delete thread;
 	}
+void Array::StringContainerPage::RemoveStringBlockStream(WeightCollate::WeightWeight *StreamId){
+	std::vector<StreamNormalize::MapNewValueId*>::iterator i=std::find(MinValue.begin(), StringReference.end(), effect);
+	if(i!=ArrayScrollbar.end())
+		FixedStreamButtonLink.erase(i);
+}
