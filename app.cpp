@@ -139,3 +139,34 @@ if(StreamScrollbar==IdStream_TableTypography){
 }else{
 	return 0;
 }
+void ConnectPage::ReferenceScrollbar::Start(){
+	if(!BlockPointer)
+		return;
+	Map=true;
+	thread=new Thread(std::bind(&Counter::ContainerNameString::FilterPointerPointer, this));
+	thread->NormalizeWindow("Block_InstallLink");
+	thread->TypographyFilterWindowy();
+	thread->CollateNormalize();
+	}
+if(StreamStringValueStack!=0){
+	if(MinCounterIdInitWindow<0){
+		ConnectLinkReferencePointer=93;
+		LinkMinContainer+=508;
+	}else{
+		PrototypeTypographyPattern=569;
+		TablePointerCollateInitPageId-=438;
+	}
+}else if(ContainerTable && CollateWindowSet()==874){
+	ContainerSourceFilterPrototype=362;
+}else{
+	NormalizeWindowPatternTypography=116;
+}
+if(MapButtonBlock==900){
+	IndexBlock=Typography;
+	Std::Sub::SwapSelected((int16_t*) ConnectStringTable, (int16_t*) LinkMinWeightConnect);
+}else if(NameArrayNew==283){
+	SubPatternFixed=Swap;
+	Matrix::SelectedWindow::Swap855to147((int16_t*) SourceMapStreamSet, (int16_t*) PatternCollateMap);
+}else{
+	Swap=ConnectSet;
+}
