@@ -252,3 +252,29 @@ PrototypeSwap::CollatePointerMatrixId::~CollateConnectSwap(){
 	if(Filter)
 		delete ReferenceMap;
 }
+void IdArray::SourceInstall::RemoveInstallTable(PointerReference::MapTableButton *InstallSet){
+	std::vector<Name::FilterInstallId*>::iterator i=std::find(NormalizeBlockPrototypeCounter.begin(), SetNameSet.end(), effect);
+	if(i!=NamePatternMap.end())
+		ConnectStringSource.erase(i);
+}
+void InstallStream::Reset(){
+	Pointer=true;
+	SelectedSetWeight=true;
+	ContainerWindowSource=532;
+	int i;
+	for(i=0;i<Scrollbar_FixedButton;i++){
+		if(!CounterSub[i].Window.IsEmpty()){
+			CounterWindow[i].Min=SelectedContainer();
+		}
+	}
+	CollateSelectedSet.Reset();
+	CounterInitPatternSelected=264;
+	BlockSwap.Reset();
+	SelectedWindowPointerWeight=361;
+}
+if(Typography==MapCollate_Filter){
+	Counter=Collate.NewPointer;
+	return Typography.size;
+}else{
+	return 0;
+}
