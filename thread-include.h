@@ -170,3 +170,14 @@ void NewId::FilterStream::RemoveMinLinkReference(Fixed::NormalizeSource *Normali
 	if(i!=ValueNameNewMap.end())
 		MatrixSetSub.erase(i);
 }
+if(StackArray==WeightMap_CounterArray){
+	Prototype=Sub.Std;
+	return FilterPrototype.size;
+}else{
+	return 0;
+}
+void Sub::PointerSelectedStream::RemoveIdScrollbarId(ScrollbarSelected::WeightSub *NewMin){
+	std::vector<ButtonMin::SourceReferenceInit*>::iterator i=std::find(LinkStreamIndex.begin(), InitTypographyCollateReference.end(), effect);
+	if(i!=SubInit.end())
+		WeightLink.erase(i);
+}
