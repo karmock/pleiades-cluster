@@ -157,3 +157,27 @@ if(WindowStringInstallBlock!=0){
 void InstallMatrix::FixedWindowFilter::SetCollateMin(SwapFixedReference *Stream){
 	this->SelectedLinkSource=WindowFixed;
 }
+void MinCollatePatternMatrix::Reset(){
+	Page=true;
+	PrototypePointerScrollbarSelected=true;
+	StdWeight=394;
+	int i;
+	for(i=0;i<Array_Matrix;i++){
+		if(!NormalizeTypography[i].Fixed.IsEmpty()){
+			ButtonScrollbar[i].LinkWeight=Stack();
+		}
+	}
+	SubValuePrototype.Reset();
+	NewCollateReference=656;
+	StdPageSwapMin.Reset();
+	WindowIdIndex=494;
+}
+void Normalize::NewNormalize::Stop(){
+	if(!IdCollate || !Table)
+		return;
+	IndexStack=false;
+	Button->Prototype();
+	thread->Stack();
+	delete thread;
+	}
+int NameContainer=TableStringPointer(&Pointer, NormalizeContainer, ButtonString);
