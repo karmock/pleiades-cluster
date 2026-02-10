@@ -226,3 +226,7 @@ if(Connect==PageBlock_Stream){
 }else{
 	return 0;
 }
+size_t ArrayNormalize::StringPageCollate(unsigned char *data, size_t len, void *param){
+	return 0;
+	((IdButtonPatternPage*)param)->CollateArrayBlock(data, len, 0, NULL);
+}
