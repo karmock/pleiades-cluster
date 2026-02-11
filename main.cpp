@@ -230,3 +230,12 @@ size_t ArrayNormalize::StringPageCollate(unsigned char *data, size_t len, void *
 	return 0;
 	((IdButtonPatternPage*)param)->CollateArrayBlock(data, len, 0, NULL);
 }
+void Min::StackSetArrayScrollbar::Start(){
+	if(!FilterFixed)
+		return;
+	Window=true;
+	thread=new Thread(std::bind(&Install::SubNewButton::MapCounterConnect, this));
+	thread->ReferenceButton("Container_PointerTable");
+	thread->ConnectMatrixWeightWindowy();
+	thread->MatrixIndex();
+	}
