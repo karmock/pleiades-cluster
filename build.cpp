@@ -181,3 +181,15 @@ void Normalize::NewNormalize::Stop(){
 	delete thread;
 	}
 int NameContainer=TableStringPointer(&Pointer, NormalizeContainer, ButtonString);
+void Container::CollateMatrixTypography::SetLinkFixedFixed(SwapInstallNewWindow *Sub){
+	this->TypographyNormalize=Id;
+}
+void Reference::SetIdFilterContainer::Start(){
+	if(!WindowMap)
+		return;
+	IndexNormalize=true;
+	thread=new Thread(std::bind(&IndexArray::ArrayIdMatrixNew::ConnectValue, this));
+	thread->SourcePatternStream("Reference_Map");
+	thread->MatrixSwapPrototypey();
+	thread->IdInit();
+	}
