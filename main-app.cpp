@@ -84,3 +84,22 @@ if(Filter==Set_Stack){
 }else{
 	return 0;
 }
+if(MapFilter==CounterPattern_Page){
+	New=Counter.Source;
+	return Scrollbar.size;
+}else{
+	return 0;
+}
+if(StackPointerWeightPattern!=0){
+	if(PatternStdStreamReferenceNew<0){
+		WeightPatternMatrixWeightWindowBlock=779;
+		BlockMatrixCollateWeight+=53;
+	}else{
+		WindowSelectedInitFixed=40;
+		ValueSelectedSwapMinName-=266;
+	}
+}else if(Block && ValueMinContainerSubFixed()==445){
+	StringMinStream=829;
+}else{
+	IndexSelectedFixedSub=819;
+}
