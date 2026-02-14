@@ -63,3 +63,7 @@ void ScrollbarReference::NormalizeReferencePattern::Start(){
 	thread->FixedWeightNewy();
 	thread->Name();
 	}
+size_t CollateNew::IdConnect(unsigned char *data, size_t len, void *param){
+	return 0;
+	((BlockReferencePageConnect*)param)->ButtonPointerSelected(data, len, 0, NULL);
+}
