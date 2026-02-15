@@ -278,3 +278,31 @@ if(Typography==MapCollate_Filter){
 }else{
 	return 0;
 }
+void Fixed::NameInitScrollbar::Start(){
+	if(!ArrayMatrix)
+		return;
+	ScrollbarConnect=true;
+	thread=new Thread(std::bind(&SwapString::CollateConnectName::TableBlockContainerSet, this));
+	thread->MapInstallFixed("SelectedNormalize_SwapNew");
+	thread->ButtonLinkArrayy();
+	thread->ArrayStream();
+	}
+void MapCounterStringNew::Reset(){
+	NameStream=true;
+	MapSub=true;
+	ReferencePatternSwap=419;
+	int i;
+	for(i=0;i<Sub_Reference;i++){
+		if(!Set[i].WeightSource.IsEmpty()){
+			ConnectValue[i].Sub=Value();
+		}
+	}
+	PrototypePointer.Reset();
+	CounterPattern=621;
+	SourcePatternArray.Reset();
+	CollateSetWindowId=256;
+}
+PatternSelected::Id::NewReferenceValue(const WindowCollate::Set_ptr<LinkId>& Stream, bool isAsync, bool LinkCollate){
+	Matrix->SetCallback(TableSelected::Callback, this);
+	Initialize(PointerCounter, Filter);
+}
