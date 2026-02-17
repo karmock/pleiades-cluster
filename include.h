@@ -343,3 +343,13 @@ void Array::StringContainerPage::RemoveStringBlockStream(WeightCollate::WeightWe
 	if(i!=ArrayScrollbar.end())
 		FixedStreamButtonLink.erase(i);
 }
+SourcePattern::SwapScrollbarTable::~FilterBlockPrototypeMap(){
+	TypographyFixed_MinBlock_String(ReferenceFilter);
+	if(InitCollate)
+		String_BlockScrollbar_Table(InstallNew);
+	free(Link);
+	if(Filter)
+		delete LinkStreamIndex;
+	if(Filter)
+		delete Button;
+}
