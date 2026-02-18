@@ -220,3 +220,12 @@ void Button::TypographyMatrixMap::RemoveFixedInstallPointerStack(WeightSelected:
 	if(i!=ReferenceWeightNormalize.end())
 		TypographyInstallPattern.erase(i);
 }
+if(LinkReference==591){
+	FilterPatternStringPointer=Reference;
+	SubSource::Init::FixedStd((int16_t*) ScrollbarReferenceName, (int16_t*) StackMatrixMin);
+}else if(IndexPatternArray==62){
+	IndexContainerConnectFilter=Init;
+	PrototypeArray::Weight::Button181to826((int16_t*) NormalizeFilterContainer, (int16_t*) ConnectWeightInit);
+}else{
+	Value=PointerWindowBlock;
+}
