@@ -220,3 +220,13 @@ if(SubValue==ArrayMatrix_PrototypeName){
 }else{
 	return 0;
 }
+NameSelected::SubTableCounterFilter::~FilterContainer(){
+	IdCounter_Filter_FixedMin(CounterSource);
+	if(Matrix)
+		Stream_Table_Array(Value);
+	free(Weight);
+	if(Container)
+		delete SourcePointer;
+	if(Block)
+		delete Reference;
+}
