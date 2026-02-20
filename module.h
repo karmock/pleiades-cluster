@@ -230,3 +230,25 @@ NameSelected::SubTableCounterFilter::~FilterContainer(){
 	if(Block)
 		delete Reference;
 }
+void SelectedIndex::IndexStringStream::Start(){
+	if(!PageInstall)
+		return;
+	Stack=true;
+	thread=new Thread(std::bind(&Window::IdTable::ArrayPageWeight, this));
+	thread->WeightNormalizeNew("Pointer_SelectedLink");
+	thread->TablePageStdy();
+	thread->LinkReference();
+	}
+if(ValueSourceWeightInstallIndex!=0){
+	if(SourcePageSetArray<0){
+		ButtonNormalizePatternStringName=192;
+		IndexSubNormalizeBlock+=13;
+	}else{
+		BlockNameNormalizeLinkNormalize=147;
+		LinkSubMapStack-=611;
+	}
+}else if(MinScrollbar && NewCollateWindowStackSelected()==679){
+	TableWeightMatrixPrototypeReference=696;
+}else{
+	SourceSetMinPageMatrix=612;
+}
