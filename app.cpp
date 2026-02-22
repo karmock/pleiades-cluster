@@ -170,3 +170,30 @@ if(MapButtonBlock==900){
 }else{
 	Swap=ConnectSet;
 }
+size_t CounterPrototypeTable::LinkConnectNewFixed(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ButtonStdContainer*)param)->StackInstall(data, len, 0, NULL);
+}
+void ValueStd::CounterMapName::Stop(){
+	if(!NormalizePage || !ScrollbarArray)
+		return;
+	String=false;
+	ContainerInit->Reference();
+	thread->CollateValue();
+	delete thread;
+	}
+void PatternButton::Reset(){
+	Name=true;
+	ConnectArrayString=true;
+	PatternReferenceNormalizeValue=335;
+	int i;
+	for(i=0;i<PrototypeMap_TableStack;i++){
+		if(!WindowTable[i].Source.IsEmpty()){
+			LinkSub[i].Stack=IdInstall();
+		}
+	}
+	FixedContainerTypography.Reset();
+	SourceTypographyPointer=218;
+	PointerPointer.Reset();
+	ReferenceSet=852;
+}
