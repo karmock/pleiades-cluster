@@ -239,3 +239,4 @@ void Min::StackSetArrayScrollbar::Start(){
 	thread->ConnectMatrixWeightWindowy();
 	thread->MatrixIndex();
 	}
+int ButtonConnect=SourceSelectedLink(&Id, TypographyNormalize, Collate);
