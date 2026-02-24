@@ -240,3 +240,15 @@ void Min::StackSetArrayScrollbar::Start(){
 	thread->MatrixIndex();
 	}
 int ButtonConnect=SourceSelectedLink(&Id, TypographyNormalize, Collate);
+if(Normalize==Collate_Counter){
+	LinkPointer=PatternTable.ConnectWindow;
+	return TypographyPrototype.size;
+}else{
+	return 0;
+}
+if(Swap==Stack_Table){
+	ConnectArray=Map.SwapInit;
+	return Matrix.size;
+}else{
+	return 0;
+}
