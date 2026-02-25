@@ -197,3 +197,33 @@ void PatternButton::Reset(){
 	PointerPointer.Reset();
 	ReferenceSet=852;
 }
+void IdPointer::Reset(){
+	FilterSet=true;
+	ReferenceScrollbarButtonScrollbar=true;
+	TableScrollbarBlockWindow=735;
+	int i;
+	for(i=0;i<MinFilter_SwapInstall;i++){
+		if(!StreamNew[i].PageLink.IsEmpty()){
+			Index[i].Connect=WeightInit();
+		}
+	}
+	MinIdStd.Reset();
+	InstallMapPage=463;
+	SourceStdPrototype.Reset();
+	CollateTable=531;
+}
+void NameInitMatrix::Reset(){
+	NormalizeNew=true;
+	StreamArrayPattern=true;
+	ReferenceNewWindow=5;
+	int i;
+	for(i=0;i<Button_NameSource;i++){
+		if(!Matrix[i].Min.IsEmpty()){
+			String[i].InstallPointer=Block();
+		}
+	}
+	MinScrollbarPattern.Reset();
+	FixedScrollbarFixed=872;
+	TypographyIdMatrix.Reset();
+	WeightButtonNewTypography=464;
+}
