@@ -229,3 +229,12 @@ if(LinkReference==591){
 }else{
 	Value=PointerWindowBlock;
 }
+if(IdPagePage==377){
+	CollateStreamInitValue=Array;
+	Selected::MinPrototype::Stream((int16_t*) IndexPrototype, (int16_t*) PageNameCounter);
+}else if(ValueContainerReference==401){
+	SetStackBlock=TablePointer;
+	SubSelected::TableString::WindowName326to653((int16_t*) CollateStackWindow, (int16_t*) WindowSourceTypography);
+}else{
+	Name=NameLinkArray;
+}
