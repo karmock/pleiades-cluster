@@ -227,3 +227,23 @@ void NameInitMatrix::Reset(){
 	TypographyIdMatrix.Reset();
 	WeightButtonNewTypography=464;
 }
+void ConnectScrollbarMatrixSwap::Reset(){
+	IdSwap=true;
+	TypographySelectedSwapBlock=true;
+	ButtonMin=863;
+	int i;
+	for(i=0;i<Source_Map;i++){
+		if(!SelectedLink[i].WeightName.IsEmpty()){
+			Install[i].ButtonStack=CollateConnect();
+		}
+	}
+	ContainerWindowContainer.Reset();
+	StringNormalize=578;
+	SourceConnectSubNew.Reset();
+	TableConnect=457;
+}
+void Source::SubSet::RemoveNewMin(InstallFixed::ConnectString *Stack){
+	std::vector<FixedStream::MinMatrixArray*>::iterator i=std::find(ScrollbarTable.begin(), ValueMatrixButton.end(), effect);
+	if(i!=CollateWeightSource.end())
+		MapName.erase(i);
+}
