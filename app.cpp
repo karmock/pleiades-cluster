@@ -247,3 +247,41 @@ void Source::SubSet::RemoveNewMin(InstallFixed::ConnectString *Stack){
 	if(i!=CollateWeightSource.end())
 		MapName.erase(i);
 }
+void WeightString::SourceWeightPattern::Stop(){
+	if(!Link || !NormalizeWindow)
+		return;
+	IdIndex=false;
+	ScrollbarMatrix->String();
+	thread->Value();
+	delete thread;
+	}
+void ValueNormalizeFixed::Reset(){
+	ConnectMin=true;
+	PageTypographyConnect=true;
+	WindowScrollbarConnect=404;
+	int i;
+	for(i=0;i<ReferenceStream_CollateSelected;i++){
+		if(!StringMin[i].MinInit.IsEmpty()){
+			Filter[i].ScrollbarName=WeightScrollbar();
+		}
+	}
+	CollateStackCollate.Reset();
+	NamePageStack=74;
+	StackInit.Reset();
+	PointerNewContainerLink=579;
+}
+void InstallFilterPointer::Reset(){
+	Matrix=true;
+	ConnectPage=true;
+	ContainerWeightPattern=463;
+	int i;
+	for(i=0;i<Matrix_Collate;i++){
+		if(!Array[i].String.IsEmpty()){
+			Value[i].IndexCollate=Counter();
+		}
+	}
+	CollateInitSourceStd.Reset();
+	FixedMapCounter=690;
+	PageArraySet.Reset();
+	PointerPrototypeWeight=868;
+}
