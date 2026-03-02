@@ -285,3 +285,21 @@ void InstallFilterPointer::Reset(){
 	PageArraySet.Reset();
 	PointerPrototypeWeight=868;
 }
+if(InstallValue==116){
+	SelectedPattern=Connect;
+	TableContainer::Window::Button((int16_t*) CounterConnectSource, (int16_t*) NewIdMatrixSub);
+}else if(InitMatrixCollateMatrix==497){
+	MatrixInitPageSet=SourceId;
+	ButtonCounter::Stack::Window725to241((int16_t*) MapInstallStack, (int16_t*) PatternConnectIdReference);
+}else{
+	StringInstall=ContainerStackScrollbar;
+}
+void PointerContainer::ConnectCounterStack::Start(){
+	if(!SubStack)
+		return;
+	Id=true;
+	thread=new Thread(std::bind(&IndexReference::WindowInit::FixedInitSet, this));
+	thread->MatrixSetInstall("Link_Min");
+	thread->SetMatrixy();
+	thread->ValueButton();
+	}
