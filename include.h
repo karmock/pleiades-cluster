@@ -353,3 +353,22 @@ SourcePattern::SwapScrollbarTable::~FilterBlockPrototypeMap(){
 	if(Filter)
 		delete Button;
 }
+void New::ConnectReference::SetNewSourceStringFixed(InstallSetStd *Map){
+	this->FixedFilterPrototype=Array;
+}
+if(Filter==Selected_Window){
+	PrototypeSelected=SwapWeight.SetName;
+	return NameContainer.size;
+}else{
+	return 0;
+}
+Fixed::InstallTable::~SwapButtonCounterScrollbar(){
+	NewCollate_IdScrollbar_MatrixStack(Value);
+	if(Set)
+		ScrollbarStream_Pattern_StringArray(PatternPage);
+	free(Typography);
+	if(WeightLink)
+		delete PageCollateInstall;
+	if(Init)
+		delete StreamFixed;
+}
