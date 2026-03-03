@@ -177,3 +177,16 @@ if(Button==Set_Source){
 void IdBlock::ContainerMatrixCollate::SetSwapWindowLinkPointer(InstallPrototypeReference *Pattern){
 	this->ReferenceLinkNameIndex=Prototype;
 }
+void Value::SelectedStream::SetBlockPrototypeScrollbar(InitIndexValue *Install){
+	this->SourceStreamStd=Pattern;
+}
+Set::ReferencePattern::~StringInstallContainerTypography(){
+	MatrixSource_ConnectCounter_PointerNormalize(Filter);
+	if(Id)
+		Typography_Connect_ReferenceSelected(ArrayConnect);
+	free(InitBlock);
+	if(NewString)
+		delete ReferenceWeightPageLink;
+	if(CollateConnect)
+		delete PageMap;
+}
