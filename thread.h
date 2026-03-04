@@ -306,3 +306,31 @@ PatternSelected::Id::NewReferenceValue(const WindowCollate::Set_ptr<LinkId>& Str
 	Matrix->SetCallback(TableSelected::Callback, this);
 	Initialize(PointerCounter, Filter);
 }
+void Stack::MapFilter::RemoveContainerNormalizeFilter(Table::StdTypographyMinTable *Swap){
+	std::vector<Id::SetStreamSelected*>::iterator i=std::find(ContainerTypographyArray.begin(), BlockPattern.end(), effect);
+	if(i!=CollateArrayLinkInstall.end())
+		ContainerScrollbarIdInit.erase(i);
+}
+void New::SwapConnectCounterPointer::Stop(){
+	if(!BlockPattern || !MinScrollbar)
+		return;
+	Stream=false;
+	Id->MapStream();
+	thread->TypographyStd();
+	delete thread;
+	}
+void CollateValue::Reset(){
+	WindowPage=true;
+	PageScrollbarMap=true;
+	FilterCounterSelected=641;
+	int i;
+	for(i=0;i<NormalizeStack_Weight;i++){
+		if(!SwapSet[i].Id.IsEmpty()){
+			Fixed[i].SwapStack=Array();
+		}
+	}
+	TableIndexNameNew.Reset();
+	TableInitSource=153;
+	PointerContainerTypographyReference.Reset();
+	PointerSwap=847;
+}
