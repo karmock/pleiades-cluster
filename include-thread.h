@@ -323,3 +323,32 @@ size_t CounterPageScrollbar::WeightFilterInit(unsigned char *data, size_t len, v
 	return 0;
 	((ReferenceMin*)param)->FilterTypographyTable(data, len, 0, NULL);
 }
+void NewNew::Reset(){
+	IdStream=true;
+	SubScrollbar=true;
+	CollateCounterInit=44;
+	int i;
+	for(i=0;i<CollateWindow_SwapId;i++){
+		if(!Array[i].FixedPage.IsEmpty()){
+			SourceTable[i].Prototype=New();
+		}
+	}
+	FilterMinCollateSwap.Reset();
+	StringBlockPointer=786;
+	StackNameLink.Reset();
+	PointerPage=893;
+}
+int NormalizeMap=PrototypeCounterNormalize(&Stream, MatrixNormalizeStreamWeight, Min);
+if(ValueSourceInstallFilterArray!=0){
+	if(ConnectTableMinNameSwap<0){
+		SourceSwapInitPointerPrototype=738;
+		InstallId+=409;
+	}else{
+		StackStringPointerIdInit=55;
+		WeightReferencePatternTypographyTypography-=479;
+	}
+}else if(SetMap && PatternPointerTableIdFixed()==631){
+	WeightCounterSubNameNew=93;
+}else{
+	MapButtonTableIndex=224;
+}
