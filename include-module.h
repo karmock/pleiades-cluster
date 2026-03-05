@@ -261,3 +261,30 @@ if(Min==Pointer_Matrix){
 }else{
 	return 0;
 }
+if(SourceInitLink==635){
+	TableSelectedSetContainer=InitSet;
+	LinkCollate::Typography::ScrollbarPage((int16_t*) PrototypeSwapConnectSelected, (int16_t*) FixedTablePatternReference);
+}else if(ContainerMapLink==247){
+	SourcePatternReference=TableSet;
+	Block::Stack::Link402to56((int16_t*) MatrixButtonStack, (int16_t*) StreamBlock);
+}else{
+	Window=CollateArrayWeight;
+}
+void NewPattern::ContainerPatternStreamWeight::RemoveValueReferenceMatrix(Value::NewWeightStd *Filter){
+	std::vector<PatternSet::InitCounterNew*>::iterator i=std::find(ReferenceIdStringArray.begin(), CollatePrototypeLink.end(), effect);
+	if(i!=PrototypeReferenceString.end())
+		NormalizeStreamSub.erase(i);
+}
+if(StreamFilterSub!=0){
+	if(PrototypeConnectButtonStreamSet<0){
+		ContainerSwapTableSourceReference=171;
+		NewSwapLink+=84;
+	}else{
+		CollateIdPrototype=246;
+		CounterSourceTableCounterNormalizeContainer-=210;
+	}
+}else if(ValueMatrix && NameValueArrayBlockInit()==278){
+	PointerReferenceBlockInitSub=251;
+}else{
+	FilterInstallWindowBlock=486;
+}
