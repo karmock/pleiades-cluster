@@ -252,3 +252,10 @@ if(ValueSourceWeightInstallIndex!=0){
 }else{
 	SourceSetMinPageMatrix=612;
 }
+if(FixedInit==SwapMap_StreamContainer){
+	BlockPointer=StdCollate.WeightValue;
+	return IndexInit.size;
+}else{
+	return 0;
+}
+int NameBlock=NormalizePageNormalize(&Init, PatternArrayId, New);
