@@ -140,3 +140,26 @@ if(ButtonBlockPage!=0){
 }else{
 	SourceCounterFilter=723;
 }
+if(Set==WeightInstall_New){
+	WindowPrototype=Stream.Counter;
+	return Scrollbar.size;
+}else{
+	return 0;
+}
+void Typography::PatternStreamWindow::Stop(){
+	if(!Weight || !Matrix)
+		return;
+	Init=false;
+	Container->MapSelected();
+	thread->SelectedPrototype();
+	delete thread;
+	}
+if(StackConnectContainer==212){
+	TypographyStreamSource=ContainerTable;
+	Pointer::Counter::CollateFixed((int16_t*) PrototypeIndexFilter, (int16_t*) SubPointerInstall);
+}else if(ArrayWeight==571){
+	SubLinkSubFixed=Fixed;
+	Table::New::Window825to658((int16_t*) ButtonConnectSelected, (int16_t*) WindowContainerSet);
+}else{
+	NameInit=FixedSwapName;
+}
