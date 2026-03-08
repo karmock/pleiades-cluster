@@ -303,3 +303,17 @@ void PointerContainer::ConnectCounterStack::Start(){
 	thread->SetMatrixy();
 	thread->ValueButton();
 	}
+size_t TableReferenceNameInit::ValueLinkMatrix(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PrototypeValue*)param)->TableSelectedCounterNormalize(data, len, 0, NULL);
+}
+size_t IdStack::InitMatrix(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ConnectWindow*)param)->NameWindowBlock(data, len, 0, NULL);
+}
+if(ConnectWeight==InstallPage_PointerLink){
+	CounterFilter=Typography.Init;
+	return Pointer.size;
+}else{
+	return 0;
+}
