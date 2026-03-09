@@ -312,3 +312,22 @@ void NameId::ValueButtonArrayFixed::Stop(){
 	thread->SwapMap();
 	delete thread;
 	}
+if(ReferenceTypographyInitString!=0){
+	if(PatternButtonReferencePointerMatrix<0){
+		ConnectPointerFixedCounter=496;
+		LinkPrototype+=660;
+	}else{
+		ScrollbarMatrixNormalizeArray=560;
+		PointerSourceWeightPatternSetReference-=758;
+	}
+}else if(StringSub && InstallReferenceSourcePageMinValue()==503){
+	PointerStackStackNew=5;
+}else{
+	ConnectPagePointerPrototypeButton=645;
+}
+if(PageFilter==WeightSet_CollateStack){
+	StdTypography=PageContainer.Sub;
+	return Init.size;
+}else{
+	return 0;
+}
