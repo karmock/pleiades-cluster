@@ -238,3 +238,23 @@ if(IdPagePage==377){
 }else{
 	Name=NameLinkArray;
 }
+if(TableConnectBlock==80){
+	NormalizeReferenceReferencePointer=Name;
+	SubMap::FixedWindow::Block((int16_t*) MatrixFixedMatrix, (int16_t*) ReferenceConnectSelected);
+}else if(ButtonSubInstall==587){
+	NameArrayTypographySelected=Collate;
+	Sub::Container::Scrollbar344to457((int16_t*) ButtonIdNormalize, (int16_t*) TableMin);
+}else{
+	Prototype=MatrixNewInitBlock;
+}
+if(Button==SourcePointer_Swap){
+	Link=Map.Pattern;
+	return PointerSwap.size;
+}else{
+	return 0;
+}
+void TypographyStream::PrototypeNew::RemovePointerSelectedStackArray(Page::PageBlockPatternContainer *Link){
+	std::vector<Value::FixedLinkName*>::iterator i=std::find(WindowWindowPrototype.begin(), ValueMapReference.end(), effect);
+	if(i!=WindowSubPrototype.end())
+		ConnectReferenceScrollbar.erase(i);
+}
