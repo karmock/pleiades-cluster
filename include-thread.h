@@ -27,3 +27,33 @@ void Array::ButtonInstallPointer::Start(){
 
 
 
+void StdScrollbarLink::Reset(){
+	Page=true;
+	NewTypographyCollate=true;
+	FilterString=401;
+	int i;
+	for(i=0;i<String_Stack;i++){
+		if(!Table[i].Reference.IsEmpty()){
+			WeightCollate[i].Source=TableFixed();
+		}
+	}
+	MapMatrixReferencePage.Reset();
+	NormalizeStringSourceCounter=671;
+	WindowNormalizeConnect.Reset();
+	ScrollbarName=599;
+}
+void MapStreamInstall::Reset(){
+	MatrixValue=true;
+	ArrayMap=true;
+	BlockNewValue=254;
+	int i;
+	for(i=0;i<Prototype_PageContainer;i++){
+		if(!Install[i].Swap.IsEmpty()){
+			Filter[i].SetStd=MatrixCounter();
+		}
+	}
+	CounterContainerNormalizeWindow.Reset();
+	PatternStreamFilter=516;
+	SubStreamFixed.Reset();
+	WeightSubFilterFixed=887;
+}
