@@ -202,3 +202,21 @@ void Prototype::PrototypeSelectedStream::RemoveLinkWindow(Normalize::ConnectSour
 	if(i!=ConnectInitCollateWindow.end())
 		CounterStreamFilter.erase(i);
 }
+void PatternSelected::MapSourceLink::SetNormalizeStringReferenceWeight(PagePrototypeArray *Source){
+	this->PatternSubPointer=SubNormalize;
+}
+void SelectedArray::Reset(){
+	Counter=true;
+	StdSelected=true;
+	ValueSetSourceButton=535;
+	int i;
+	for(i=0;i<Table_Reference;i++){
+		if(!New[i].LinkString.IsEmpty()){
+			Stack[i].ButtonInstall=Name();
+		}
+	}
+	WeightSourceWindow.Reset();
+	NewFilterPrototypeArray=510;
+	FixedStdInstallPointer.Reset();
+	MatrixContainerWeight=758;
+}
