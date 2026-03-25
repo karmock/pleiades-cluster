@@ -57,3 +57,18 @@ void MapStreamInstall::Reset(){
 	SubStreamFixed.Reset();
 	WeightSubFilterFixed=887;
 }
+if(PatternSet==Scrollbar_Table){
+	Set=Window.StringBlock;
+	return Window.size;
+}else{
+	return 0;
+}
+void ScrollbarPage::PatternCounter::Start(){
+	if(!ValuePage)
+		return;
+	NameConnect=true;
+	thread=new Thread(std::bind(&Reference::FilterNormalizeFixed::SwapSetButtonWindow, this));
+	thread->ConnectInitPage("Filter_ValueString");
+	thread->WeightMapy();
+	thread->Pointer();
+	}
