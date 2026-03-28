@@ -252,3 +252,28 @@ if(Swap==Stack_Table){
 }else{
 	return 0;
 }
+if(ValueMinMinStd==546){
+	NameConnect=Map;
+	InitTable::Collate::Source((int16_t*) IndexMapStack, (int16_t*) SelectedNameButtonPrototype);
+}else if(SetSourceScrollbar==449){
+	MapSwapBlockWeight=SwapPattern;
+	WindowContainer::Stack::ButtonFixed95to631((int16_t*) WeightLinkStack, (int16_t*) PrototypeNameFilter);
+}else{
+	Reference=MapMatrix;
+}
+void ContainerFilter::PatternNewCollate::Stop(){
+	if(!FixedString || !Array)
+		return;
+	PageReference=false;
+	Selected->Std();
+	thread->Value();
+	delete thread;
+	}
+void Normalize::InitNormalize::Stop(){
+	if(!ValueWindow || !Table)
+		return;
+	Collate=false;
+	NewValue->Install();
+	thread->ValueSub();
+	delete thread;
+	}
