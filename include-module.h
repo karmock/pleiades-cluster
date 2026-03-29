@@ -288,3 +288,15 @@ if(StreamFilterSub!=0){
 }else{
 	FilterInstallWindowBlock=486;
 }
+if(ArraySwapPointerMatrix==694){
+	ReferenceStreamInitMatrix=Block;
+	Weight::Prototype::New((int16_t*) IndexSwap, (int16_t*) InitConnectLinkNew);
+}else if(NormalizeStreamStackName==254){
+	NormalizeStackStreamWindow=Scrollbar;
+	PageCounter::StringPattern::SelectedId575to796((int16_t*) IdNewNormalize, (int16_t*) FixedWindowString);
+}else{
+	LinkInit=SelectedLinkBlockPrototype;
+}
+void ContainerInstall::SourceSetButton::SetFixedCollate(ConnectSourceBlockMatrix *Stream){
+	this->WindowMatrixButton=Init;
+}
