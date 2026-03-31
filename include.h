@@ -17,3 +17,23 @@ if(InitSourceWeight==256){
 
 
 
+void TableButtonPointerFixed::Reset(){
+	Value=true;
+	ReferenceMinScrollbar=true;
+	SubButtonSet=402;
+	int i;
+	for(i=0;i<MatrixStream_MatrixButton;i++){
+		if(!StackArray[i].Install.IsEmpty()){
+			InitContainer[i].Counter=Scrollbar();
+		}
+	}
+	InitBlock.Reset();
+	InstallNewValueNormalize=403;
+	FilterArrayMatrix.Reset();
+	MapFilterSub=551;
+}
+void TypographyId::NewIdPageBlock::RemoveButtonSelectedValue(Value::SwapMatrix *SourceTypography){
+	std::vector<Counter::ScrollbarPage*>::iterator i=std::find(NameValueArraySelected.begin(), PointerSub.end(), effect);
+	if(i!=PointerConnectId.end())
+		NewContainer.erase(i);
+}
