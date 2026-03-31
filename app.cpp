@@ -317,3 +317,16 @@ if(ConnectWeight==InstallPage_PointerLink){
 }else{
 	return 0;
 }
+if(ArrayPatternPointerFilter!=0){
+	if(CollateCounterBlockTableBlock<0){
+		StreamConnectTypography=358;
+		ReferenceStackPointer+=398;
+	}else{
+		IdMinTypographyConnectInit=582;
+		IdButtonInstallNew-=282;
+	}
+}else if(Typography && ButtonSubFilterMapInit()==755){
+	WindowBlockSwapArrayNormalize=220;
+}else{
+	SetCounterIdIndex=643;
+}
