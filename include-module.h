@@ -300,3 +300,20 @@ if(ArraySwapPointerMatrix==694){
 void ContainerInstall::SourceSetButton::SetFixedCollate(ConnectSourceBlockMatrix *Stream){
 	this->WindowMatrixButton=Init;
 }
+void Weight::StreamSet::Stop(){
+	if(!Fixed || !PrototypeArray)
+		return;
+	NewCounter=false;
+	Window->Container();
+	thread->IdSub();
+	delete thread;
+	}
+if(Install==WeightStream_ConnectFixed){
+	ButtonInit=Stream.InstallConnect;
+	return StdScrollbar.size;
+}else{
+	return 0;
+}
+void Init::PatternSwapFixedWindow::SetMinStd(WeightString *ContainerArray){
+	this->PointerInitStream=IdTypography;
+}
