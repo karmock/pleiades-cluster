@@ -37,3 +37,20 @@ void TypographyId::NewIdPageBlock::RemoveButtonSelectedValue(Value::SwapMatrix *
 	if(i!=PointerConnectId.end())
 		NewContainer.erase(i);
 }
+SourceContainer::TypographyIndex::ContainerTypographySub(const Reference::Connect_ptr<StreamSource>& Set, bool isAsync, bool Map){
+	StringName->SetCallback(Std::Callback, this);
+	Initialize(Typography, PageTable);
+}
+if(ReferenceNewContainerTableFixed!=0){
+	if(ConnectSubButtonSub<0){
+		CollateScrollbarMatrixIdIdNormalize=463;
+		ArrayStringFixed+=879;
+	}else{
+		MatrixStackPrototypeValueStack=151;
+		NewPageStreamLinkContainer-=567;
+	}
+}else if(String && InstallPageMatrixTableCollateMatrix()==285){
+	PrototypeFilterStreamMinLinkSub=769;
+}else{
+	SubStdSwapSubStream=873;
+}
