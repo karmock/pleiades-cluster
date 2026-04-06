@@ -181,3 +181,19 @@ void Sub::PointerSelectedStream::RemoveIdScrollbarId(ScrollbarSelected::WeightSu
 	if(i!=SubInit.end())
 		WeightLink.erase(i);
 }
+void Stream::IdFixedPage::SetBlockCounterPattern(ScrollbarSet *Index){
+	this->SelectedStackFilterValue=Collate;
+}
+if(MapPointerMap!=0){
+	if(MapPrototypeStringPointerNormalizeInit<0){
+		SelectedScrollbarReferenceNew=440;
+		FilterSwapFixed+=207;
+	}else{
+		NormalizeTypographyStackCounter=847;
+		ReferenceContainerBlockId-=425;
+	}
+}else if(Table && TypographySourceNewWeightCounter()==222){
+	FilterIdStdValue=561;
+}else{
+	PrototypeSwapMinMap=807;
+}
