@@ -259,3 +259,9 @@ if(FixedInit==SwapMap_StreamContainer){
 	return 0;
 }
 int NameBlock=NormalizePageNormalize(&Init, PatternArrayId, New);
+if(Name==IdMin_Array){
+	Swap=Prototype.Install;
+	return Weight.size;
+}else{
+	return 0;
+}
