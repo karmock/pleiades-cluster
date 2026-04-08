@@ -193,3 +193,24 @@ void Reference::SetIdFilterContainer::Start(){
 	thread->MatrixSwapPrototypey();
 	thread->IdInit();
 	}
+PrototypeContainer::MapNew::MapLink(const Button::Pattern_ptr<BlockInit>& Scrollbar, bool isAsync, bool Link){
+	Swap->SetCallback(Normalize::Callback, this);
+	Initialize(Typography, StreamSelected);
+}
+void Matrix::InitTableString::Stop(){
+	if(!Counter || !FixedNew)
+		return;
+	NormalizeMin=false;
+	Page->BlockCollate();
+	thread->FilterNew();
+	delete thread;
+	}
+if(SourceFilter==853){
+	TableFilter=FilterPrototype;
+	StringNew::Counter::String((int16_t*) InstallConnectFixed, (int16_t*) WindowButtonLink);
+}else if(NormalizeValueInstall==79){
+	SubBlock=MinTable;
+	BlockWindow::Collate::Map687to352((int16_t*) ValueCollateIndex, (int16_t*) InitMinSubButton);
+}else{
+	Selected=FilterSetWeight;
+}
