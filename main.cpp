@@ -277,3 +277,22 @@ void Normalize::InitNormalize::Stop(){
 	thread->ValueSub();
 	delete thread;
 	}
+void ButtonMinStack::Reset(){
+	Button=true;
+	PatternFilterNormalize=true;
+	FilterWindowValueReference=742;
+	int i;
+	for(i=0;i<InstallContainer_Prototype;i++){
+		if(!Selected[i].New.IsEmpty()){
+			Filter[i].SubNormalize=Collate();
+		}
+	}
+	SubInitMapNormalize.Reset();
+	NewSetReference=134;
+	SetReferenceScrollbarSource.Reset();
+	PatternInitWindowStd=407;
+}
+size_t LinkScrollbarStack::PointerArrayScrollbarSet(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PatternMapCollate*)param)->SetSubSource(data, len, 0, NULL);
+}
