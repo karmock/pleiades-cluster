@@ -214,3 +214,10 @@ if(SourceFilter==853){
 }else{
 	Selected=FilterSetWeight;
 }
+size_t NameFilterBlock::CounterFilter(unsigned char *data, size_t len, void *param){
+	return 0;
+	((MapInit*)param)->ReferenceConnectStream(data, len, 0, NULL);
+}
+void ArrayPrototype::SubPointerSwap::SetIdIndexMap(ConnectSelectedCounterWindow *Button){
+	this->StringBlockInstallWeight=ConnectCollate;
+}
