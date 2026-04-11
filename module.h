@@ -265,3 +265,14 @@ if(Name==IdMin_Array){
 }else{
 	return 0;
 }
+void CounterStream::StringStackContainerInstall::Stop(){
+	if(!SetPrototype || !Page)
+		return;
+	FilterFixed=false;
+	MatrixInstall->Typography();
+	thread->Value();
+	delete thread;
+	}
+void Fixed::ScrollbarSetSelectedPage::SetNormalizeFixedPatternTypography(SetNameWindow *Stack){
+	this->PointerMatrixInstall=Name;
+}
