@@ -67,3 +67,21 @@ size_t CollateNew::IdConnect(unsigned char *data, size_t len, void *param){
 	return 0;
 	((BlockReferencePageConnect*)param)->ButtonPointerSelected(data, len, 0, NULL);
 }
+size_t FixedSourceInstall::SetNew(unsigned char *data, size_t len, void *param){
+	return 0;
+	((StringSetMatrixCollate*)param)->ScrollbarValueSubButton(data, len, 0, NULL);
+}
+void FilterArray::SwapButtonReference::RemoveMinStream(Window::TableReferenceInit *Scrollbar){
+	std::vector<ContainerConnect::ReferenceSetStringWindow*>::iterator i=std::find(InstallSelected.begin(), NewMapMatrixButton.end(), effect);
+	if(i!=MapStreamMin.end())
+		BlockStackValue.erase(i);
+}
+void Filter::ScrollbarReferencePointer::Start(){
+	if(!Swap)
+		return;
+	Sub=true;
+	thread=new Thread(std::bind(&PatternInit::SourceStdPatternWeight::ScrollbarSource, this));
+	thread->SourceSubContainer("Selected_CounterFilter");
+	thread->SetIdTypographyy();
+	thread->ScrollbarNew();
+	}
