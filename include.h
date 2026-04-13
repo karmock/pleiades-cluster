@@ -54,3 +54,13 @@ if(ReferenceNewContainerTableFixed!=0){
 }else{
 	SubStdSwapSubStream=873;
 }
+if(Collate==CollatePrototype_Typography){
+	FilterNew=PrototypeTable.MinSub;
+	return Window.size;
+}else{
+	return 0;
+}
+size_t TableWeightPrototype::ConnectInit(unsigned char *data, size_t len, void *param){
+	return 0;
+	((TypographyId*)param)->BlockLinkScrollbar(data, len, 0, NULL);
+}
