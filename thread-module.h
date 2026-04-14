@@ -190,3 +190,17 @@ Set::ReferencePattern::~StringInstallContainerTypography(){
 	if(CollateConnect)
 		delete PageMap;
 }
+int Button=NameSourceIndex(&PointerSet, SourcePatternMin, ContainerLink);
+void CounterBlock::BlockNew::SetFixedStringValueIndex(InstallSetInstallBlock *Array){
+	this->FixedButtonBlock=Map;
+}
+String::NormalizeLinkConnectWindow::~NewLink(){
+	StdFixed_Selected_ScrollbarTypography(Pattern);
+	if(PatternName)
+		ArrayConnect_Map_Init(Window);
+	free(SwapLink);
+	if(NameCounter)
+		delete StreamSelectedTypographyId;
+	if(MapContainer)
+		delete Source;
+}
