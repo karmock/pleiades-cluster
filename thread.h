@@ -334,3 +334,36 @@ void CollateValue::Reset(){
 	PointerContainerTypographyReference.Reset();
 	PointerSwap=847;
 }
+void PatternValue::StringCollate::Stop(){
+	if(!Pattern || !PatternStream)
+		return;
+	Name=false;
+	Container->StackSelected();
+	thread->Fixed();
+	delete thread;
+	}
+void IdSubStack::Reset(){
+	Typography=true;
+	ValueFilter=true;
+	CounterTypography=541;
+	int i;
+	for(i=0;i<CollateName_Scrollbar;i++){
+		if(!WindowBlock[i].Install.IsEmpty()){
+			NameScrollbar[i].StreamFixed=BlockConnect();
+		}
+	}
+	StackInitSourceNew.Reset();
+	StdCounterFixed=886;
+	ReferencePage.Reset();
+	CounterButtonScrollbarConnect=310;
+}
+InitSelected::ReferenceSourceFixedInstall::~SourcePageStream(){
+	SetReference_Collate_Sub(Selected);
+	if(PatternArray)
+		Install_ButtonPattern_MatrixBlock(PageSwap);
+	free(Map);
+	if(TablePage)
+		delete StackConnect;
+	if(WeightWindow)
+		delete NormalizeTable;
+}
