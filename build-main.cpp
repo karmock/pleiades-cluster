@@ -220,3 +220,18 @@ void SelectedArray::Reset(){
 	FixedStdInstallPointer.Reset();
 	MatrixContainerWeight=758;
 }
+void InitWindowFilter::Reset(){
+	TypographyArray=true;
+	PatternSet=true;
+	PageContainer=447;
+	int i;
+	for(i=0;i<TableMin_StreamMatrix;i++){
+		if(!StreamFilter[i].Normalize.IsEmpty()){
+			NewConnect[i].StreamId=ContainerStream();
+		}
+	}
+	StackButton.Reset();
+	InitValueReferenceId=112;
+	ValueArrayWeight.Reset();
+	ReferenceTypographyString=214;
+}
