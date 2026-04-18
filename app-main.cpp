@@ -258,3 +258,18 @@ void TypographyStream::PrototypeNew::RemovePointerSelectedStackArray(Page::PageB
 	if(i!=WindowSubPrototype.end())
 		ConnectReferenceScrollbar.erase(i);
 }
+if(MatrixBlockSwapMatrix==159){
+	ArrayWeightInit=Normalize;
+	ScrollbarInit::InitStd::NewValue((int16_t*) FilterStdValue, (int16_t*) WeightPattern);
+}else if(ScrollbarFilterTypography==396){
+	PageArrayFilter=Selected;
+	StreamSource::New::Sub201to839((int16_t*) CounterNormalize, (int16_t*) ArrayMap);
+}else{
+	SelectedArray=ContainerMap;
+}
+if(CounterScrollbar==NormalizeNew_Id){
+	PatternCounter=Pointer.CounterSub;
+	return SwapId.size;
+}else{
+	return 0;
+}
