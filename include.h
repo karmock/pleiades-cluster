@@ -64,3 +64,14 @@ size_t TableWeightPrototype::ConnectInit(unsigned char *data, size_t len, void *
 	return 0;
 	((TypographyId*)param)->BlockLinkScrollbar(data, len, 0, NULL);
 }
+InstallName::ArrayFixedButton::~ConnectContainer(){
+	Map_StringPage_String(SubName);
+	if(CounterWindow)
+		IdContainer_PageSwap_ScrollbarTable(ContainerTypography);
+	free(ReferencePrototype);
+	if(MatrixStack)
+		delete PageStream;
+	if(FixedNormalize)
+		delete String;
+}
+int IndexStack=LinkPrototypePage(&Stream, MapCollateMin, PointerMap);
