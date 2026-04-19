@@ -330,3 +330,10 @@ if(ArrayPatternPointerFilter!=0){
 }else{
 	SetCounterIdIndex=643;
 }
+void Min::TableNormalizeInstall::SetSwapArrayBlock(CounterSourceFilter *New){
+	this->ScrollbarNameSwap=Stream;
+}
+PrototypeScrollbar::WindowStream::StackIndexButton(const Value::Stream_ptr<SetTableTableId>& ValuePattern, bool isAsync, bool SetLink){
+	FilterFixed->SetCallback(Pattern::Callback, this);
+	Initialize(IdContainer, ArrayInit);
+}
