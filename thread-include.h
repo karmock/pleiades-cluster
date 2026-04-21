@@ -197,3 +197,29 @@ if(MapPointerMap!=0){
 }else{
 	PrototypeSwapMinMap=807;
 }
+void Std::SetStd::RemoveScrollbarCollatePage(Page::ArrayPatternTypography *MapMatrix){
+	std::vector<IndexName::ScrollbarArray*>::iterator i=std::find(TableSelectedMapIndex.begin(), WeightPage.end(), effect);
+	if(i!=PageCollate.end())
+		SwapInitSet.erase(i);
+}
+void PrototypeMinButtonIndex::Reset(){
+	Collate=true;
+	FilterStreamSelected=true;
+	MinValueSource=784;
+	int i;
+	for(i=0;i<Reference_ReferencePattern;i++){
+		if(!Swap[i].Min.IsEmpty()){
+			Install[i].Counter=ArrayWeight();
+		}
+	}
+	SwapWindow.Reset();
+	SelectedInitWeightSelected=335;
+	ContainerCollateSub.Reset();
+	LinkMatrixSetMap=124;
+}
+if(Matrix==PageConnect_Scrollbar){
+	Connect=StringInstall.Install;
+	return Array.size;
+}else{
+	return 0;
+}
