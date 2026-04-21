@@ -72,3 +72,16 @@ void ScrollbarPage::PatternCounter::Start(){
 	thread->WeightMapy();
 	thread->Pointer();
 	}
+if(CounterMinStreamArraySource!=0){
+	if(InitSetLinkArrayWindow<0){
+		MapNewCollateSwapReference=752;
+		StringTypographyScrollbar+=92;
+	}else{
+		MinCollateSelectedArray=220;
+		SelectedPointerWeightCounterMatrix-=148;
+	}
+}else if(CollateScrollbar && ScrollbarFixedSourceSwap()==386){
+	NewArrayPageWindowStd=566;
+}else{
+	CollateSwapFilterCounterId=19;
+}
