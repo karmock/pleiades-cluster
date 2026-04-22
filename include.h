@@ -75,3 +75,14 @@ InstallName::ArrayFixedButton::~ConnectContainer(){
 		delete String;
 }
 int IndexStack=LinkPrototypePage(&Stream, MapCollateMin, PointerMap);
+void Weight::ArrayMapLink::RemoveFixedNormalizeArray(Map::MapMapMin *Selected){
+	std::vector<Name::WeightSourceNormalize*>::iterator i=std::find(CollateNamePointer.begin(), StreamButtonBlock.end(), effect);
+	if(i!=StreamSwapStack.end())
+		StringSelectedTypography.erase(i);
+}
+if(Sub==NormalizeTypography_Pointer){
+	StackLink=Reference.PatternPage;
+	return String.size;
+}else{
+	return 0;
+}
