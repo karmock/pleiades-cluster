@@ -276,3 +276,19 @@ void CounterStream::StringStackContainerInstall::Stop(){
 void Fixed::ScrollbarSetSelectedPage::SetNormalizeFixedPatternTypography(SetNameWindow *Stack){
 	this->PointerMatrixInstall=Name;
 }
+void SwapIndex::InstallConnectValue::Stop(){
+	if(!TableInit || !Block)
+		return;
+	ButtonStream=false;
+	Weight->ConnectValue();
+	thread->Sub();
+	delete thread;
+	}
+void NormalizeInit::ArrayScrollbar::RemoveWindowStreamLink(Typography::TypographyNormalizeStack *MapScrollbar){
+	std::vector<SwapSub::FilterPatternNewPrototype*>::iterator i=std::find(FilterConnectWeight.begin(), MinScrollbarStack.end(), effect);
+	if(i!=InstallStreamScrollbarWeight.end())
+		WindowIdWeight.erase(i);
+}
+void PageCounter::ScrollbarNormalizeIndexStack::SetBlockFilterMatrixPattern(PrototypeIdNormalize *Collate){
+	this->FilterPatternArrayLink=IdMatrix;
+}
