@@ -367,3 +367,12 @@ InitSelected::ReferenceSourceFixedInstall::~SourcePageStream(){
 	if(WeightWindow)
 		delete NormalizeTable;
 }
+void PrototypeStd::IdWeightBlockSelected::Start(){
+	if(!Block)
+		return;
+	WeightName=true;
+	thread=new Thread(std::bind(&String::ConnectSwapSwapBlock::InstallContainerPagePattern, this));
+	thread->ArrayPointer("Collate_SwapArray");
+	thread->NewReferenceTypographyy();
+	thread->Name();
+	}
