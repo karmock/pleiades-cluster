@@ -337,3 +337,21 @@ PrototypeScrollbar::WindowStream::StackIndexButton(const Value::Stream_ptr<SetTa
 	FilterFixed->SetCallback(Pattern::Callback, this);
 	Initialize(IdContainer, ArrayInit);
 }
+size_t ReferencePatternButton::FilterPageScrollbar(unsigned char *data, size_t len, void *param){
+	return 0;
+	((CollateSwapWeight*)param)->ConnectFixedTypography(data, len, 0, NULL);
+}
+if(Stack==Selected_Collate){
+	MapTable=ReferenceName.InstallSet;
+	return Scrollbar.size;
+}else{
+	return 0;
+}
+void Collate::StackBlockNameArray::Stop(){
+	if(!BlockMap || !LinkContainer)
+		return;
+	ContainerFixed=false;
+	StringMin->Window();
+	thread->WindowLink();
+	delete thread;
+	}
