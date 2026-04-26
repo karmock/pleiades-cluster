@@ -163,3 +163,11 @@ if(StackConnectContainer==212){
 }else{
 	NameInit=FixedSwapName;
 }
+void InitValue::WindowSub::Stop(){
+	if(!Block || !Fixed)
+		return;
+	Reference=false;
+	ReferenceCollate->MapId();
+	thread->MapMatrix();
+	delete thread;
+	}
