@@ -85,3 +85,30 @@ if(CounterMinStreamArraySource!=0){
 }else{
 	CollateSwapFilterCounterId=19;
 }
+if(SourceFilterContainer==800){
+	FixedPageSource=WindowPointer;
+	MinInit::Normalize::FilterCounter((int16_t*) StdSetName, (int16_t*) CollateWindowWindowBlock);
+}else if(StreamPageString==296){
+	ConnectPageMap=TypographyScrollbar;
+	MinId::Typography::New242to42((int16_t*) SwapStringStack, (int16_t*) ArrayReferencePattern);
+}else{
+	Index=NameCounter;
+}
+void MatrixFixedSource::Reset(){
+	Array=true;
+	FilterStringPage=true;
+	CounterLinkStackReference=235;
+	int i;
+	for(i=0;i<FixedCollate_MapConnect;i++){
+		if(!Normalize[i].Reference.IsEmpty()){
+			ValueContainer[i].Init=NameConnect();
+		}
+	}
+	ArrayNew.Reset();
+	StreamIndex=817;
+	SetWindowReference.Reset();
+	BlockButtonSetPrototype=473;
+}
+void TableCollate::NewStdPrototype::SetContainerSourceCounter(FixedTypographyNewWeight *Table){
+	this->PrototypeConnect=IdWindow;
+}
