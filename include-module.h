@@ -317,3 +317,17 @@ if(Install==WeightStream_ConnectFixed){
 void Init::PatternSwapFixedWindow::SetMinStd(WeightString *ContainerArray){
 	this->PointerInitStream=IdTypography;
 }
+SetMin::NormalizePageInstallPage::~ButtonIndexNormalizeMin(){
+	Init_ArrayPointer_Link(PrototypeWeight);
+	if(TableMin)
+		PointerReference_Set_Stream(TableSelected);
+	free(Page);
+	if(PatternWindow)
+		delete MatrixMinReferencePattern;
+	if(ArrayPage)
+		delete NormalizeStack;
+}
+size_t SelectedContainer::PrototypeFilterPageTypography(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ContainerConnectCounter*)param)->WindowMin(data, len, 0, NULL);
+}
