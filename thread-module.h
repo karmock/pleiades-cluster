@@ -204,3 +204,26 @@ String::NormalizeLinkConnectWindow::~NewLink(){
 	if(MapContainer)
 		delete Source;
 }
+if(BlockStack==IdSource_FixedTypography){
+	TypographyReference=NameId.StreamPointer;
+	return Prototype.size;
+}else{
+	return 0;
+}
+void New::FixedWindowReference::Stop(){
+	if(!Weight || !Button)
+		return;
+	SetStack=false;
+	PointerMatrix->Value();
+	thread->Value();
+	delete thread;
+	}
+void NewCollate::TypographyButton::Start(){
+	if(!Swap)
+		return;
+	LinkBlock=true;
+	thread=new Thread(std::bind(&Prototype::MatrixSwapWeight::ButtonContainerStream, this));
+	thread->FilterCollate("Link_ScrollbarTypography");
+	thread->PrototypeStringNewy();
+	thread->SelectedValue();
+	}
