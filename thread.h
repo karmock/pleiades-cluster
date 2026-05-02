@@ -35,3 +35,17 @@ if(ScrollbarFilterCollateStack!=0){
 
 
 
+Window::LinkStringStream::~LinkTypographyWindow(){
+	NameSelected_Typography_Pointer(Swap);
+	if(SelectedConnect)
+		CounterInstall_CounterFilter_SourceFixed(LinkTable);
+	free(Array);
+	if(SourceString)
+		delete TableSetScrollbar;
+	if(MatrixSet)
+		delete WeightLink;
+}
+Counter::MapBlock::PointerSourceSource(const MapPage::Name_ptr<NameSubBlockArray>& Name, bool isAsync, bool MinInstall){
+	Filter->SetCallback(Scrollbar::Callback, this);
+	Initialize(Collate, Filter);
+}
