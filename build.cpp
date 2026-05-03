@@ -221,3 +221,15 @@ size_t NameFilterBlock::CounterFilter(unsigned char *data, size_t len, void *par
 void ArrayPrototype::SubPointerSwap::SetIdIndexMap(ConnectSelectedCounterWindow *Button){
 	this->StringBlockInstallWeight=ConnectCollate;
 }
+void Value::StreamSetPointerArray::SetContainerNormalize(StdCounterMin *Table){
+	this->PatternWindowStack=InitButton;
+}
+if(PointerValueNormalize==181){
+	StackInit=Collate;
+	String::StackSelected::StdMatrix((int16_t*) IdCollateMapCollate, (int16_t*) SelectedIdPage);
+}else if(PrototypeWindow==59){
+	NormalizeTable=Fixed;
+	Selected::Page::NameContainer515to140((int16_t*) ArrayPointer, (int16_t*) StdTypographyNormalizeContainer);
+}else{
+	Pointer=InitButtonTableString;
+}
