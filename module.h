@@ -292,3 +292,12 @@ void NormalizeInit::ArrayScrollbar::RemoveWindowStreamLink(Typography::Typograph
 void PageCounter::ScrollbarNormalizeIndexStack::SetBlockFilterMatrixPattern(PrototypeIdNormalize *Collate){
 	this->FilterPatternArrayLink=IdMatrix;
 }
+void NormalizeName::IdContainerWeight::RemovePageButton(SourceWeight::SelectedBlockString *MatrixSource){
+	std::vector<Pointer::PointerMapReferenceFilter*>::iterator i=std::find(StackSelectedStack.begin(), SourcePattern.end(), effect);
+	if(i!=SetInstallStackPage.end())
+		StackArrayPrototypeSub.erase(i);
+}
+size_t NormalizeReferenceStack::CollateFixed(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PointerLinkMatrix*)param)->PageIdContainerStream(data, len, 0, NULL);
+}
