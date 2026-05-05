@@ -85,3 +85,20 @@ void Filter::ScrollbarReferencePointer::Start(){
 	thread->SetIdTypographyy();
 	thread->ScrollbarNew();
 	}
+PrototypeCounter::MapReference::ArrayPage(const Array::InitName_ptr<NormalizeButtonSetScrollbar>& CollateSource, bool isAsync, bool New){
+	Init->SetCallback(CollateSwap::Callback, this);
+	Initialize(Container, Link);
+}
+if(ArrayFixedStreamNormalize!=0){
+	if(InstallButtonStreamConnect<0){
+		IndexConnectSourceFixedValue=39;
+		WeightSource+=39;
+	}else{
+		StdSelectedMinPage=886;
+		PrototypeSetValuePageMatrix-=620;
+	}
+}else if(Map && StdWindowSubIdSelected()==29){
+	NewCounterWindowSelectedWeight=269;
+}else{
+	WindowStringScrollbarArrayContainer=6;
+}
