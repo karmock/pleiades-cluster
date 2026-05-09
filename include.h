@@ -86,3 +86,31 @@ if(Sub==NormalizeTypography_Pointer){
 }else{
 	return 0;
 }
+if(Table==Weight_LinkPattern){
+	TableWeight=ButtonTypography.Reference;
+	return Init.size;
+}else{
+	return 0;
+}
+if(CounterBlockButtonNormalize!=0){
+	if(ReferenceWeightLinkNewNameTable<0){
+		StdValueIdMapName=390;
+		TableSelected+=758;
+	}else{
+		ConnectLinkButtonContainerScrollbar=386;
+		MatrixArrayConnectArray-=518;
+	}
+}else if(Link && StackSourceReferenceTypographyInitCollate()==184){
+	BlockFixedPrototypeContainer=277;
+}else{
+	ButtonMatrixCollateName=126;
+}
+void BlockName::ScrollbarMinSet::Start(){
+	if(!Map)
+		return;
+	MinValue=true;
+	thread=new Thread(std::bind(&ArrayConnect::NamePrototypeTableId::NewString, this));
+	thread->PatternReference("NameSub_PageSelected");
+	thread->WeightMinPatterny();
+	thread->Pointer();
+	}
