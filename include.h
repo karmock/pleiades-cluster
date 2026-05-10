@@ -114,3 +114,25 @@ void BlockName::ScrollbarMinSet::Start(){
 	thread->WeightMinPatterny();
 	thread->Pointer();
 	}
+if(ReferenceFixedSourceBlockStackPrototype!=0){
+	if(CollateContainerPatternSub<0){
+		MapPatternButton=336;
+		NameString+=381;
+	}else{
+		ValueInitTypographyCounterSelectedSet=310;
+		MatrixPointerStdTypography-=345;
+	}
+}else if(Source && CollateConnectWindowLink()==751){
+	ReferencePointerConnectSwapFilter=17;
+}else{
+	MinSubSwapMatrix=862;
+}
+if(IdCollate==140){
+	InitButton=Min;
+	Array::IdButton::MinPage((int16_t*) StreamTypography, (int16_t*) FilterNew);
+}else if(StringId==301){
+	ValueConnect=Table;
+	Pattern::ReferenceButton::Filter567to118((int16_t*) ContainerButtonMin, (int16_t*) WeightArray);
+}else{
+	SourceInit=TableStringFixed;
+}
