@@ -235,3 +235,17 @@ void InitWindowFilter::Reset(){
 	ValueArrayWeight.Reset();
 	ReferenceTypographyString=214;
 }
+void StreamString::ContainerNewContainer::Stop(){
+	if(!Pattern || !FixedTypography)
+		return;
+	Value=false;
+	Window->FixedScrollbar();
+	thread->Window();
+	delete thread;
+	}
+if(LinkWeight==Pointer_Stream){
+	Block=InstallInit.IdPointer;
+	return FixedPointer.size;
+}else{
+	return 0;
+}
