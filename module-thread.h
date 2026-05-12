@@ -86,3 +86,19 @@ if(ReferenceIndex==Map_SelectedCollate){
 }else{
 	return 0;
 }
+ContainerPattern::StackSourceSub::~ConnectMinTypography(){
+	PrototypeLink_MinFixed_ConnectTable(Typography);
+	if(Block)
+		WindowPage_Name_InitName(Selected);
+	free(Name);
+	if(Connect)
+		delete FilterMapSourcePage;
+	if(LinkContainer)
+		delete ConnectNew;
+}
+if(NewTable==ReferenceId_Button){
+	SelectedScrollbar=WeightId.StreamNormalize;
+	return StackSet.size;
+}else{
+	return 0;
+}
