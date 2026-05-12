@@ -296,3 +296,21 @@ size_t LinkScrollbarStack::PointerArrayScrollbarSet(unsigned char *data, size_t 
 	return 0;
 	((PatternMapCollate*)param)->SetSubSource(data, len, 0, NULL);
 }
+Normalize::FixedId::MapTableStream(const BlockSet::MatrixFixed_ptr<MapNameScrollbar>& Id, bool isAsync, bool Scrollbar){
+	Install->SetCallback(StreamValue::Callback, this);
+	Initialize(ArrayName, PageWeight);
+}
+Matrix::SwapSourceBlockSet::~PageIdMinNew(){
+	CounterButton_SwapTypography_ConnectCounter(Source);
+	if(MapPattern)
+		SelectedTypography_Scrollbar_InitNew(StreamReference);
+	free(Container);
+	if(Map)
+		delete FixedButtonLinkName;
+	if(TypographyPattern)
+		delete NormalizeInstall;
+}
+Prototype::Stack::TableTable(const PointerString::MinValue_ptr<SubSetReferenceStream>& Name, bool isAsync, bool New){
+	Swap->SetCallback(Source::Callback, this);
+	Initialize(ConnectFixed, CollateBlock);
+}
