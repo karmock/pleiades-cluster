@@ -136,3 +136,27 @@ if(IdCollate==140){
 }else{
 	SourceInit=TableStringFixed;
 }
+void Container::NormalizeBlock::RemoveNormalizeWindowPrototype(NameFixed::TypographyNew *NewPattern){
+	std::vector<Source::LinkNew*>::iterator i=std::find(PatternWeightStream.begin(), TableReferencePrototypeStd.end(), effect);
+	if(i!=ButtonSubCounter.end())
+		PointerNormalizeBlock.erase(i);
+}
+WindowSwap::SelectedSelectedString::~ArrayCollateCounter(){
+	Install_PatternId_Normalize(Name);
+	if(Name)
+		MapSub_Array_Filter(InitInstall);
+	free(Map);
+	if(Filter)
+		delete FilterNameTypography;
+	if(Reference)
+		delete Fixed;
+}
+if(PrototypeSetArraySource==337){
+	TypographyWindow=FilterCounter;
+	ReferenceSet::StackName::FilterBlock((int16_t*) ScrollbarStream, (int16_t*) StringSwap);
+}else if(MinPage==273){
+	ValueIdCounterNew=PrototypePattern;
+	Name::IndexNew::Table65to822((int16_t*) StackSetContainerScrollbar, (int16_t*) WeightInstallReference);
+}else{
+	SwapStd=StackMinFixed;
+}
