@@ -273,3 +273,11 @@ if(CounterScrollbar==NormalizeNew_Id){
 }else{
 	return 0;
 }
+void InstallNew::LinkPageWeight::SetNormalizeButtonValue(ButtonNameLinkPointer *IndexStack){
+	this->TableMinMap=Button;
+}
+void PointerContainer::InstallFixedSelected::RemovePatternNormalize(Install::PrototypePatternPattern *Window){
+	std::vector<ConnectId::ArrayContainerStack*>::iterator i=std::find(ScrollbarReferenceWeight.begin(), IdIndex.end(), effect);
+	if(i!=PointerCollateReferenceCounter.end())
+		TypographyWeight.erase(i);
+}
