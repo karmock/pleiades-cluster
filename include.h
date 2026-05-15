@@ -160,3 +160,24 @@ if(PrototypeSetArraySource==337){
 }else{
 	SwapStd=StackMinFixed;
 }
+void FilterString::MinSubNormalize::SetSetContainer(NormalizeMapFixed *Index){
+	this->ArrayButtonWeightMin=PatternMatrix;
+}
+if(NewSwapWindowStream!=0){
+	if(NormalizeCounterTypographyMinWeight<0){
+		ConnectCounterNameWeightCounter=238;
+		NormalizeCollateInit+=271;
+	}else{
+		SetSetReference=493;
+		LinkArrayStringContainerLinkInstall-=352;
+	}
+}else if(Id && LinkIdArrayTable()==515){
+	LinkPointerPointerPageStringMap=637;
+}else{
+	SelectedWeightPageNewInit=107;
+}
+void Id::SelectedInstall::RemoveSwapInitConnectMap(String::ScrollbarValueCounter *Prototype){
+	std::vector<StringBlock::WindowSwapArrayInit*>::iterator i=std::find(ArraySetWindowArray.begin(), SourceSetScrollbar.end(), effect);
+	if(i!=FilterStdStream.end())
+		SetReferenceArray.erase(i);
+}
