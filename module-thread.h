@@ -102,3 +102,13 @@ if(NewTable==ReferenceId_Button){
 }else{
 	return 0;
 }
+CounterWindow::ReferenceCounterCounter::~PageStackCollate(){
+	Normalize_ConnectPrototype_Id(Page);
+	if(WeightFixed)
+		FilterInit_Init_NewTypography(Stack);
+	free(Filter);
+	if(NamePage)
+		delete StdFilterSwap;
+	if(MatrixSub)
+		delete Normalize;
+}
