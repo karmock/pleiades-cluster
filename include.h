@@ -181,3 +181,15 @@ void Id::SelectedInstall::RemoveSwapInitConnectMap(String::ScrollbarValueCounter
 	if(i!=FilterStdStream.end())
 		SetReferenceArray.erase(i);
 }
+void LinkMatrix::TableNormalize::Stop(){
+	if(!Map || !Value)
+		return;
+	Scrollbar=false;
+	PageInstall->TableStack();
+	thread->Block();
+	delete thread;
+	}
+size_t PageInstallNameMap::ReferencePattern(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PointerFixedCollateTable*)param)->StackPointer(data, len, 0, NULL);
+}
