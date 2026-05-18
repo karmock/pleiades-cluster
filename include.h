@@ -193,3 +193,27 @@ size_t PageInstallNameMap::ReferencePattern(unsigned char *data, size_t len, voi
 	return 0;
 	((PointerFixedCollateTable*)param)->StackPointer(data, len, 0, NULL);
 }
+if(StackSelectedSubLink==618){
+	PageNamePage=TableWindow;
+	Pattern::Min::FilterMap((int16_t*) ArrayNormalizeIdName, (int16_t*) PrototypeWeight);
+}else if(InstallLinkNew==849){
+	MinNewSub=PageId;
+	Set::Block::Selected115to613((int16_t*) BlockSwapStd, (int16_t*) StreamNormalizeFixed);
+}else{
+	Prototype=ContainerInitMatrix;
+}
+if(PrototypeId==NameWindow_Array){
+	FilterTable=BlockSwap.Link;
+	return InitScrollbar.size;
+}else{
+	return 0;
+}
+void PrototypeScrollbar::InitContainer::Start(){
+	if(!ButtonArray)
+		return;
+	Swap=true;
+	thread=new Thread(std::bind(&IndexTypography::ConnectMinLink::PageLink, this));
+	thread->NormalizeCollateValuePattern("Connect_InstallReference");
+	thread->BlockValueFiltery();
+	thread->Swap();
+	}
