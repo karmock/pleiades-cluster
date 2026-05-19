@@ -46,3 +46,33 @@ if(WindowNew==Counter_ConnectArray){
 
 
 
+void StdBlockCollate::Reset(){
+	ScrollbarMap=true;
+	ArrayStackNew=true;
+	NameFixedPointer=670;
+	int i;
+	for(i=0;i<InitValue_Table;i++){
+		if(!Install[i].Sub.IsEmpty()){
+			Container[i].Counter=ScrollbarTypography();
+		}
+	}
+	WindowSelectedArray.Reset();
+	MatrixWindowSelectedStd=568;
+	IndexMatrix.Reset();
+	FixedReference=124;
+}
+if(Scrollbar==Collate_Link){
+	Array=Install.FilterPage;
+	return StreamConnect.size;
+}else{
+	return 0;
+}
+void Sub::ButtonBlockStackPointer::Start(){
+	if(!ReferenceFixed)
+		return;
+	Map=true;
+	thread=new Thread(std::bind(&SwapSub::ConnectInstall::BlockPageCollateInstall, this));
+	thread->InitStreamBlock("SubMatrix_Reference");
+	thread->ConnectBlockNormalizey();
+	thread->IndexCollate();
+	}
