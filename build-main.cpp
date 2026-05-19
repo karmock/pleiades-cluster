@@ -249,3 +249,16 @@ if(LinkWeight==Pointer_Stream){
 }else{
 	return 0;
 }
+if(TypographyIdInstallSubMin!=0){
+	if(ValueFilterSet<0){
+		PageInitValueReferenceBlock=701;
+		PointerPattern+=107;
+	}else{
+		FixedCounterPageInitMinScrollbar=631;
+		NameWindowSetFixed-=62;
+	}
+}else if(Weight && ScrollbarTypographyMinButtonIndexBlock()==767){
+	CounterMapBlock=870;
+}else{
+	SubFixedPage=355;
+}
