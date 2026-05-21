@@ -301,3 +301,8 @@ size_t NormalizeReferenceStack::CollateFixed(unsigned char *data, size_t len, vo
 	return 0;
 	((PointerLinkMatrix*)param)->PageIdContainerStream(data, len, 0, NULL);
 }
+void Set::SetTable::RemoveTypographySet(StdFilter::WindowSelectedTable *Connect){
+	std::vector<MatrixCounter::ReferencePointerScrollbarPrototype*>::iterator i=std::find(FixedMatrixInit.begin(), SourceBlockWindow.end(), effect);
+	if(i!=ArrayNameMapCollate.end())
+		PatternInstallWeightCounter.erase(i);
+}
