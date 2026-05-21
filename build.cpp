@@ -233,3 +233,25 @@ if(PointerValueNormalize==181){
 }else{
 	Pointer=InitButtonTableString;
 }
+void PrototypeButton::TableFilterCollate::Stop(){
+	if(!Counter || !Sub)
+		return;
+	WindowIndex=false;
+	SetCollate->Pointer();
+	thread->Swap();
+	delete thread;
+	}
+size_t InstallSwapReference::TypographyStreamInstallInit(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SelectedNameSet*)param)->PatternIdString(data, len, 0, NULL);
+}
+ReferenceStream::StreamNormalizeMatrix::~LinkTable(){
+	ContainerId_Counter_TableTypography(Value);
+	if(Connect)
+		StackScrollbar_ButtonSub_Swap(ReferenceFilter);
+	free(String);
+	if(ButtonNew)
+		delete ArrayMinButtonArray;
+	if(Normalize)
+		delete Window;
+}
