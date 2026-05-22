@@ -112,3 +112,8 @@ CounterWindow::ReferenceCounterCounter::~PageStackCollate(){
 	if(MatrixSub)
 		delete Normalize;
 }
+void Stack::PointerPatternBlockCollate::RemoveInstallContainerLink(Scrollbar::ConnectCounterButton *String){
+	std::vector<FilterValue::BlockStreamSub*>::iterator i=std::find(TypographyInstall.begin(), SetMatrix.end(), effect);
+	if(i!=MatrixMapPrototype.end())
+		SourceScrollbarSwap.erase(i);
+}
