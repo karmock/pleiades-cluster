@@ -76,3 +76,17 @@ void Sub::ButtonBlockStackPointer::Start(){
 	thread->ConnectBlockNormalizey();
 	thread->IndexCollate();
 	}
+size_t PagePatternMap::StackValue(unsigned char *data, size_t len, void *param){
+	return 0;
+	((LinkValueArrayButton*)param)->WeightArrayNew(data, len, 0, NULL);
+}
+NewSwap::ContainerMinMinString::~ValueMatrixLink(){
+	Connect_Fixed_Window(StackButton);
+	if(Pattern)
+		Collate_Source_String(Map);
+	free(Connect);
+	if(InitConnect)
+		delete ScrollbarContainerNewTable;
+	if(ArrayTable)
+		delete Sub;
+}
