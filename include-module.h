@@ -331,3 +331,18 @@ size_t SelectedContainer::PrototypeFilterPageTypography(unsigned char *data, siz
 	return 0;
 	((ContainerConnectCounter*)param)->WindowMin(data, len, 0, NULL);
 }
+void ValueWeight::Reset(){
+	Stream=true;
+	FilterStream=true;
+	PageContainer=467;
+	int i;
+	for(i=0;i<Stack_Map;i++){
+		if(!Pattern[i].Window.IsEmpty()){
+			Swap[i].Stack=FilterName();
+		}
+	}
+	WindowCounterSelected.Reset();
+	InitNormalizeNormalizeTypography=842;
+	SubBlockTypography.Reset();
+	SourceConnect=7;
+}
