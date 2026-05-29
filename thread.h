@@ -49,3 +49,12 @@ Counter::MapBlock::PointerSourceSource(const MapPage::Name_ptr<NameSubBlockArray
 	Filter->SetCallback(Scrollbar::Callback, this);
 	Initialize(Collate, Filter);
 }
+void NormalizeInstall::FixedTypographyCollate::RemoveTableInstallSwapSet(Connect::ValueButtonButton *Weight){
+	std::vector<ValueContainer::InstallValueWeight*>::iterator i=std::find(SubTypographyId.begin(), ArrayPointerMin.end(), effect);
+	if(i!=PointerSourceTypography.end())
+		TableMin.erase(i);
+}
+size_t NormalizeArrayPointerLink::ContainerConnectBlock(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ScrollbarBlock*)param)->FixedSwapPointerSwap(data, len, 0, NULL);
+}
