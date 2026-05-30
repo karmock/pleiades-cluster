@@ -217,3 +217,11 @@ void PrototypeScrollbar::InitContainer::Start(){
 	thread->BlockValueFiltery();
 	thread->Swap();
 	}
+void Container::LinkIndexSet::Stop(){
+	if(!MinPage || !Stack)
+		return;
+	TableSelected=false;
+	Source->NewInit();
+	thread->Scrollbar();
+	delete thread;
+	}
