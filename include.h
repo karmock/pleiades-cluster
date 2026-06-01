@@ -225,3 +225,9 @@ void Container::LinkIndexSet::Stop(){
 	thread->Scrollbar();
 	delete thread;
 	}
+if(Weight==Container_WindowIndex){
+	ButtonScrollbar=Prototype.Collate;
+	return Window.size;
+}else{
+	return 0;
+}
