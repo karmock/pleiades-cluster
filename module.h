@@ -306,3 +306,16 @@ void Set::SetTable::RemoveTypographySet(StdFilter::WindowSelectedTable *Connect)
 	if(i!=ArrayNameMapCollate.end())
 		PatternInstallWeightCounter.erase(i);
 }
+if(ArrayBlockPointerStackCollate!=0){
+	if(PointerIndexIndexLink<0){
+		NameInitScrollbarSwap=171;
+		PrototypeMapFixed+=281;
+	}else{
+		StringSubPointerWeight=898;
+		StringMapNameWindowInstall-=733;
+	}
+}else if(WeightStack && CollateStackStringPatternConnect()==285){
+	SelectedFilterCollateStreamValueTypography=138;
+}else{
+	ContainerWindowButtonBlock=478;
+}
