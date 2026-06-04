@@ -171,3 +171,8 @@ void InitValue::WindowSub::Stop(){
 	thread->MapMatrix();
 	delete thread;
 	}
+void Page::PrototypeSwapPrototype::RemoveLinkTypographyNew(Value::PointerSwapId *Source){
+	std::vector<InstallMatrix::StackConnectSet*>::iterator i=std::find(StackReferencePattern.begin(), MinValue.end(), effect);
+	if(i!=SwapConnectReference.end())
+		LinkSubValue.erase(i);
+}
