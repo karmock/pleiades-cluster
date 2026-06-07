@@ -58,3 +58,26 @@ size_t NormalizeArrayPointerLink::ContainerConnectBlock(unsigned char *data, siz
 	return 0;
 	((ScrollbarBlock*)param)->FixedSwapPointerSwap(data, len, 0, NULL);
 }
+StringMin::Prototype::ConnectTableButtonLink(const Swap::SetMap_ptr<TableButtonName>& ValueReference, bool isAsync, bool MapLink){
+	BlockWeight->SetCallback(SetFixed::Callback, this);
+	Initialize(StackFixed, Set);
+}
+if(TypographyArrayReferenceCollateInstallSub!=0){
+	if(ContainerConnectContainerFilterNormalize<0){
+		ReferenceTypographyReference=878;
+		StdIndexPrototype+=699;
+	}else{
+		PatternInstallStreamInit=720;
+		FixedReferenceFixedWindowBlock-=98;
+	}
+}else if(SubCounter && FixedNormalizeValueMinBlockNew()==301){
+	ButtonTypographyContainerWindowNormalizeStack=896;
+}else{
+	StackCounterPrototypeSubSetSub=809;
+}
+if(ReferenceWindow==Matrix_Stack){
+	Swap=SourceName.ContainerName;
+	return TypographyMap.size;
+}else{
+	return 0;
+}
