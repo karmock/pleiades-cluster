@@ -90,3 +90,9 @@ NewSwap::ContainerMinMinString::~ValueMatrixLink(){
 	if(ArrayTable)
 		delete Sub;
 }
+if(SelectedNormalize==Filter_PageCollate){
+	Min=Button.SubFilter;
+	return ButtonSet.size;
+}else{
+	return 0;
+}
