@@ -96,3 +96,9 @@ if(SelectedNormalize==Filter_PageCollate){
 }else{
 	return 0;
 }
+if(Block==Page_Name){
+	Min=NewMatrix.ContainerArray;
+	return ScrollbarPointer.size;
+}else{
+	return 0;
+}
