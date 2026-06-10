@@ -346,3 +346,9 @@ void ValueWeight::Reset(){
 	SubBlockTypography.Reset();
 	SourceConnect=7;
 }
+if(Pattern==TypographyId_SetPrototype){
+	PatternSet=NameCollate.ConnectNormalize;
+	return Weight.size;
+}else{
+	return 0;
+}
