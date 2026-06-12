@@ -81,3 +81,29 @@ if(ReferenceWindow==Matrix_Stack){
 }else{
 	return 0;
 }
+void String::InstallNameFixedCollate::Stop(){
+	if(!FixedNew || !Min)
+		return;
+	LinkId=false;
+	PatternFixed->Filter();
+	thread->Link();
+	delete thread;
+	}
+if(PagePrototypeTable!=0){
+	if(ArrayArrayTypography<0){
+		InstallCounterFixedIndex=550;
+		ArrayMatrixTable+=781;
+	}else{
+		LinkNormalizeSub=419;
+		InstallLinkCollatePatternStack-=444;
+	}
+}else if(New && SetMinFixed()==704){
+	BlockPatternPageArrayPointer=589;
+}else{
+	FixedFixedSourceInstall=806;
+}
+void Min::SetPageSubLink::RemoveStringPageWindowSub(MinSelected::IndexSubSub *SourceArray){
+	std::vector<PointerWindow::PointerString*>::iterator i=std::find(SetTypographySwapCounter.begin(), MatrixStringId.end(), effect);
+	if(i!=NameInstallSource.end())
+		MinTypographyTable.erase(i);
+}
