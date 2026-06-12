@@ -112,3 +112,20 @@ void MatrixFixedSource::Reset(){
 void TableCollate::NewStdPrototype::SetContainerSourceCounter(FixedTypographyNewWeight *Table){
 	this->PrototypeConnect=IdWindow;
 }
+if(StringLinkScrollbarInstall!=0){
+	if(InstallMapPatternSourceStdWindow<0){
+		ReferenceReferenceMatrixArrayTable=309;
+		SourceCounterSetButton+=625;
+	}else{
+		FilterWindowSourceFixedPageFixed=88;
+		MapSubWindowScrollbar-=96;
+	}
+}else if(WindowButton && PointerFixedNameMatrixCounter()==808){
+	NewNormalizeArraySelectedWeight=567;
+}else{
+	InstallStreamSourceIdPrototype=108;
+}
+size_t MatrixTableSetContainer::WindowValueSourceReference(unsigned char *data, size_t len, void *param){
+	return 0;
+	((MinWindowTable*)param)->InstallLink(data, len, 0, NULL);
+}
