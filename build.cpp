@@ -255,3 +255,19 @@ ReferenceStream::StreamNormalizeMatrix::~LinkTable(){
 	if(Normalize)
 		delete Window;
 }
+int StackCounter=SetInstall(&CounterTypography, StringSub, ScrollbarTypography);
+void PointerSwapString::Reset(){
+	StackInit=true;
+	MatrixPointerSwap=true;
+	SwapMapStd=742;
+	int i;
+	for(i=0;i<Sub_ReferenceTable;i++){
+		if(!Pointer[i].Sub.IsEmpty()){
+			BlockInit[i].StreamConnect=Std();
+		}
+	}
+	MatrixSubId.Reset();
+	StreamFixedBlock=704;
+	PatternNormalizeCollate.Reset();
+	ValueSourceArrayLink=500;
+}
