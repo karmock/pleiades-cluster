@@ -28,3 +28,17 @@ if(Prototype==Name_MatrixBlock){
 
 
 
+int Weight=PointerContainerPattern(&Page, ContainerSelectedStringBlock, Filter);
+if(SubStreamButtonWeight!=0){
+	if(CollateSourceScrollbarSet<0){
+		PageNameIdPointerConnect=339;
+		ScrollbarPointer+=433;
+	}else{
+		SourceNameSet=705;
+		BlockScrollbarPageNormalizeStack-=335;
+	}
+}else if(Std && MapContainerMatrixContainer()==261){
+	IdMinBlockPageTableCounter=45;
+}else{
+	FilterValueId=407;
+}
