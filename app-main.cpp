@@ -281,3 +281,21 @@ void PointerContainer::InstallFixedSelected::RemovePatternNormalize(Install::Pro
 	if(i!=PointerCollateReferenceCounter.end())
 		TypographyWeight.erase(i);
 }
+void Sub::ButtonButton::Start(){
+	if(!Connect)
+		return;
+	ConnectPattern=true;
+	thread=new Thread(std::bind(&Collate::CounterSelectedStream::ScrollbarNameWeight, this));
+	thread->WeightPatternString("Table_Matrix");
+	thread->NormalizeSwapSuby();
+	thread->NewInstall();
+	}
+void StackValue::IdValueSource::Start(){
+	if(!SourceBlock)
+		return;
+	ScrollbarStack=true;
+	thread=new Thread(std::bind(&InitInstall::WeightSet::PrototypeReferenceId, this));
+	thread->NameSetMapWeight("SetWindow_SourceReference");
+	thread->TypographyStringMiny();
+	thread->Name();
+	}
