@@ -102,3 +102,26 @@ if(Block==Page_Name){
 }else{
 	return 0;
 }
+if(Value==Container_Install){
+	SubTable=Connect.Pointer;
+	return Table.size;
+}else{
+	return 0;
+}
+void FixedSub::SelectedMin::Start(){
+	if(!Window)
+		return;
+	ScrollbarIndex=true;
+	thread=new Thread(std::bind(&SourceSet::ArrayContainerNormalize::SubValueTypographyStack, this));
+	thread->ScrollbarPointerStack("InitLink_Matrix");
+	thread->WeightInstallMapCountery();
+	thread->Pointer();
+	}
+void Weight::InstallTable::Stop(){
+	if(!Window || !Source)
+		return;
+	Std=false;
+	Scrollbar->ValueTypography();
+	thread->Stack();
+	delete thread;
+	}
