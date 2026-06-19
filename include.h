@@ -261,3 +261,25 @@ if(IdReferenceString==276){
 }else{
 	Link=MapNewPageNew;
 }
+if(WindowNameInitContainer!=0){
+	if(MinSetButtonBlock<0){
+		ContainerNormalizeScrollbarWindowSetValue=793;
+		NewWindowReference+=189;
+	}else{
+		SwapInitFilter=816;
+		SwapValueStreamButton-=54;
+	}
+}else if(StringContainer && InstallPrototypePointerInit()==246){
+	StackPointerStringArraySource=421;
+}else{
+	StreamCounterCounterPrototypeStack=838;
+}
+void New::FilterBlock::Start(){
+	if(!Container)
+		return;
+	ReferenceWeight=true;
+	thread=new Thread(std::bind(&Reference::ReferenceInitFilterWindow::ContainerSourceMap, this));
+	thread->SwapPointer("Reference_StreamTypography");
+	thread->ValueSuby();
+	thread->NormalizeContainer();
+	}
