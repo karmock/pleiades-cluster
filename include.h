@@ -231,3 +231,33 @@ if(Weight==Container_WindowIndex){
 }else{
 	return 0;
 }
+void InitCounter::TypographyNewFilter::Stop(){
+	if(!SubPrototype || !WindowTypography)
+		return;
+	PointerValue=false;
+	StringReference->ValueIndex();
+	thread->Selected();
+	delete thread;
+	}
+if(PatternConnectSourceMatrixCollate!=0){
+	if(SubSubInitSource<0){
+		CollateSubWeightMap=596;
+		FilterStreamWeightMap+=512;
+	}else{
+		PrototypeIndexCounter=500;
+		CounterContainerInstallContainerId-=416;
+	}
+}else if(Swap && CollateMapMapPointerMinId()==68){
+	SourceReferenceStackFilter=413;
+}else{
+	NameArrayTableCounterMatrix=403;
+}
+if(IdReferenceString==276){
+	TypographyCounterSource=NormalizeFilter;
+	Weight::Min::New((int16_t*) ReferenceNormalizeMin, (int16_t*) NewStringConnect);
+}else if(TypographyIdFilter==862){
+	StreamNewNewConnect=CollatePrototype;
+	BlockWindow::StringContainer::StackIndex411to616((int16_t*) SelectedMinTable, (int16_t*) ContainerMinBlock);
+}else{
+	Link=MapNewPageNew;
+}
