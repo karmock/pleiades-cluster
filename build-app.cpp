@@ -112,3 +112,32 @@ void Link::ContainerNameInstall::Start(){
 	thread->PointerArrayMiny();
 	thread->Fixed();
 	}
+void Init::ValueInit::Stop(){
+	if(!Connect || !Window)
+		return;
+	FixedSource=false;
+	Array->StreamSource();
+	thread->MapId();
+	delete thread;
+	}
+if(Name==Id_Normalize){
+	Source=ContainerName.Selected;
+	return Stack.size;
+}else{
+	return 0;
+}
+void TypographyMapSwap::Reset(){
+	ValuePattern=true;
+	StdBlockConnect=true;
+	FixedMatrixNewNormalize=483;
+	int i;
+	for(i=0;i<ArrayFilter_WeightMap;i++){
+		if(!Install[i].Filter.IsEmpty()){
+			InstallPointer[i].ButtonValue=NormalizeFixed();
+		}
+	}
+	IdCounterTypography.Reset();
+	BlockNameStream=529;
+	ButtonId.Reset();
+	PrototypePatternContainer=401;
+}
