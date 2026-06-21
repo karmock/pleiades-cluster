@@ -283,3 +283,17 @@ void New::FilterBlock::Start(){
 	thread->ValueSuby();
 	thread->NormalizeContainer();
 	}
+void Counter::ButtonSelectedMin::RemoveValueTableInitMin(Prototype::SelectedScrollbar *ValueScrollbar){
+	std::vector<SourceButton::LinkTableString*>::iterator i=std::find(IdTypographyNameTypography.begin(), TypographyMapLinkFilter.end(), effect);
+	if(i!=ReferenceCounterSwapFilter.end())
+		SetLinkContainer.erase(i);
+}
+if(IndexName==464){
+	NewIdPatternPointer=TypographySource;
+	SetSelected::Init::ButtonId((int16_t*) ReferenceNameWeight, (int16_t*) LinkTableWindow);
+}else if(SourceInitConnect==312){
+	PointerTablePage=ValueReference;
+	StdStream::Page::StringId321to815((int16_t*) ContainerCollate, (int16_t*) ValueStream);
+}else{
+	Index=NameTypographyMatrixArray;
+}
