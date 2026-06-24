@@ -319,3 +319,22 @@ if(ArrayBlockPointerStackCollate!=0){
 }else{
 	ContainerWindowButtonBlock=478;
 }
+void Init::InitMatrix::RemoveWindowTableMin(Collate::NewStringMinButton *Swap){
+	std::vector<MatrixPointer::SelectedWeightConnect*>::iterator i=std::find(NewArray.begin(), SourceStack.end(), effect);
+	if(i!=CounterSubPointer.end())
+		ArrayReferenceNameCounter.erase(i);
+}
+if(PatternId==766){
+	StringPageIndex=SelectedNew;
+	Collate::SourceCollate::Link((int16_t*) CounterButton, (int16_t*) SourceScrollbarInit);
+}else if(FixedLinkContainerInstall==800){
+	InitCollateName=MinScrollbar;
+	Link::String::Swap5to758((int16_t*) InitWeightSet, (int16_t*) WeightTableLink);
+}else{
+	WeightCounter=FilterButton;
+}
+void Weight::BlockLinkSet::RemovePageIdPrototypeCollate(ReferenceLink::ButtonBlockValue *Fixed){
+	std::vector<Pattern::WeightPage*>::iterator i=std::find(StdSwapSwapString.begin(), SwapContainerCollate.end(), effect);
+	if(i!=PageInstallIdTable.end())
+		BlockPointerStack.erase(i);
+}
