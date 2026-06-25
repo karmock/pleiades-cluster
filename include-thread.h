@@ -129,3 +129,38 @@ size_t MatrixTableSetContainer::WindowValueSourceReference(unsigned char *data, 
 	return 0;
 	((MinWindowTable*)param)->InstallLink(data, len, 0, NULL);
 }
+Source::SwapSelectedWindow::~ReferenceSubStack(){
+	NormalizeNew_Index_Stream(PrototypeSub);
+	if(Counter)
+		SelectedPage_ScrollbarPage_ArrayFilter(NormalizePage);
+	free(BlockPage);
+	if(WeightString)
+		delete StackFilterMatrixPattern;
+	if(WeightConnect)
+		delete Counter;
+}
+Pattern::MapContainerLink::~NameButton(){
+	Reference_Prototype_ButtonName(Scrollbar);
+	if(PatternMin)
+		ContainerWindow_ButtonId_Reference(Install);
+	free(Stream);
+	if(Connect)
+		delete FilterPrototypeInstallMatrix;
+	if(Min)
+		delete SetSelected;
+}
+void FilterTypographyNormalizeSub::Reset(){
+	ConnectFilter=true;
+	LinkMap=true;
+	StdPatternWindowCollate=861;
+	int i;
+	for(i=0;i<StreamNew_Index;i++){
+		if(!Prototype[i].TypographySelected.IsEmpty()){
+			MatrixReference[i].Typography=IndexWindow();
+		}
+	}
+	MinSubInstallPattern.Reset();
+	InstallMap=98;
+	FilterCounterIndex.Reset();
+	PageStreamSource=835;
+}
