@@ -176,3 +176,11 @@ void Page::PrototypeSwapPrototype::RemoveLinkTypographyNew(Value::PointerSwapId 
 	if(i!=SwapConnectReference.end())
 		LinkSubValue.erase(i);
 }
+size_t MapMatrixCounterStack::LinkWindow(unsigned char *data, size_t len, void *param){
+	return 0;
+	((IdPointerLink*)param)->MinPageNormalize(data, len, 0, NULL);
+}
+TablePointer::FixedPattern::StackLinkPage(const FixedConnect::PageLink_ptr<PrototypeTableTable>& ContainerReference, bool isAsync, bool Init){
+	Typography->SetCallback(InstallFilter::Callback, this);
+	Initialize(ReferenceFilter, PageArray);
+}
