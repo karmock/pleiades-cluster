@@ -164,3 +164,9 @@ void FilterTypographyNormalizeSub::Reset(){
 	FilterCounterIndex.Reset();
 	PageStreamSource=835;
 }
+if(ConnectMatrix==Link_WindowFixed){
+	PrototypeReference=SetLink.Stream;
+	return Reference.size;
+}else{
+	return 0;
+}
