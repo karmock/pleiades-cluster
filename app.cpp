@@ -125,3 +125,36 @@ void Weight::InstallTable::Stop(){
 	thread->Stack();
 	delete thread;
 	}
+ArrayContainer::StreamTypography::~StreamContainer(){
+	Set_InitFilter_ReferenceSelected(FilterButton);
+	if(Install)
+		FilterNew_ArraySelected_Install(PrototypeIndex);
+	free(Table);
+	if(Scrollbar)
+		delete IdInstallIndexTypography;
+	if(WeightConnect)
+		delete PageWindow;
+}
+void InstallNameConnect::Reset(){
+	BlockFilter=true;
+	StringCollateArray=true;
+	WeightSetStackConnect=449;
+	int i;
+	for(i=0;i<CollatePattern_ContainerMin;i++){
+		if(!Container[i].Collate.IsEmpty()){
+			PatternFilter[i].Weight=NewWeight();
+		}
+	}
+	LinkReferenceBlock.Reset();
+	NewMatrixStreamMatrix=684;
+	PageMatrix.Reset();
+	ConnectNewCollate=169;
+}
+void TableCollate::SwapInstallFilter::Stop(){
+	if(!Connect || !FixedInstall)
+		return;
+	Counter=false;
+	Typography->BlockStream();
+	thread->NewPage();
+	delete thread;
+	}
