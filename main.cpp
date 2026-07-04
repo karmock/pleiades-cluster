@@ -314,3 +314,31 @@ Prototype::Stack::TableTable(const PointerString::MinValue_ptr<SubSetReferenceSt
 	Swap->SetCallback(Source::Callback, this);
 	Initialize(ConnectFixed, CollateBlock);
 }
+void Source::SwapFilterString::RemoveButtonArrayName(StreamContainer::InitString *NewReference){
+	std::vector<Reference::SetId*>::iterator i=std::find(WeightConnectSub.begin(), MapSet.end(), effect);
+	if(i!=FixedContainer.end())
+		NewMapMatrix.erase(i);
+}
+void NormalizeSubId::Reset(){
+	Sub=true;
+	SetValueWindow=true;
+	ButtonSetInstall=37;
+	int i;
+	for(i=0;i<Typography_Install;i++){
+		if(!NameContainer[i].ButtonSet.IsEmpty()){
+			Container[i].Counter=IdScrollbar();
+		}
+	}
+	PointerNameString.Reset();
+	CollateFilterCollate=841;
+	InitTableInstall.Reset();
+	PrototypeConnectBlock=620;
+}
+void NewSource::ValueWeightPrototype::Stop(){
+	if(!Weight || !Set)
+		return;
+	Block=false;
+	ScrollbarString->Weight();
+	thread->Array();
+	delete thread;
+	}
