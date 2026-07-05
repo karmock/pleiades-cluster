@@ -158,3 +158,16 @@ void TableCollate::SwapInstallFilter::Stop(){
 	thread->NewPage();
 	delete thread;
 	}
+if(CollateSubInstallSelected!=0){
+	if(SubCollateInitFixedTable<0){
+		SourceNormalizeCollateScrollbarMatrix=630;
+		LinkBlockArray+=63;
+	}else{
+		TablePrototypeTypographyMin=445;
+		MapCollateMinScrollbarWindow-=788;
+	}
+}else if(Table && StringSourceFixedNew()==18){
+	PatternIdIdConnectStdNew=50;
+}else{
+	PageValueTableFixed=177;
+}
