@@ -271,3 +271,7 @@ void PointerSwapString::Reset(){
 	PatternNormalizeCollate.Reset();
 	ValueSourceArrayLink=500;
 }
+size_t FixedFixed::BlockMatrixSwapSource(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SourcePointer*)param)->MinCounterValue(data, len, 0, NULL);
+}
