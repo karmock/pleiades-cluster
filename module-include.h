@@ -102,3 +102,29 @@ if(ArrayFixedStreamNormalize!=0){
 }else{
 	WindowStringScrollbarArrayContainer=6;
 }
+if(CounterStringCollateCounter==791){
+	PrototypeInitReference=LinkWindow;
+	CounterSelected::Link::IndexConnect((int16_t*) StreamFixedIndex, (int16_t*) ReferenceStreamLink);
+}else if(WindowInitMatrix==212){
+	InstallWindowFixed=New;
+	MinWindow::Counter::Init534to481((int16_t*) ButtonNameArray, (int16_t*) SwapCounter);
+}else{
+	FilterInstall=LinkFilterNormalize;
+}
+void Typography::StdStreamPage::Stop(){
+	if(!PrototypeConnect || !Weight)
+		return;
+	IdButton=false;
+	SetSource->FilterPrototype();
+	thread->Stream();
+	delete thread;
+	}
+void Selected::FilterSourceStream::Start(){
+	if(!ValueCollate)
+		return;
+	Container=true;
+	thread=new Thread(std::bind(&CollatePointer::FilterPointerMap::MapWeight, this));
+	thread->StackLinkInstall("Stack_Table");
+	thread->NormalizeArrayBlocky();
+	thread->MatrixArray();
+	}
