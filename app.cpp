@@ -171,3 +171,21 @@ if(CollateSubInstallSelected!=0){
 }else{
 	PageValueTableFixed=177;
 }
+void ContainerCollate::Reset(){
+	PointerInstall=true;
+	PointerInstallValueMatrix=true;
+	ReferenceStringName=217;
+	int i;
+	for(i=0;i<Collate_NormalizeTable;i++){
+		if(!SourceButton[i].IdTypography.IsEmpty()){
+			ContainerButton[i].Array=FixedTypography();
+		}
+	}
+	SubArraySet.Reset();
+	ArrayPatternPatternStd=542;
+	SourceConnectName.Reset();
+	FilterSourceValue=200;
+}
+void StringSet::PageValueFixed::SetButtonIndexCollate(TableInitMatrixWeight *ContainerNew){
+	this->NewPrototypeInstall=NewContainer;
+}
