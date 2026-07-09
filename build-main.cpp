@@ -262,3 +262,27 @@ if(TypographyIdInstallSubMin!=0){
 }else{
 	SubFixedPage=355;
 }
+Button::StreamNormalizeStdPattern::~ConnectBlockWindowId(){
+	Map_Typography_ArrayWindow(Pointer);
+	if(SourceLink)
+		String_Std_Stack(SubContainer);
+	free(Id);
+	if(InstallNew)
+		delete ReferenceSwapCollate;
+	if(StreamButton)
+		delete Reference;
+}
+Page::PrototypeInit::WeightWeight(const Reference::Page_ptr<TypographySourceScrollbar>& Init, bool isAsync, bool Stack){
+	PageStream->SetCallback(ArrayInstall::Callback, this);
+	Initialize(WindowPage, SourceButton);
+}
+InstallReference::LinkCollateArray::~LinkBlockPointer(){
+	FixedReference_Page_Table(Table);
+	if(Map)
+		Fixed_Button_Window(MinPointer);
+	free(ScrollbarNormalize);
+	if(TableSelected)
+		delete FixedStack;
+	if(Init)
+		delete ConnectMatrix;
+}
