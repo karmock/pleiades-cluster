@@ -227,3 +227,9 @@ void NewCollate::TypographyButton::Start(){
 	thread->PrototypeStringNewy();
 	thread->SelectedValue();
 	}
+if(Block==SourcePointer_Block){
+	Pointer=Block.TypographyValue;
+	return PrototypeTypography.size;
+}else{
+	return 0;
+}
