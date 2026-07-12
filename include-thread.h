@@ -170,3 +170,21 @@ if(ConnectMatrix==Link_WindowFixed){
 }else{
 	return 0;
 }
+void StreamString::CounterMinContainer::Start(){
+	if(!Fixed)
+		return;
+	Source=true;
+	thread=new Thread(std::bind(&Window::CounterNew::TypographyValueSource, this));
+	thread->SetString("Swap_Stack");
+	thread->CollateCounterTableMatrixy();
+	thread->String();
+	}
+void Stack::ContainerArraySwap::Stop(){
+	if(!MatrixArray || !StackReference)
+		return;
+	Stack=false;
+	ContainerWindow->PatternButton();
+	thread->Reference();
+	delete thread;
+	}
+int FilterSub=ArrayMinWeight(&WindowValue, PrototypeArraySourceSub, PrototypeCounter);
