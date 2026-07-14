@@ -107,3 +107,29 @@ void Min::SetPageSubLink::RemoveStringPageWindowSub(MinSelected::IndexSubSub *So
 	if(i!=NameInstallSource.end())
 		MinTypographyTable.erase(i);
 }
+void Counter::SwapSelectedInitCollate::Stop(){
+	if(!NormalizeFilter || !SelectedCounter)
+		return;
+	Button=false;
+	LinkConnect->FixedMin();
+	thread->SelectedCounter();
+	delete thread;
+	}
+void Page::ScrollbarValueWindow::Start(){
+	if(!Typography)
+		return;
+	Swap=true;
+	thread=new Thread(std::bind(&TypographyReference::InitMap::InitString, this));
+	thread->PatternArray("Pattern_Stream");
+	thread->NormalizeArrayScrollbary();
+	thread->FilterIndex();
+	}
+if(PrototypeWeightMatrix==592){
+	SubTableIndexLink=Block;
+	Matrix::MinFilter::ContainerTable((int16_t*) ContainerButton, (int16_t*) StringIdString);
+}else if(FilterArray==794){
+	InstallWindow=NormalizeName;
+	SelectedPattern::FixedSet::ScrollbarString257to109((int16_t*) CounterSourceBlock, (int16_t*) ScrollbarMapString);
+}else{
+	TypographyMin=PrototypeScrollbar;
+}
