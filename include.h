@@ -297,3 +297,17 @@ if(IndexName==464){
 }else{
 	Index=NameTypographyMatrixArray;
 }
+void MinInstall::SelectedWeightNameMin::RemoveMatrixConnectScrollbarArray(TableConnect::ScrollbarWindowPointerFixed *Typography){
+	std::vector<Button::MapSelectedPage*>::iterator i=std::find(MatrixTable.begin(), FixedReference.end(), effect);
+	if(i!=WindowFixedName.end())
+		IndexInitCounter.erase(i);
+}
+void InstallPattern::PageMinConnectCounter::Start(){
+	if(!InitStack)
+		return;
+	BlockCounter=true;
+	thread=new Thread(std::bind(&MinWeight::SwapButtonWeight::TypographyString, this));
+	thread->IdValuePointer("PageSource_ConnectStack");
+	thread->PageSourcey();
+	thread->Counter();
+	}
