@@ -189,3 +189,11 @@ void ContainerCollate::Reset(){
 void StringSet::PageValueFixed::SetButtonIndexCollate(TableInitMatrixWeight *ContainerNew){
 	this->NewPrototypeInstall=NewContainer;
 }
+TypographyValue::Stream::WeightConnectSelected(const Sub::ContainerNormalize_ptr<FixedWindow>& MapFixed, bool isAsync, bool IdTable){
+	Swap->SetCallback(PointerSet::Callback, this);
+	Initialize(SourcePattern, Reference);
+}
+size_t CollateContainerArray::CounterCollateCounterNew(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PointerContainerMin*)param)->PrototypeCounterNew(data, len, 0, NULL);
+}
