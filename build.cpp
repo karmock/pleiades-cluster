@@ -275,3 +275,6 @@ size_t FixedFixed::BlockMatrixSwapSource(unsigned char *data, size_t len, void *
 	return 0;
 	((SourcePointer*)param)->MinCounterValue(data, len, 0, NULL);
 }
+void FilterStack::ArrayInstallFixed::SetLinkArrayConnect(SourceMapFilter *Swap){
+	this->ContainerIdStack=MatrixLink;
+}
