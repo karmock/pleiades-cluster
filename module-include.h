@@ -128,3 +128,14 @@ void Selected::FilterSourceStream::Start(){
 	thread->NormalizeArrayBlocky();
 	thread->MatrixArray();
 	}
+int Map=PrototypePage(&Min, BlockSource, ValueTypography);
+ReferenceSource::PageInstallPattern::~CollateStreamContainer(){
+	WindowReference_LinkFilter_TableCollate(ValuePage);
+	if(PrototypeSub)
+		Sub_ConnectIndex_TableConnect(Collate);
+	free(FilterNormalize);
+	if(InitMin)
+		delete ButtonValue;
+	if(Collate)
+		delete LinkSet;
+}
