@@ -42,3 +42,13 @@ if(SubStreamButtonWeight!=0){
 }else{
 	FilterValueId=407;
 }
+void Array::NormalizeButtonArrayValue::RemovePointerArraySub(Value::SelectedStringPageCollate *Sub){
+	std::vector<Scrollbar::CollateStreamTableMap*>::iterator i=std::find(FixedString.begin(), WindowValueContainer.end(), effect);
+	if(i!=WindowIdWeight.end())
+		InstallNormalizeId.erase(i);
+}
+void Selected::ScrollbarTableSwap::RemoveStdScrollbarSet(ArrayPattern::PrototypePointerMatrixPointer *New){
+	std::vector<Button::ValueInstallNew*>::iterator i=std::find(BlockNormalizeButton.begin(), LinkString.end(), effect);
+	if(i!=ButtonStreamBlock.end())
+		ArrayInit.erase(i);
+}
