@@ -188,3 +188,20 @@ void Stack::ContainerArraySwap::Stop(){
 	delete thread;
 	}
 int FilterSub=ArrayMinWeight(&WindowValue, PrototypeArraySourceSub, PrototypeCounter);
+if(SourceCollateInit==603){
+	StringPointerMin=Set;
+	Install::PatternIndex::Pattern((int16_t*) IndexInitNewPage, (int16_t*) PrototypeInit);
+}else if(InstallNameIndex==245){
+	BlockLink=Map;
+	Install::Stream::Page714to35((int16_t*) WindowStringStream, (int16_t*) TablePageCounterStream);
+}else{
+	PointerNew=WeightStdNewTable;
+}
+size_t NameContainerLink::PointerSourceWindowPrototype(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ValueSelected*)param)->WindowStackPrototype(data, len, 0, NULL);
+}
+size_t WindowMin::ButtonLinkNormalize(unsigned char *data, size_t len, void *param){
+	return 0;
+	((InstallSetStreamCollate*)param)->LinkNormalizeButton(data, len, 0, NULL);
+}
