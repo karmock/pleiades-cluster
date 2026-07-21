@@ -311,3 +311,22 @@ void InstallPattern::PageMinConnectCounter::Start(){
 	thread->PageSourcey();
 	thread->Counter();
 	}
+if(PointerNewTable!=0){
+	if(ContainerSelectedNormalizeLinkReference<0){
+		WindowConnectStackTypographyName=899;
+		BlockReferenceNameMin+=527;
+	}else{
+		SourceSwapSelectedMap=357;
+		PageStringMatrixTable-=27;
+	}
+}else if(NewWeight && SelectedLinkTableSub()==488){
+	PatternReferencePageWindow=129;
+}else{
+	PatternFilterValueSetStd=568;
+}
+if(Array==MapFilter_SetPage){
+	ContainerArray=NewFilter.InitButton;
+	return Button.size;
+}else{
+	return 0;
+}
