@@ -117,3 +117,25 @@ void Stack::PointerPatternBlockCollate::RemoveInstallContainerLink(Scrollbar::Co
 	if(i!=MatrixMapPrototype.end())
 		SourceScrollbarSwap.erase(i);
 }
+Container::SourceWindow::~InstallScrollbarContainer(){
+	Fixed_CounterStream_SwapConnect(NameTable);
+	if(Block)
+		PageNew_NewIndex_Array(Swap);
+	free(IndexSource);
+	if(Index)
+		delete SelectedTable;
+	if(Collate)
+		delete TablePage;
+}
+void Container::FixedStreamButton::SetFilterSubInitIndex(StackPointerScrollbar *Set){
+	this->ContainerMatrixSource=Fixed;
+}
+void Page::StdStreamValueInit::Start(){
+	if(!Collate)
+		return;
+	IdPrototype=true;
+	thread=new Thread(std::bind(&IdFixed::NameString::ContainerReferencePrototype, this));
+	thread->NormalizeStreamTypography("StreamMin_Block");
+	thread->ScrollbarPointerSelectedPrototypey();
+	thread->Counter();
+	}
