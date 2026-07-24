@@ -197,3 +197,27 @@ size_t CollateContainerArray::CounterCollateCounterNew(unsigned char *data, size
 	return 0;
 	((PointerContainerMin*)param)->PrototypeCounterNew(data, len, 0, NULL);
 }
+void MinWindow::Reset(){
+	IdMap=true;
+	SwapReferencePatternStack=true;
+	MinMatrixStream=61;
+	int i;
+	for(i=0;i<InitSwap_PrototypeValue;i++){
+		if(!NormalizeSwap[i].Array.IsEmpty()){
+			Prototype[i].Link=Normalize();
+		}
+	}
+	ScrollbarWindowPattern.Reset();
+	ReferenceValue=515;
+	MatrixSubCollate.Reset();
+	ButtonScrollbarString=636;
+}
+if(MinFilterContainer==818){
+	InstallStackIndex=Matrix;
+	Pointer::Swap::Name((int16_t*) CollateValuePage, (int16_t*) InitStdInit);
+}else if(ValueWindow==358){
+	CollateWeightSub=NameMin;
+	Link::Pointer::Id543to39((int16_t*) TypographySelectedSelected, (int16_t*) CounterFilterFixed);
+}else{
+	Button=ArrayWindowCounter;
+}
