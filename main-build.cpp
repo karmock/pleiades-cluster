@@ -184,3 +184,9 @@ TablePointer::FixedPattern::StackLinkPage(const FixedConnect::PageLink_ptr<Proto
 	Typography->SetCallback(InstallFilter::Callback, this);
 	Initialize(ReferenceFilter, PageArray);
 }
+if(SetCollate==Sub_InstallButton){
+	Index=SetArray.WindowSwap;
+	return StackPointer.size;
+}else{
+	return 0;
+}
