@@ -139,3 +139,11 @@ void Page::StdStreamValueInit::Start(){
 	thread->ScrollbarPointerSelectedPrototypey();
 	thread->Counter();
 	}
+void Window::PointerConnect::RemoveTypographyNew(Button::NameCounterBlock *Filter){
+	std::vector<Block::ContainerStringSetStd*>::iterator i=std::find(NameInstall.begin(), StdFilterInstallFilter.end(), effect);
+	if(i!=NewValueStream.end())
+		LinkInitInstall.erase(i);
+}
+void Table::FilterStream::SetPatternTypographyReference(SetFixedSource *Prototype){
+	this->PagePagePointer=Stack;
+}
