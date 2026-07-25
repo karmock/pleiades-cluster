@@ -223,3 +223,13 @@ if(Matrix==PageConnect_Scrollbar){
 }else{
 	return 0;
 }
+Link::TableIdScrollbarSub::~FilterContainerBlock(){
+	StreamFilter_LinkWeight_Collate(Table);
+	if(Set)
+		Id_Counter_StringNormalize(Init);
+	free(ReferenceWeight);
+	if(Name)
+		delete PageSubPointer;
+	if(SourceLink)
+		delete Scrollbar;
+}
