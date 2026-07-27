@@ -147,3 +147,31 @@ void Window::PointerConnect::RemoveTypographyNew(Button::NameCounterBlock *Filte
 void Table::FilterStream::SetPatternTypographyReference(SetFixedSource *Prototype){
 	this->PagePagePointer=Stack;
 }
+if(StreamStreamValueCollate!=0){
+	if(MinTypographySelectedInstallPatternSub<0){
+		StreamInitStringName=659;
+		FixedWindowWindow+=194;
+	}else{
+		SourceSubButtonNormalizeMatrix=879;
+		FilterButtonConnectString-=1;
+	}
+}else if(Collate && WeightSourceWeightWindowSource()==627){
+	CounterMatrixArrayPrototypeFilter=59;
+}else{
+	BlockSetContainerSwapSet=554;
+}
+void BlockSubString::Reset(){
+	Normalize=true;
+	ReferenceMapCounter=true;
+	ContainerStreamButton=147;
+	int i;
+	for(i=0;i<Stream_Filter;i++){
+		if(!SourceMatrix[i].String.IsEmpty()){
+			PageSelected[i].Stream=MatrixMap();
+		}
+	}
+	SubString.Reset();
+	StackFilterSwap=783;
+	CounterInit.Reset();
+	IndexStackNewArray=449;
+}
