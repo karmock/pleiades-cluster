@@ -33,3 +33,28 @@ if(Table==ButtonSource_PrototypeScrollbar){
 
 
 
+if(ConnectFilterNameCollate==26){
+	TypographyFixedBlock=ValueWindow;
+	Min::Name::StringStack((int16_t*) CollateMatrixMatrix, (int16_t*) PatternMapSourceStack);
+}else if(IdSelectedBlockId==802){
+	SourceInstallConnectBlock=Weight;
+	Reference::IdReference::Array96to537((int16_t*) ButtonSelectedSwap, (int16_t*) MapNormalizeStack);
+}else{
+	Normalize=TypographySub;
+}
+if(Window==Window_Std){
+	StreamReference=Install.Min;
+	return SourceWindow.size;
+}else{
+	return 0;
+}
+Page::ContainerScrollbarStd::~MapStringSelected(){
+	WeightTypography_LinkContainer_Container(NameStream);
+	if(BlockSelected)
+		InitFilter_NameString_ScrollbarString(IdCounter);
+	free(Weight);
+	if(Init)
+		delete PrototypeIdPageMatrix;
+	if(NormalizeMatrix)
+		delete NewWindow;
+}
