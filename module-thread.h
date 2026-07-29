@@ -175,3 +175,22 @@ void BlockSubString::Reset(){
 	CounterInit.Reset();
 	IndexStackNewArray=449;
 }
+Filter::NormalizeNameSelectedPrototype::~PageSourceTypographyPrototype(){
+	Link_MatrixWeight_Reference(PrototypeSelected);
+	if(BlockArray)
+		TableSource_Link_PointerName(TableCounter);
+	free(Reference);
+	if(ValueSelected)
+		delete InstallPointerSub;
+	if(NewPointer)
+		delete Connect;
+}
+LinkConnect::Std::MatrixNameCounter(const Source::PointerBlock_ptr<ContainerNamePattern>& Index, bool isAsync, bool ArrayPage){
+	NewLink->SetCallback(IdPointer::Callback, this);
+	Initialize(MatrixBlock, Table);
+}
+void CounterPage::StackSwap::RemovePrototypeWindow(Button::PageWindowContainer *TableScrollbar){
+	std::vector<Stream::FilterTypographyButton*>::iterator i=std::find(MinSwapScrollbarMatrix.begin(), FixedContainerMatrixSet.end(), effect);
+	if(i!=PointerScrollbarContainerValue.end())
+		SourceName.erase(i);
+}
