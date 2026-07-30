@@ -221,3 +221,18 @@ if(MinFilterContainer==818){
 }else{
 	Button=ArrayWindowCounter;
 }
+if(String==MinButton_String){
+	InitCounter=Sub.Window;
+	return String.size;
+}else{
+	return 0;
+}
+void Filter::ValueArrayTable::Start(){
+	if(!New)
+		return;
+	ContainerCollate=true;
+	thread=new Thread(std::bind(&Connect::SelectedReference::WindowStreamFixed, this));
+	thread->StackInstallSet("Reference_CollateWeight");
+	thread->PointerPageTabley();
+	thread->Pointer();
+	}
