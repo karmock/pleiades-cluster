@@ -205,3 +205,18 @@ size_t WindowMin::ButtonLinkNormalize(unsigned char *data, size_t len, void *par
 	return 0;
 	((InstallSetStreamCollate*)param)->LinkNormalizeButton(data, len, 0, NULL);
 }
+void ContainerInitInstall::Reset(){
+	Name=true;
+	NormalizeReferenceReference=true;
+	TypographyStackInitSet=70;
+	int i;
+	for(i=0;i<IndexStack_Window;i++){
+		if(!Scrollbar[i].ReferenceArray.IsEmpty()){
+			Link[i].Id=InitSource();
+		}
+	}
+	FixedButtonButton.Reset();
+	StreamStringSub=532;
+	CollateBlockSubMap.Reset();
+	NameMinConnect=117;
+}
