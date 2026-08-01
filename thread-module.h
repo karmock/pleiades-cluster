@@ -233,3 +233,12 @@ if(Block==SourcePointer_Block){
 }else{
 	return 0;
 }
+void MatrixMin::IndexLinkInstallNew::Start(){
+	if(!TypographyCollate)
+		return;
+	Collate=true;
+	thread=new Thread(std::bind(&Table::ConnectPrototypeFixed::ScrollbarPrototypeCounter, this));
+	thread->PrototypeContainerNameButton("WeightPrototype_Stream");
+	thread->ValueWeightMapy();
+	thread->SourceContainer();
+	}
