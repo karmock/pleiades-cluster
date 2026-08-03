@@ -141,3 +141,24 @@ void TypographyMapSwap::Reset(){
 	ButtonId.Reset();
 	PrototypePatternContainer=401;
 }
+if(ConnectSet==Set_Scrollbar){
+	Swap=CollatePrototype.Collate;
+	return ContainerTable.size;
+}else{
+	return 0;
+}
+void ReferenceNormalizeButton::Reset(){
+	Stream=true;
+	MapNormalizeWindow=true;
+	InitLinkValueMin=248;
+	int i;
+	for(i=0;i<Connect_SetId;i++){
+		if(!SwapIndex[i].Table.IsEmpty()){
+			Stream[i].PointerTypography=ButtonTypography();
+		}
+	}
+	ReferenceInstall.Reset();
+	TableCollateBlockTypography=90;
+	MapWeightTypography.Reset();
+	SetNew=709;
+}
