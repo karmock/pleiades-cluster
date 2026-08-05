@@ -299,3 +299,8 @@ void StackValue::IdValueSource::Start(){
 	thread->TypographyStringMiny();
 	thread->Name();
 	}
+int Window=SourceMinFilter(&Set, NewMinValue, ArrayFixed);
+size_t ReferenceFilterTable::InstallButton(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SubPatternMap*)param)->WindowReferenceNewCounter(data, len, 0, NULL);
+}
