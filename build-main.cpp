@@ -286,3 +286,13 @@ InstallReference::LinkCollateArray::~LinkBlockPointer(){
 	if(Init)
 		delete ConnectMatrix;
 }
+MatrixStd::BlockCollateInitPointer::~InitCounter(){
+	SelectedCounter_Button_CounterScrollbar(Id);
+	if(Selected)
+		Matrix_Init_SourceFilter(TypographyInit);
+	free(PatternName);
+	if(ReferenceInit)
+		delete StdPageStack;
+	if(LinkSelected)
+		delete Block;
+}
