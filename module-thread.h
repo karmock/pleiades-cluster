@@ -194,3 +194,11 @@ void CounterPage::StackSwap::RemovePrototypeWindow(Button::PageWindowContainer *
 	if(i!=PointerScrollbarContainerValue.end())
 		SourceName.erase(i);
 }
+size_t ScrollbarTableScrollbar::SubMatrix(unsigned char *data, size_t len, void *param){
+	return 0;
+	((IndexContainerReferenceName*)param)->NewPage(data, len, 0, NULL);
+}
+size_t ArraySubTable::MinReferenceTypography(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SwapStackNormalizePattern*)param)->InstallNameStackPattern(data, len, 0, NULL);
+}
