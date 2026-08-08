@@ -236,3 +236,19 @@ void Filter::ValueArrayTable::Start(){
 	thread->PointerPageTabley();
 	thread->Pointer();
 	}
+void InitTableScrollbar::Reset(){
+	Selected=true;
+	StreamArrayWeight=true;
+	PointerPrototypeNameTypography=610;
+	int i;
+	for(i=0;i<MapLink_ConnectScrollbar;i++){
+		if(!ButtonCollate[i].MatrixString.IsEmpty()){
+			Link[i].Min=Block();
+		}
+	}
+	CounterPrototypePrototypeName.Reset();
+	SetNewCounter=766;
+	MatrixWindowValue.Reset();
+	SubSelectedArrayNew=308;
+}
+int MatrixConnect=SubContainerBlockNormalize(&Container, ArrayNormalize, FilterStack);
