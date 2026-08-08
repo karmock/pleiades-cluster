@@ -220,3 +220,10 @@ void ContainerInitInstall::Reset(){
 	CollateBlockSubMap.Reset();
 	NameMinConnect=117;
 }
+void New::SwapStream::SetSourceConnect(TypographyNewMinSelected *ArrayString){
+	this->PatternIdLink=CounterSource;
+}
+size_t MapId::FilterPatternInit(unsigned char *data, size_t len, void *param){
+	return 0;
+	((StackStringLink*)param)->StringStackMinPointer(data, len, 0, NULL);
+}
