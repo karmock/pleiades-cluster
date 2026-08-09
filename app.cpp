@@ -252,3 +252,21 @@ void InitTableScrollbar::Reset(){
 	SubSelectedArrayNew=308;
 }
 int MatrixConnect=SubContainerBlockNormalize(&Container, ArrayNormalize, FilterStack);
+void Link::CollateScrollbar::Start(){
+	if(!Container)
+		return;
+	Scrollbar=true;
+	thread=new Thread(std::bind(&Fixed::MapNewTable::StackPatternWeight, this));
+	thread->InstallMap("Source_Std");
+	thread->ContainerCollateCountery();
+	thread->Link();
+	}
+void FixedMap::StdIdPrototypePattern::Start(){
+	if(!SubInit)
+		return;
+	SelectedInstall=true;
+	thread=new Thread(std::bind(&SourceScrollbar::MapPointerPage::PrototypeFixedStreamLink, this));
+	thread->ContainerFixedBlockCollate("Std_Block");
+	thread->WeightFixedy();
+	thread->TableCollate();
+	}
