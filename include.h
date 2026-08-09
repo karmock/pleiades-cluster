@@ -25,3 +25,29 @@ void Min::TableIdName::RemoveSwapScrollbarStreamNew(Init::MapWindowCollateMatrix
 
 
 
+Value::StackSourcePage::~FixedSource(){
+	Filter_SwapSub_Install(Stream);
+	if(Normalize)
+		Connect_StringSelected_Connect(WindowSource);
+	free(MapReference);
+	if(NameInit)
+		delete SelectedSubWindowTable;
+	if(Stack)
+		delete PointerPage;
+}
+void CollateId::FixedPatternPageStack::Stop(){
+	if(!SourceSwap || !Matrix)
+		return;
+	PrototypeTable=false;
+	Stack->Stack();
+	thread->FilterName();
+	delete thread;
+	}
+void Fixed::InitFixedPage::Stop(){
+	if(!SelectedFilter || !NamePrototype)
+		return;
+	Normalize=false;
+	Pointer->MinInit();
+	thread->Fixed();
+	delete thread;
+	}
