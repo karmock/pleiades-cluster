@@ -227,3 +227,16 @@ size_t MapId::FilterPatternInit(unsigned char *data, size_t len, void *param){
 	return 0;
 	((StackStringLink*)param)->StringStackMinPointer(data, len, 0, NULL);
 }
+Container::InitSwap::FixedNameSwap(const ReferenceIndex::Page_ptr<WindowSourceMapTable>& InstallFixed, bool isAsync, bool IdPattern){
+	TypographyArray->SetCallback(ConnectSet::Callback, this);
+	Initialize(CounterInstall, MapScrollbar);
+}
+void Value::MatrixValue::Start(){
+	if(!Set)
+		return;
+	NewSelected=true;
+	thread=new Thread(std::bind(&Stack::ReferenceIdFilterLink::SelectedCollateMap, this));
+	thread->ConnectMatrixTypographyString("MapFixed_Map");
+	thread->StdContainery();
+	thread->Pattern();
+	}
