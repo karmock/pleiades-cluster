@@ -162,3 +162,25 @@ void ReferenceNormalizeButton::Reset(){
 	MapWeightTypography.Reset();
 	SetNew=709;
 }
+void ArrayPatternNameWeight::Reset(){
+	Normalize=true;
+	StdFilterNormalizeButton=true;
+	WeightStream=719;
+	int i;
+	for(i=0;i<Source_Prototype;i++){
+		if(!SubBlock[i].Prototype.IsEmpty()){
+			TableLink[i].IndexLink=ValuePointer();
+		}
+	}
+	IndexWeightTable.Reset();
+	NameValueNormalize=494;
+	InitWindowConnectStream.Reset();
+	PatternStackPointer=476;
+}
+void SubArray::StringSourceFilter::SetConnectLinkStd(TablePageWeight *Prototype){
+	this->MapMin=String;
+}
+Fixed::TableFixed::StdSwapTableName(const Fixed::Pattern_ptr<BlockStreamBlockSet>& Set, bool isAsync, bool InitStack){
+	TableWindow->SetCallback(CounterMatrix::Callback, this);
+	Initialize(Reference, Index);
+}
