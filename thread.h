@@ -133,3 +133,21 @@ if(PrototypeWeightMatrix==592){
 }else{
 	TypographyMin=PrototypeScrollbar;
 }
+void Value::ArrayFixed::Start(){
+	if(!Container)
+		return;
+	LinkInit=true;
+	thread=new Thread(std::bind(&StackSource::TableIdId::PointerPrototypeValue, this));
+	thread->NameScrollbarPage("Button_Array");
+	thread->StreamFixedReferencey();
+	thread->LinkSwap();
+	}
+void BlockReference::NameSetId::Start(){
+	if(!StreamValue)
+		return;
+	NewWeight=true;
+	thread=new Thread(std::bind(&Init::ConnectMinNew::SubFilterFixedWeight, this));
+	thread->SwapInitPattern("ContainerName_Array");
+	thread->CollatePatternReferencey();
+	thread->Filter();
+	}
