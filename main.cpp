@@ -58,3 +58,40 @@ Page::ContainerScrollbarStd::~MapStringSelected(){
 	if(NormalizeMatrix)
 		delete NewWindow;
 }
+void FixedPrototype::Reset(){
+	Weight=true;
+	SourceStackNameSwap=true;
+	ScrollbarPatternPrototype=601;
+	int i;
+	for(i=0;i<Map_WeightSub;i++){
+		if(!StackContainer[i].Normalize.IsEmpty()){
+			SubInit[i].Pointer=Filter();
+		}
+	}
+	WindowInstallTypographyPage.Reset();
+	LinkNormalizeFilter=518;
+	TablePointer.Reset();
+	StackContainerPage=145;
+}
+if(PageCounterSelected==427){
+	LinkInit=PatternNormalize;
+	MapPattern::Sub::PointerIndex((int16_t*) ArrayId, (int16_t*) FilterCollateSwap);
+}else if(SetSwap==657){
+	StreamSourceSource=SwapTypography;
+	Container::Normalize::FilterScrollbar430to391((int16_t*) ValueTableSource, (int16_t*) ButtonPattern);
+}else{
+	Container=InitName;
+}
+if(MinTableStreamIndexBlock!=0){
+	if(TableSetInstallSub<0){
+		SetConnectStreamTypographyFixed=300;
+		StdMinIndex+=828;
+	}else{
+		InitTableButtonFilterScrollbar=38;
+		SelectedSourceStdPatternInit-=699;
+	}
+}else if(Filter && TypographyPointerMinConnect()==363){
+	NewCounterPage=93;
+}else{
+	StreamButtonPointerScrollbar=17;
+}
