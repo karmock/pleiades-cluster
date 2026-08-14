@@ -151,3 +151,8 @@ void BlockReference::NameSetId::Start(){
 	thread->CollatePatternReferencey();
 	thread->Filter();
 	}
+Counter::Prototype::ValueSubStringStack(const String::Name_ptr<LinkSetPattern>& FilterSelected, bool isAsync, bool Button){
+	Selected->SetCallback(PrototypeName::Callback, this);
+	Initialize(Normalize, Filter);
+}
+int CounterFilter=ButtonPagePrototypeStack(&PatternFilter, ContainerInitSet, Pattern);
