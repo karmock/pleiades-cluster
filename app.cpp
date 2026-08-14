@@ -270,3 +270,12 @@ void FixedMap::StdIdPrototypePattern::Start(){
 	thread->WeightFixedy();
 	thread->TableCollate();
 	}
+if(IndexReferenceContainerSwap==133){
+	IdMinWeight=Stack;
+	Block::CollateSwap::Id((int16_t*) MatrixFilterTypographyStream, (int16_t*) PatternSubSet);
+}else if(StreamMatrix==716){
+	SourceCounterFilterReference=Typography;
+	ScrollbarName::Pointer::Source408to125((int16_t*) MapNormalize, (int16_t*) TableNew);
+}else{
+	ConnectPrototype=SetMap;
+}
