@@ -51,3 +51,28 @@ void Fixed::InitFixedPage::Stop(){
 	thread->Fixed();
 	delete thread;
 	}
+if(NameSelected==TableId_Std){
+	Normalize=Normalize.SetInit;
+	return Normalize.size;
+}else{
+	return 0;
+}
+if(MinCounterSource!=0){
+	if(StringBlockStringPatternInstall<0){
+		MapPatternInstallNormalize=315;
+		ValueBlockInstallReference+=808;
+	}else{
+		PageBlockTableScrollbarContainer=789;
+		MinNewTypographyTypographyStream-=855;
+	}
+}else if(Init && TablePageLink()==335){
+	NameSwapStringNormalize=829;
+}else{
+	CounterMapTableId=373;
+}
+if(Array==Fixed_Block){
+	SourceTypography=Install.Typography;
+	return CounterName.size;
+}else{
+	return 0;
+}
