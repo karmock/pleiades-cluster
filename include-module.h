@@ -352,3 +352,17 @@ if(Pattern==TypographyId_SetPrototype){
 }else{
 	return 0;
 }
+size_t MatrixConnectPagePrototype::SetCollateStackArray(unsigned char *data, size_t len, void *param){
+	return 0;
+	((TypographyInstallString*)param)->MatrixNewArray(data, len, 0, NULL);
+}
+Fixed::ButtonStringFixed::~SourceNewFilter(){
+	Normalize_WindowCollate_PrototypeConnect(Prototype);
+	if(NameSelected)
+		MinNormalize_Collate_PrototypeSource(Scrollbar);
+	free(IndexCollate);
+	if(SelectedPrototype)
+		delete CounterValueCounterPage;
+	if(ConnectButton)
+		delete Button;
+}
