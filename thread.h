@@ -156,3 +156,25 @@ Counter::Prototype::ValueSubStringStack(const String::Name_ptr<LinkSetPattern>& 
 	Initialize(Normalize, Filter);
 }
 int CounterFilter=ButtonPagePrototypeStack(&PatternFilter, ContainerInitSet, Pattern);
+void MinStack::CollateArrayNew::Start(){
+	if(!Prototype)
+		return;
+	SetButton=true;
+	thread=new Thread(std::bind(&ReferenceValue::NewTableStringNew::WindowCounterContainerReference, this));
+	thread->SetWindowMin("Min_Collate");
+	thread->SubInstallSwapy();
+	thread->Table();
+	}
+if(ScrollbarTypographyContainerBlockLinkValue!=0){
+	if(PageMapInstallLink<0){
+		ScrollbarTableFixedSetPointer=377;
+		SubNameMapScrollbar+=791;
+	}else{
+		MapPointerWeightPatternSubWindow=811;
+		SelectedFixedMapStream-=381;
+	}
+}else if(NameInstall && InstallContainerSwapStackSet()==667){
+	StackValuePointer=422;
+}else{
+	ContainerSetArrayInit=384;
+}
