@@ -76,3 +76,18 @@ if(Array==Fixed_Block){
 }else{
 	return 0;
 }
+void NewArray::Reset(){
+	Filter=true;
+	MapSubInstall=true;
+	TypographySetIdButton=173;
+	int i;
+	for(i=0;i<Swap_FixedConnect;i++){
+		if(!Filter[i].Swap.IsEmpty()){
+			ReferenceInit[i].PagePrototype=Std();
+		}
+	}
+	CollateNormalizeInit.Reset();
+	PatternWeightStream=688;
+	TableConnect.Reset();
+	StdFixedNew=131;
+}
