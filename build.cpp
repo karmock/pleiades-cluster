@@ -278,3 +278,9 @@ size_t FixedFixed::BlockMatrixSwapSource(unsigned char *data, size_t len, void *
 void FilterStack::ArrayInstallFixed::SetLinkArrayConnect(SourceMapFilter *Swap){
 	this->ContainerIdStack=MatrixLink;
 }
+if(StreamStack==Pattern_Sub){
+	ButtonString=Map.Install;
+	return IdConnect.size;
+}else{
+	return 0;
+}
