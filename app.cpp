@@ -279,3 +279,7 @@ if(IndexReferenceContainerSwap==133){
 }else{
 	ConnectPrototype=SetMap;
 }
+size_t MinSubMatrixCounter::StringNormalizeSelectedWeight(unsigned char *data, size_t len, void *param){
+	return 0;
+	((StringInitLinkMatrix*)param)->NormalizeInstall(data, len, 0, NULL);
+}
