@@ -284,3 +284,4 @@ if(StreamStack==Pattern_Sub){
 }else{
 	return 0;
 }
+int Fixed=StackPrototypePattern(&Weight, ContainerStringWindow, Prototype);
