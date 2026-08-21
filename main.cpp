@@ -95,3 +95,27 @@ if(MinTableStreamIndexBlock!=0){
 }else{
 	StreamButtonPointerScrollbar=17;
 }
+void InitId::Reset(){
+	MapSource=true;
+	IndexStackFilter=true;
+	FilterBlockSelectedNormalize=343;
+	int i;
+	for(i=0;i<BlockNormalize_BlockCounter;i++){
+		if(!PointerWeight[i].SetFixed.IsEmpty()){
+			PrototypeId[i].Sub=Name();
+		}
+	}
+	StackMatrixInit.Reset();
+	WeightNameValue=795;
+	NameIdButtonPointer.Reset();
+	ButtonLink=175;
+}
+void ConnectNew::WeightPageSelectedSwap::Start(){
+	if(!Min)
+		return;
+	StdSelected=true;
+	thread=new Thread(std::bind(&Install::PointerWeightStringMap::InstallMinContainer, this));
+	thread->PatternMatrixConnect("SwapArray_Pattern");
+	thread->ConnectMapScrollbary();
+	thread->String();
+	}
