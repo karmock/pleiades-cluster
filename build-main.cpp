@@ -296,3 +296,8 @@ MatrixStd::BlockCollateInitPointer::~InitCounter(){
 	if(LinkSelected)
 		delete Block;
 }
+void Reference::SetStringCollate::RemoveNameBlock(Matrix::ButtonNormalizeSwap *Normalize){
+	std::vector<ReferenceLink::ReferencePatternStreamSource*>::iterator i=std::find(NewPage.begin(), MatrixSwapNew.end(), effect);
+	if(i!=ContainerBlock.end())
+		StackLink.erase(i);
+}
