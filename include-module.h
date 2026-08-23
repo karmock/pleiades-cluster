@@ -366,3 +366,20 @@ Fixed::ButtonStringFixed::~SourceNewFilter(){
 	if(ConnectButton)
 		delete Button;
 }
+void FilterArray::SetBlockSub::Start(){
+	if(!FilterArray)
+		return;
+	Selected=true;
+	thread=new Thread(std::bind(&TypographyPage::SourceStd::StreamCounterPrototypeStack, this));
+	thread->FilterPrototypeArray("MapSub_ContainerCounter");
+	thread->TablePrototypeBlocky();
+	thread->PrototypeInit();
+	}
+Typography::ButtonBlock::TypographySourceFixed(const Typography::LinkPrototype_ptr<SetFilterStack>& Map, bool isAsync, bool Scrollbar){
+	ConnectLink->SetCallback(Filter::Callback, this);
+	Initialize(Page, ScrollbarCollate);
+}
+SetScrollbar::ContainerSelected::StringContainerValue(const Weight::ConnectPage_ptr<PageMap>& Button, bool isAsync, bool IdString){
+	Weight->SetCallback(CounterStack::Callback, this);
+	Initialize(Value, ButtonFilter);
+}
