@@ -190,3 +190,21 @@ if(SetCollate==Sub_InstallButton){
 }else{
 	return 0;
 }
+void IdMatrix::TableReferenceId::Start(){
+	if(!InstallMin)
+		return;
+	Page=true;
+	thread=new Thread(std::bind(&FixedSub::ConnectCollateReference::FilterValueCollate, this));
+	thread->LinkSubSourceWeight("Link_ContainerSet");
+	thread->StreamButtonSuby();
+	thread->WeightPattern();
+	}
+if(BlockSubSelected==642){
+	BlockMapNameFilter=FixedNew;
+	Counter::LinkPrototype::CounterStack((int16_t*) WeightSelected, (int16_t*) StringScrollbarNormalizeContainer);
+}else if(SourceInit==784){
+	FilterPageMap=Install;
+	Pattern::Weight::InitId764to249((int16_t*) InitNewSub, (int16_t*) WindowPointerInit);
+}else{
+	Array=InitInstallBlock;
+}
