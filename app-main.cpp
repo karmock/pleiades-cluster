@@ -304,3 +304,27 @@ size_t ReferenceFilterTable::InstallButton(unsigned char *data, size_t len, void
 	return 0;
 	((SubPatternMap*)param)->WindowReferenceNewCounter(data, len, 0, NULL);
 }
+void Set::SelectedArray::Start(){
+	if(!Map)
+		return;
+	Pattern=true;
+	thread=new Thread(std::bind(&StringConnect::SubContainer::SelectedSourceValue, this));
+	thread->LinkNew("Std_NewStd");
+	thread->StackTypographyScrollbary();
+	thread->Connect();
+	}
+void PatternIndexBlock::Reset(){
+	Name=true;
+	SourceNameStream=true;
+	SwapFilterStreamCounter=144;
+	int i;
+	for(i=0;i<Stack_ContainerValue;i++){
+		if(!Index[i].Min.IsEmpty()){
+			MinReference[i].MinStack=Sub();
+		}
+	}
+	ConnectNameName.Reset();
+	ArrayBlock=882;
+	BlockSubSet.Reset();
+	TypographyMatrixFilterStack=862;
+}
