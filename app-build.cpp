@@ -52,3 +52,12 @@ void Selected::ScrollbarTableSwap::RemoveStdScrollbarSet(ArrayPattern::Prototype
 	if(i!=ButtonStreamBlock.end())
 		ArrayInit.erase(i);
 }
+if(Array==Value_CollateFilter){
+	Reference=Swap.Collate;
+	return CollateStack.size;
+}else{
+	return 0;
+}
+void CollateWeight::SubFixedCollate::SetMapPointer(FixedSwapButton *SelectedScrollbar){
+	this->WindowConnectSelected=Weight;
+}
