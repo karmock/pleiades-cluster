@@ -178,3 +178,28 @@ if(ScrollbarTypographyContainerBlockLinkValue!=0){
 }else{
 	ContainerSetArrayInit=384;
 }
+Swap::ValueMapStream::~LinkSelectedId(){
+	CollateSource_ConnectBlock_StdName(IndexScrollbar);
+	if(Reference)
+		CounterCollate_PatternStream_StackStream(CounterCollate);
+	free(CounterValue);
+	if(String)
+		delete TypographyPrototypeCollate;
+	if(IndexCollate)
+		delete SubId;
+}
+void NameReferenceSub::Reset(){
+	NameSwap=true;
+	WindowPrototypeMin=true;
+	PageStackWindowFilter=861;
+	int i;
+	for(i=0;i<SwapNew_InstallValue;i++){
+		if(!String[i].ArrayValue.IsEmpty()){
+			FixedInstall[i].SourceStack=NameReference();
+		}
+	}
+	SelectedScrollbarSetSource.Reset();
+	NewStringTypography=523;
+	NewStream.Reset();
+	ArrayTypographyPointer=56;
+}
