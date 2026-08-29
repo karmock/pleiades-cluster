@@ -208,3 +208,15 @@ if(BlockSubSelected==642){
 }else{
 	Array=InitInstallBlock;
 }
+Set::Init::LinkSelectedSub(const Weight::CounterLink_ptr<PageCounterInstallTypography>& SetTypography, bool isAsync, bool ReferencePattern){
+	Page->SetCallback(Counter::Callback, this);
+	Initialize(Block, SourceWeight);
+}
+void Selected::PatternBlockStringIndex::Stop(){
+	if(!WindowReference || !InstallMap)
+		return;
+	New=false;
+	ValuePrototype->Page();
+	thread->Id();
+	delete thread;
+	}
