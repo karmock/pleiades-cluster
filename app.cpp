@@ -283,3 +283,11 @@ size_t MinSubMatrixCounter::StringNormalizeSelectedWeight(unsigned char *data, s
 	return 0;
 	((StringInitLinkMatrix*)param)->NormalizeInstall(data, len, 0, NULL);
 }
+void Container::StdScrollbarMatrixSub::Stop(){
+	if(!NormalizeButton || !PrototypeScrollbar)
+		return;
+	ConnectCounter=false;
+	BlockWeight->MapId();
+	thread->Init();
+	delete thread;
+	}
