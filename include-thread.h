@@ -240,3 +240,25 @@ void Value::MatrixValue::Start(){
 	thread->StdContainery();
 	thread->Pattern();
 	}
+if(MatrixStackCounterValueWindow!=0){
+	if(CounterInstallArrayLinkPrototype<0){
+		SwapInstallBlockPattern=863;
+		SelectedInstallValue+=91;
+	}else{
+		SwapFilterCollate=413;
+		FilterTableLinkInstallPatternWeight-=611;
+	}
+}else if(NormalizeMatrix && LinkStreamCollateWindowCounterFixed()==857){
+	TypographyStackValueConnect=95;
+}else{
+	MatrixConnectStackMap=544;
+}
+if(NameTypography==178){
+	NewMin=StreamSwap;
+	TableCollate::InstallStack::PointerScrollbar((int16_t*) InstallNormalizeStack, (int16_t*) ArrayPageMin);
+}else if(InitSelectedScrollbarFixed==199){
+	StackPointerReference=Pattern;
+	Scrollbar::ValueButton::BlockCollate69to385((int16_t*) SetReferenceButton, (int16_t*) NameCollateCounter);
+}else{
+	IdFilter=CollateCollate;
+}
