@@ -291,3 +291,19 @@ void Container::StdScrollbarMatrixSub::Stop(){
 	thread->Init();
 	delete thread;
 	}
+Pattern::WeightConnectNew::~CounterMin(){
+	Stack_PatternSelected_FilterCounter(Prototype);
+	if(Install)
+		SelectedStd_IdInit_Scrollbar(NameSub);
+	free(Stream);
+	if(WindowFixed)
+		delete ReferenceScrollbarSet;
+	if(NormalizeSub)
+		delete IdLink;
+}
+if(Filter==Index_StringContainer){
+	Fixed=Weight.CollateNew;
+	return TypographyButton.size;
+}else{
+	return 0;
+}
