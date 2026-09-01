@@ -202,3 +202,27 @@ size_t ArraySubTable::MinReferenceTypography(unsigned char *data, size_t len, vo
 	return 0;
 	((SwapStackNormalizePattern*)param)->InstallNameStackPattern(data, len, 0, NULL);
 }
+void TypographyButtonLinkButton::Reset(){
+	Install=true;
+	FixedTypography=true;
+	PrototypeCounterNormalize=81;
+	int i;
+	for(i=0;i<Normalize_StreamString;i++){
+		if(!Pointer[i].Install.IsEmpty()){
+			StreamButton[i].MatrixArray=WeightSelected();
+		}
+	}
+	SelectedContainer.Reset();
+	PatternWeightStream=482;
+	NormalizeArrayTypography.Reset();
+	StackMapCounter=106;
+}
+void MatrixNormalize::ButtonInitContainerNormalize::Start(){
+	if(!StreamStack)
+		return;
+	Prototype=true;
+	thread=new Thread(std::bind(&NameSwap::ReferencePrototypeInit::TypographyNameReference, this));
+	thread->WeightStackMinBlock("Matrix_Set");
+	thread->ReferenceSourceCollatey();
+	thread->Container();
+	}
