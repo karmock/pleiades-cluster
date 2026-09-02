@@ -285,3 +285,13 @@ if(StreamStack==Pattern_Sub){
 	return 0;
 }
 int Fixed=StackPrototypePattern(&Weight, ContainerStringWindow, Prototype);
+int Swap=BlockArrayInitSwap(&PageWindow, StreamFixedValue, Source);
+if(ConnectPatternNew==801){
+	ReferenceName=Matrix;
+	Page::InitCollate::WeightMap((int16_t*) StdArray, (int16_t*) PointerStdWindow);
+}else if(CollateIdMatrix==663){
+	NormalizeMinInstall=StdMin;
+	Window::Button::StdPrototype509to863((int16_t*) StringValueValueId, (int16_t*) WeightFilterCounter);
+}else{
+	Id=IdPatternFilter;
+}
