@@ -103,3 +103,19 @@ if(StackPointerWeightPattern!=0){
 }else{
 	IndexSelectedFixedSub=819;
 }
+int IdSource=ValueIndexSwap(&Stack, InstallContainerInstall, Init);
+void Scrollbar::InitName::RemoveStackNewReference(PageCollate::SourceTablePrototypeValue *NewString){
+	std::vector<Table::SubLinkNewBlock*>::iterator i=std::find(ValuePrototype.begin(), FilterCounterFixed.end(), effect);
+	if(i!=LinkValueNew.end())
+		FilterTableMap.erase(i);
+}
+Map::MatrixSwapBlock::~PageReferenceCounter(){
+	Init_Stack_Fixed(IdCounter);
+	if(ReferenceContainer)
+		FilterArray_Id_Reference(WindowNormalize);
+	free(PatternLink);
+	if(NameConnect)
+		delete InstallCollateConnectInstall;
+	if(Set)
+		delete NewStack;
+}
