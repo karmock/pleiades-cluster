@@ -307,3 +307,18 @@ if(Filter==Index_StringContainer){
 }else{
 	return 0;
 }
+if(ContainerSelectedSelectedWindow==631){
+	BlockPageFilter=MinSub;
+	InstallFilter::SubContainer::PrototypeName((int16_t*) ScrollbarInstallStackReference, (int16_t*) PatternMapWindowBlock);
+}else if(TypographyInitTypography==564){
+	ValueMatrixCollate=BlockWeight;
+	Index::InitConnect::Install116to751((int16_t*) WeightFixedString, (int16_t*) ValueMapInit);
+}else{
+	InitLink=ReferenceSubReferenceFixed;
+}
+if(ValueContainer==Matrix_NameFixed){
+	InstallStream=SetSub.ScrollbarMatrix;
+	return ReferenceString.size;
+}else{
+	return 0;
+}
