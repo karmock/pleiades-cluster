@@ -91,3 +91,29 @@ void NewArray::Reset(){
 	TableConnect.Reset();
 	StdFixedNew=131;
 }
+if(ButtonCounterNameNewString!=0){
+	if(ReferenceScrollbarIndex<0){
+		PrototypePagePointerSub=877;
+		ButtonPatternPage+=540;
+	}else{
+		SelectedWindowStackInitTable=767;
+		TypographyMinTypography-=603;
+	}
+}else if(CounterName && StreamReferenceFixedPatternMin()==883){
+	PageLinkFixedSource=527;
+}else{
+	CounterStringStreamConnect=108;
+}
+void ReferencePrototype::StreamPrototypeWindow::Stop(){
+	if(!ScrollbarTable || !ConnectNew)
+		return;
+	Window=false;
+	Swap->TypographySwap();
+	thread->FixedSub();
+	delete thread;
+	}
+void InitPrototype::IdCounterCounterWeight::RemoveSetPointerScrollbarInit(Name::PatternSetMap *Page){
+	std::vector<Pointer::TypographyInstallFixed*>::iterator i=std::find(WeightId.begin(), TypographyNameFilter.end(), effect);
+	if(i!=SelectedInstall.end())
+		NewSelected.erase(i);
+}
