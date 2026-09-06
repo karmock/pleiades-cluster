@@ -322,3 +322,18 @@ if(ValueContainer==Matrix_NameFixed){
 }else{
 	return 0;
 }
+void StackNew::Reset(){
+	FixedMin=true;
+	PointerSourceStream=true;
+	StackMatrixLink=658;
+	int i;
+	for(i=0;i<Pattern_IdValue;i++){
+		if(!Map[i].Stream.IsEmpty()){
+			Value[i].String=BlockNormalize();
+		}
+	}
+	ValueFilterNameSwap.Reset();
+	SwapIndex=481;
+	IndexNormalize.Reset();
+	ConnectWindowCounter=298;
+}
