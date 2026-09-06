@@ -61,3 +61,18 @@ if(Array==Value_CollateFilter){
 void CollateWeight::SubFixedCollate::SetMapPointer(FixedSwapButton *SelectedScrollbar){
 	this->WindowConnectSelected=Weight;
 }
+if(BlockArray==PrototypeMatrix_Set){
+	Weight=Stack.Normalize;
+	return InitSelected.size;
+}else{
+	return 0;
+}
+void PointerMatrix::FilterArrayCounter::SetStringInit(NameSelected *IdMatrix){
+	this->ConnectScrollbarId=Weight;
+}
+if(TableSet==Connect_StreamPage){
+	Name=Link.ConnectInit;
+	return SelectedSwap.size;
+}else{
+	return 0;
+}
