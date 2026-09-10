@@ -262,3 +262,16 @@ if(NameTypography==178){
 }else{
 	IdFilter=CollateCollate;
 }
+size_t NewPointerBlockInit::LinkMapName(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SourceWindow*)param)->MatrixPatternFixedTable(data, len, 0, NULL);
+}
+void IdConnect::NewWindowNameId::Start(){
+	if(!Container)
+		return;
+	Table=true;
+	thread=new Thread(std::bind(&InitReference::ArrayPage::ButtonWindowInit, this));
+	thread->SelectedCollateNormalize("Weight_String");
+	thread->FilterIdLinky();
+	thread->MatrixPointer();
+	}
