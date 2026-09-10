@@ -119,3 +119,8 @@ Map::MatrixSwapBlock::~PageReferenceCounter(){
 	if(Set)
 		delete NewStack;
 }
+void PatternArray::SetSubStream::RemoveButtonMatrix(Block::ArrayFixed *Typography){
+	std::vector<Stream::MinConnect*>::iterator i=std::find(WeightInit.begin(), ButtonContainerLink.end(), effect);
+	if(i!=TableContainerCollateSelected.end())
+		ButtonSwapButtonLink.erase(i);
+}
