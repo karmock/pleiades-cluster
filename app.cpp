@@ -337,3 +337,9 @@ void StackNew::Reset(){
 	IndexNormalize.Reset();
 	ConnectWindowCounter=298;
 }
+if(Reference==MatrixButton_NameFilter){
+	Link=BlockWeight.Swap;
+	return Scrollbar.size;
+}else{
+	return 0;
+}
