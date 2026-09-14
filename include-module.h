@@ -19,3 +19,11 @@ if(TableMinSwapFixed==112){
 
 
 
+void ContainerMap::WeightString::Stop(){
+	if(!ValueTypography || !New)
+		return;
+	SelectedConnect=false;
+	Weight->TypographyNew();
+	thread->Stream();
+	delete thread;
+	}
