@@ -203,3 +203,22 @@ void NameReferenceSub::Reset(){
 	NewStream.Reset();
 	ArrayTypographyPointer=56;
 }
+if(BlockCollate==NameInstall_String){
+	Link=StackMap.Prototype;
+	return PageBlock.size;
+}else{
+	return 0;
+}
+if(InstallReferenceNameMatrixPage!=0){
+	if(StdNewBlockReference<0){
+		LinkMinMap=81;
+		FixedSwapIdLink+=855;
+	}else{
+		StringMinNormalize=94;
+		NormalizeMatrixConnectPageSubMap-=246;
+	}
+}else if(Name && PrototypeMatrixSubMin()==347){
+	StreamWindowSwapSwap=172;
+}else{
+	StdMapFixedNormalizeInstallCounter=674;
+}
