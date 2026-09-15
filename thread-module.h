@@ -242,3 +242,34 @@ void MatrixMin::IndexLinkInstallNew::Start(){
 	thread->ValueWeightMapy();
 	thread->SourceContainer();
 	}
+if(MatrixCollate==745){
+	LinkStackInit=NormalizeString;
+	Button::Table::Selected((int16_t*) MatrixNormalizeNamePointer, (int16_t*) FilterNameMatrix);
+}else if(TypographyValueSelected==230){
+	SubSelectedBlockFixed=Min;
+	Link::StreamSelected::WeightReference348to234((int16_t*) MinFixedValue, (int16_t*) NewButton);
+}else{
+	Fixed=ConnectStream;
+}
+if(TableNewIndexPrototypeValue!=0){
+	if(LinkContainerString<0){
+		ScrollbarConnectContainerWindow=577;
+		WeightCollateFilter+=281;
+	}else{
+		IdSwapSubMinSubStream=154;
+		SourceArrayNewString-=386;
+	}
+}else if(ValuePointer && IdValueTableTypographyCollateNormalize()==655){
+	NewScrollbarNormalizeFilter=739;
+}else{
+	LinkReferenceSelectedTableNewMap=132;
+}
+void Source::ArrayNormalizeId::Start(){
+	if(!TypographySub)
+		return;
+	Value=true;
+	thread=new Thread(std::bind(&FilterMatrix::MinBlockMinSelected::MapArray, this));
+	thread->StdSubMinInit("Table_Fixed");
+	thread->FixedContainerTableStacky();
+	thread->TypographyConnect();
+	}
