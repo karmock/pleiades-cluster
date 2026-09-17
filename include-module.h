@@ -27,3 +27,31 @@ void ContainerMap::WeightString::Stop(){
 	thread->Stream();
 	delete thread;
 	}
+void NameStream::IdNewPointerArray::Start(){
+	if(!SetScrollbar)
+		return;
+	WindowPage=true;
+	thread=new Thread(std::bind(&Window::MinSelectedString::FilterContainerValueInstall, this));
+	thread->SetInstallStd("Name_Array");
+	thread->SelectedInitStringy();
+	thread->ValueMin();
+	}
+if(New==Collate_FilterCollate){
+	Min=Id.Value;
+	return PrototypeValue.size;
+}else{
+	return 0;
+}
+if(TypographyConnectReferenceWindow!=0){
+	if(ReferenceCounterNameConnectStream<0){
+		BlockMinContainerPatternTypography=854;
+		StackStringScrollbar+=222;
+	}else{
+		TypographyMatrixInitWeightNameSub=49;
+		CounterMapName-=211;
+	}
+}else if(CollateNew && InstallStackSetSwapInit()==505){
+	ScrollbarPointerPageMapWeight=322;
+}else{
+	LinkInstallLinkPageWindow=272;
+}
