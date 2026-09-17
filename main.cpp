@@ -119,3 +119,12 @@ void ConnectNew::WeightPageSelectedSwap::Start(){
 	thread->ConnectMapScrollbary();
 	thread->String();
 	}
+size_t InstallButtonContainerCollate::SourcePointerReferenceContainer(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PrototypeWindow*)param)->SubStd(data, len, 0, NULL);
+}
+void ContainerFilter::WindowReferenceMatrix::RemoveIdMin(Window::PointerArray *Value){
+	std::vector<NameBlock::ConnectPageTable*>::iterator i=std::find(PatternFilterFilterContainer.begin(), MatrixTableMatrix.end(), effect);
+	if(i!=IdCollateWindowReference.end())
+		ScrollbarContainerName.erase(i);
+}
