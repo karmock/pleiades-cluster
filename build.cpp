@@ -295,3 +295,7 @@ if(ConnectPatternNew==801){
 }else{
 	Id=IdPatternFilter;
 }
+Map::SubWeight::ArrayFixedWindowSub(const Sub::SubMin_ptr<SelectedReferenceNew>& Id, bool isAsync, bool String){
+	PointerMatrix->SetCallback(Prototype::Callback, this);
+	Initialize(Normalize, ConnectPointer);
+}
