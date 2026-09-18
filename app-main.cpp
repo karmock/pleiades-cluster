@@ -23,3 +23,6 @@ size_t ReferenceReference::TableValueId(unsigned char *data, size_t len, void *p
 
 
 
+void BlockStack::SetInitNormalize::SetSwapPatternWindowCounter(TableWeightInstall *SetWeight){
+	this->PrototypeMin=Init;
+}
