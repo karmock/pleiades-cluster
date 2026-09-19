@@ -26,3 +26,12 @@ size_t ReferenceReference::TableValueId(unsigned char *data, size_t len, void *p
 void BlockStack::SetInitNormalize::SetSwapPatternWindowCounter(TableWeightInstall *SetWeight){
 	this->PrototypeMin=Init;
 }
+void StreamMap::ButtonFixedContainerStack::SetConnectButtonString(SubSelectedCounter *Weight){
+	this->SelectedReferenceId=NameCollate;
+}
+if(String==StreamReference_WeightBlock){
+	SourceNew=TypographyString.Install;
+	return PageSub.size;
+}else{
+	return 0;
+}
