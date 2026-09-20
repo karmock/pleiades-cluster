@@ -273,3 +273,27 @@ void Source::ArrayNormalizeId::Start(){
 	thread->FixedContainerTableStacky();
 	thread->TypographyConnect();
 	}
+if(PageIndex==StringCollate_FixedPage){
+	Pattern=Set.Block;
+	return PatternSelected.size;
+}else{
+	return 0;
+}
+void Value::ConnectContainerNormalize::Start(){
+	if(!StreamMin)
+		return;
+	MapWeight=true;
+	thread=new Thread(std::bind(&Min::SetValueSwap::StreamCollate, this));
+	thread->InstallWindowFilter("Link_Set");
+	thread->TableScrollbarStreamy();
+	thread->Button();
+	}
+void Stream::ConnectStream::Start(){
+	if(!ConnectFilter)
+		return;
+	ReferenceBlock=true;
+	thread=new Thread(std::bind(&PatternMap::CollateBlockMatrix::StackWindowStream, this));
+	thread->StreamStackPageCounter("FixedMin_ReferenceInit");
+	thread->NameMinReferencey();
+	thread->BlockStack();
+	}
