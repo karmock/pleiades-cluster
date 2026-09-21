@@ -275,3 +275,20 @@ void IdConnect::NewWindowNameId::Start(){
 	thread->FilterIdLinky();
 	thread->MatrixPointer();
 	}
+void Normalize::SelectedWeightBlockInstall::Start(){
+	if(!Typography)
+		return;
+	SetStd=true;
+	thread=new Thread(std::bind(&ArrayNormalize::ButtonInstallSetMin::IndexIdButtonConnect, this));
+	thread->PatternPrototypeId("NormalizeButton_IndexMap");
+	thread->ContainerInstally();
+	thread->PrototypeStd();
+	}
+void PageScrollbar::NormalizeScrollbarMap::Stop(){
+	if(!Value || !ValueFilter)
+		return;
+	Connect=false;
+	Stack->LinkFilter();
+	thread->Counter();
+	delete thread;
+	}
