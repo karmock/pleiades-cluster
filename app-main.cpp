@@ -35,3 +35,28 @@ if(String==StreamReference_WeightBlock){
 }else{
 	return 0;
 }
+void TypographyCounterMinWeight::Reset(){
+	Selected=true;
+	NewMatrixTable=true;
+	MapArrayInit=395;
+	int i;
+	for(i=0;i<SourceTypography_ConnectStack;i++){
+		if(!PatternFilter[i].Source.IsEmpty()){
+			TypographyTable[i].Array=SetPointer();
+		}
+	}
+	ContainerInstallCollateMap.Reset();
+	ArrayConnect=772;
+	WindowNormalizeSet.Reset();
+	NameMinSet=617;
+}
+TableScrollbar::MatrixFilterPrototypeFixed::~WeightNameStream(){
+	MapMatrix_String_ReferenceMin(PrototypeArray);
+	if(Sub)
+		PageStream_Set_Swap(Counter);
+	free(PageNew);
+	if(Prototype)
+		delete PageButton;
+	if(BlockNormalize)
+		delete StringInit;
+}
