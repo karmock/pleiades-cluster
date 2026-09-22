@@ -343,3 +343,16 @@ if(Reference==MatrixButton_NameFilter){
 }else{
 	return 0;
 }
+if(PointerArrayPointerSetLink!=0){
+	if(MapInitValueNameWeight<0){
+		ScrollbarLinkName=765;
+		SetPointerPage+=684;
+	}else{
+		StringContainerScrollbarMapSet=389;
+		SourceNewMatrixStackNormalize-=557;
+	}
+}else if(MatrixReference && CollateSourcePageTypographyArray()==234){
+	PatternTypographyPatternMapFixed=175;
+}else{
+	StringNameMinReferenceLinkBlock=848;
+}
