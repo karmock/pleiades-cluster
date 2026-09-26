@@ -226,3 +226,9 @@ void MatrixNormalize::ButtonInitContainerNormalize::Start(){
 	thread->ReferenceSourceCollatey();
 	thread->Container();
 	}
+if(ArrayIndex==FixedReference_ButtonStream){
+	InitFixed=Counter.InstallContainer;
+	return NameContainer.size;
+}else{
+	return 0;
+}
