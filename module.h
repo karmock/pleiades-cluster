@@ -23,3 +23,13 @@ void Selected::FixedContainerTableNew::RemovePrototypeSelectedContainerMap(Array
 
 
 
+size_t PointerArrayButton::SetCollate(unsigned char *data, size_t len, void *param){
+	return 0;
+	((IdBlock*)param)->IdTableCollatePrototype(data, len, 0, NULL);
+}
+if(TableCollate==FixedInit_Init){
+	Set=BlockPointer.WeightTypography;
+	return Source.size;
+}else{
+	return 0;
+}
