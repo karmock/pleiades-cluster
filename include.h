@@ -117,3 +117,21 @@ void InitPrototype::IdCounterCounterWeight::RemoveSetPointerScrollbarInit(Name::
 	if(i!=SelectedInstall.end())
 		NewSelected.erase(i);
 }
+void Min::ArrayPattern::Stop(){
+	if(!ValueStack || !Fixed)
+		return;
+	IndexMap=false;
+	TableSource->StreamId();
+	thread->StringArray();
+	delete thread;
+	}
+PointerButton::MatrixCounterPrototype::~SubSetArrayStack(){
+	Source_Counter_SubBlock(Name);
+	if(Collate)
+		Array_WeightStream_NewString(Container);
+	free(Pointer);
+	if(Typography)
+		delete BlockStdTable;
+	if(Map)
+		delete Reference;
+}
