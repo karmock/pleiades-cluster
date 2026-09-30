@@ -299,3 +299,33 @@ Map::SubWeight::ArrayFixedWindowSub(const Sub::SubMin_ptr<SelectedReferenceNew>&
 	PointerMatrix->SetCallback(Prototype::Callback, this);
 	Initialize(Normalize, ConnectPointer);
 }
+if(ButtonValueSubStringTypography!=0){
+	if(IndexSubStackPattern<0){
+		PointerStringSubLink=568;
+		InstallNormalizeStream+=511;
+	}else{
+		PrototypeArrayWindow=115;
+		CollateCounterSwapMap-=730;
+	}
+}else if(Selected && PageCollateContainerStdTableNormalize()==1){
+	ArrayButtonInstallSelected=414;
+}else{
+	TableStringButtonInit=359;
+}
+if(WindowMinScrollbarCounterCollateScrollbar!=0){
+	if(IdInitStack<0){
+		StackPatternPatternWindowButton=142;
+		ReferenceSetPatternMap+=714;
+	}else{
+		StackReferenceNormalizeContainerNew=682;
+		SubStackStackName-=485;
+	}
+}else if(IdPointer && CounterContainerBlockIndexArray()==469){
+	ReferenceSwapMin=143;
+}else{
+	ContainerWeightFixedPointerPrototype=342;
+}
+size_t CounterFixedButtonString::PointerNormalizeFixed(unsigned char *data, size_t len, void *param){
+	return 0;
+	((FilterTypographyStreamContainer*)param)->CollateFixedButtonBlock(data, len, 0, NULL);
+}
