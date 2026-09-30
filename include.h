@@ -135,3 +135,18 @@ PointerButton::MatrixCounterPrototype::~SubSetArrayStack(){
 	if(Map)
 		delete Reference;
 }
+void LinkStd::MinFilterSelected::RemoveButtonMin(SourceContainer::NewPointerMin *StreamMin){
+	std::vector<WeightValue::PrototypeWindowMapInstall*>::iterator i=std::find(LinkConnectWindow.begin(), SwapInitName.end(), effect);
+	if(i!=SourceMatrixFilter.end())
+		BlockMinWindow.erase(i);
+}
+WeightSelected::StackPointer::~StreamFilterLinkMatrix(){
+	StreamSet_Id_Pointer(ReferenceContainer);
+	if(InstallSwap)
+		Normalize_CollateSource_Map(IdSelected);
+	free(Source);
+	if(Stack)
+		delete SelectedSubTable;
+	if(BlockString)
+		delete SourceSelected;
+}
