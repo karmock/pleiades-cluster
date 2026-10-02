@@ -232,3 +232,23 @@ if(ArrayIndex==FixedReference_ButtonStream){
 }else{
 	return 0;
 }
+size_t CollateSubCounter::ConnectMatrixScrollbar(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SourceTable*)param)->IdSwap(data, len, 0, NULL);
+}
+if(FilterPage==Fixed_CollateLink){
+	TableButton=ScrollbarInit.Weight;
+	return CounterSwap.size;
+}else{
+	return 0;
+}
+MapArray::SubContainerSelected::~CollateWindowSwap(){
+	InstallScrollbar_Stack_Container(ContainerFilter);
+	if(Map)
+		WindowTable_Fixed_CollateSub(InitNormalize);
+	free(ScrollbarSub);
+	if(Min)
+		delete NameNormalizeIndexInit;
+	if(InitNormalize)
+		delete SubPointer;
+}
