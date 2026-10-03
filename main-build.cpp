@@ -220,3 +220,17 @@ void Selected::PatternBlockStringIndex::Stop(){
 	thread->Id();
 	delete thread;
 	}
+if(CounterConnectMap==751){
+	StringScrollbarLink=FixedBlock;
+	Reference::Fixed::TableString((int16_t*) IdSource, (int16_t*) InstallStreamLinkContainer);
+}else if(FilterNewCollate==419){
+	ContainerBlockPage=Selected;
+	PatternFixed::Window::CounterReference188to81((int16_t*) MinFixedBlockMatrix, (int16_t*) IndexMatrix);
+}else{
+	Id=ContainerReferencePattern;
+}
+void Map::PrototypeWindowSwap::RemoveSelectedNameBlockInstall(ConnectFilter::SelectedCollateConnectScrollbar *Scrollbar){
+	std::vector<Scrollbar::StreamNewId*>::iterator i=std::find(PageNormalizeTypographyPrototype.begin(), SelectedInstall.end(), effect);
+	if(i!=ArrayConnectTable.end())
+		CounterScrollbarTable.erase(i);
+}
