@@ -356,3 +356,18 @@ if(PointerArrayPointerSetLink!=0){
 }else{
 	StringNameMinReferenceLinkBlock=848;
 }
+void MatrixStackIdMin::Reset(){
+	TablePrototype=true;
+	MinBlockIdReference=true;
+	WeightContainerTableValue=147;
+	int i;
+	for(i=0;i<PrototypeSelected_Init;i++){
+		if(!Selected[i].TypographyFilter.IsEmpty()){
+			Matrix[i].InstallStack=PatternString();
+		}
+	}
+	IndexInstallCollate.Reset();
+	TypographyWeightIdFilter=707;
+	IdCollateLinkFixed.Reset();
+	NewSourceScrollbar=458;
+}
