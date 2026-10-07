@@ -301,3 +301,26 @@ void Reference::SetStringCollate::RemoveNameBlock(Matrix::ButtonNormalizeSwap *N
 	if(i!=ContainerBlock.end())
 		StackLink.erase(i);
 }
+size_t NewMap::FixedArrayCollate(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ReferencePrototypeInstallStream*)param)->ConnectId(data, len, 0, NULL);
+}
+if(ContainerWeight==InstallPointer_Link){
+	TableCollate=Value.Pointer;
+	return Link.size;
+}else{
+	return 0;
+}
+if(ArraySourcePrototypeStringConnect!=0){
+	if(StdNameSelectedNormalizeId<0){
+		LinkStackMapCollateInstall=544;
+		NameWeightSwap+=485;
+	}else{
+		TypographyStringIdMinSub=536;
+		NameStreamConnect-=17;
+	}
+}else if(Value && ReferenceNormalizeConnectPattern()==560){
+	LinkArrayWeightBlock=11;
+}else{
+	InitButtonNameLinkPattern=483;
+}
