@@ -60,3 +60,9 @@ TableScrollbar::MatrixFilterPrototypeFixed::~WeightNameStream(){
 	if(BlockNormalize)
 		delete StringInit;
 }
+if(Block==WindowStd_Link){
+	Normalize=Container.TypographySelected;
+	return Counter.size;
+}else{
+	return 0;
+}
