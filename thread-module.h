@@ -297,3 +297,9 @@ void Stream::ConnectStream::Start(){
 	thread->NameMinReferencey();
 	thread->BlockStack();
 	}
+if(Init==Init_MapPrototype){
+	ContainerCollate=Weight.Id;
+	return SwapWindow.size;
+}else{
+	return 0;
+}
