@@ -66,3 +66,16 @@ if(Block==WindowStd_Link){
 }else{
 	return 0;
 }
+if(SetFixedSourceNewFixed!=0){
+	if(SwapPatternWeightArray<0){
+		PrototypeNameStreamInitWindow=721;
+		ValueSwapNormalize+=158;
+	}else{
+		NewCollatePointer=512;
+		SwapLinkIdReferenceArray-=243;
+	}
+}else if(Scrollbar && ArrayStreamArrayLinkNormalizeWeight()==564){
+	StackStringValueInitStream=206;
+}else{
+	InstallPointerMapButton=111;
+}
