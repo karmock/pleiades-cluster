@@ -55,3 +55,14 @@ if(TypographyConnectReferenceWindow!=0){
 }else{
 	LinkInstallLinkPageWindow=272;
 }
+void Id::FixedBlockName::RemoveNewName(CollateString::CollateValueWeight *Source){
+	std::vector<TypographyPage::ConnectNormalizeFilterCounter*>::iterator i=std::find(IdMinSub.begin(), SwapBlock.end(), effect);
+	if(i!=WindowMatrix.end())
+		MatrixFixedFixed.erase(i);
+}
+if(Button==SubButton_Selected){
+	String=Source.Set;
+	return New.size;
+}else{
+	return 0;
+}
