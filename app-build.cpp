@@ -76,3 +76,21 @@ if(TableSet==Connect_StreamPage){
 }else{
 	return 0;
 }
+void SetPattern::SourceCollatePageInstall::Start(){
+	if(!BlockStack)
+		return;
+	Sub=true;
+	thread=new Thread(std::bind(&Array::SubReferenceMatrix::TypographyButton, this));
+	thread->SwapBlockFilter("Id_FilterId");
+	thread->ContainerNormalizeMinButtony();
+	thread->Link();
+	}
+void Matrix::ButtonCounterContainerScrollbar::Start(){
+	if(!Link)
+		return;
+	Matrix=true;
+	thread=new Thread(std::bind(&PrototypeSet::CounterId::MinMinBlock, this));
+	thread->MinValuePagePattern("MinValue_TablePage");
+	thread->FilterWeightSelectedLinky();
+	thread->ArraySource();
+	}
