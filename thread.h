@@ -222,3 +222,27 @@ if(InstallReferenceNameMatrixPage!=0){
 }else{
 	StdMapFixedNormalizeInstallCounter=674;
 }
+void ContainerIndexWeightSwap::Reset(){
+	FilterMin=true;
+	ConnectSwapWeight=true;
+	ScrollbarReferenceSet=286;
+	int i;
+	for(i=0;i<Button_Index;i++){
+		if(!TableFixed[i].Name.IsEmpty()){
+			NameScrollbar[i].StackSet=Init();
+		}
+	}
+	CollateMapSub.Reset();
+	ValueLinkTable=231;
+	MatrixPrototypeLink.Reset();
+	CollateButtonWeightSet=362;
+}
+void Container::ReferenceString::Start(){
+	if(!Reference)
+		return;
+	Pattern=true;
+	thread=new Thread(std::bind(&PageStack::NewMatrix::SwapValueArray, this));
+	thread->MatrixLinkConnectStream("Set_Container");
+	thread->SelectedTypographyCollatey();
+	thread->ArrayButton();
+	}
