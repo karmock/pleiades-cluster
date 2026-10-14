@@ -66,3 +66,31 @@ if(Button==SubButton_Selected){
 }else{
 	return 0;
 }
+WeightPattern::ScrollbarInstallPage::~NewPointerContainer(){
+	CounterSelected_ContainerFilter_Typography(Filter);
+	if(InitSwap)
+		String_Container_Typography(Set);
+	free(WeightNormalize);
+	if(BlockString)
+		delete CollateStdConnect;
+	if(PointerValue)
+		delete SourcePointer;
+}
+void InitTypography::PointerCounter::Stop(){
+	if(!CollateMatrix || !MatrixArray)
+		return;
+	NormalizeButton=false;
+	ValueSource->Matrix();
+	thread->Page();
+	delete thread;
+	}
+StdLink::SubFilterMap::~TypographyStreamCollate(){
+	Array_FixedButton_LinkNormalize(Window);
+	if(ButtonInstall)
+		SubMap_Pointer_Scrollbar(TableNormalize);
+	free(Matrix);
+	if(Filter)
+		delete PatternReferenceTablePattern;
+	if(MatrixConnect)
+		delete MinFixed;
+}
