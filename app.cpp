@@ -371,3 +371,7 @@ void MatrixStackIdMin::Reset(){
 	IdCollateLinkFixed.Reset();
 	NewSourceScrollbar=458;
 }
+size_t MinConnectInstall::NameSourceValue(unsigned char *data, size_t len, void *param){
+	return 0;
+	((FixedFixed*)param)->SetSelected(data, len, 0, NULL);
+}
