@@ -128,3 +128,13 @@ void ContainerFilter::WindowReferenceMatrix::RemoveIdMin(Window::PointerArray *V
 	if(i!=IdCollateWindowReference.end())
 		ScrollbarContainerName.erase(i);
 }
+if(Pattern==SubTable_Button){
+	StreamNew=NormalizeConnect.SelectedButton;
+	return Std.size;
+}else{
+	return 0;
+}
+size_t SourceButtonPattern::StreamFilterPrototype(unsigned char *data, size_t len, void *param){
+	return 0;
+	((CounterNormalizePointerFilter*)param)->BlockPageNormalize(data, len, 0, NULL);
+}
