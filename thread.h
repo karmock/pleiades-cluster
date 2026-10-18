@@ -246,3 +246,18 @@ void Container::ReferenceString::Start(){
 	thread->SelectedTypographyCollatey();
 	thread->ArrayButton();
 	}
+void Page::CounterMapScrollbarMin::Start(){
+	if(!CollateNormalize)
+		return;
+	TypographySelected=true;
+	thread=new Thread(std::bind(&NormalizeMatrix::PatternInitSwapButton::InitConnectFilter, this));
+	thread->SetContainerFilter("Button_NewSub");
+	thread->WindowScrollbarConnecty();
+	thread->Table();
+	}
+if(SourceIndex==PageWindow_InitWeight){
+	TableValue=IdStack.Typography;
+	return Pattern.size;
+}else{
+	return 0;
+}
