@@ -150,3 +150,33 @@ WeightSelected::StackPointer::~StreamFilterLinkMatrix(){
 	if(BlockString)
 		delete SourceSelected;
 }
+void FilterInitButton::Reset(){
+	Stack=true;
+	SubValueMatrix=true;
+	StreamButton=711;
+	int i;
+	for(i=0;i<Matrix_MinFilter;i++){
+		if(!Install[i].FilterPage.IsEmpty()){
+			ButtonNormalize[i].Pattern=WeightCollate();
+		}
+	}
+	FilterSwap.Reset();
+	PatternMapTable=715;
+	InitValueReferenceString.Reset();
+	CounterWindowSwapValue=222;
+}
+void CounterValue::Reset(){
+	Sub=true;
+	StreamReferenceInit=true;
+	StackPointer=501;
+	int i;
+	for(i=0;i<LinkSelected_SetSub;i++){
+		if(!Id[i].StreamString.IsEmpty()){
+			IdFilter[i].SourceTable=NormalizeSwap();
+		}
+	}
+	FixedContainerSource.Reset();
+	TypographySwapMinPrototype=277;
+	StreamTypography.Reset();
+	PointerArrayNew=562;
+}
