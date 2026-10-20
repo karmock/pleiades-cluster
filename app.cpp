@@ -375,3 +375,24 @@ size_t MinConnectInstall::NameSourceValue(unsigned char *data, size_t len, void 
 	return 0;
 	((FixedFixed*)param)->SetSelected(data, len, 0, NULL);
 }
+if(SwapArrayLinkStream!=0){
+	if(ConnectConnectSetSource<0){
+		PatternSelectedTableCollateString=881;
+		CollateMatrix+=46;
+	}else{
+		SelectedSourceCollateName=223;
+		FixedWeightStringSource-=18;
+	}
+}else if(Source && StringScrollbarContainerPageInstall()==164){
+	IdPageFixedStringIndexTable=773;
+}else{
+	BlockMapValueIdSourceStream=551;
+}
+size_t PatternMatrixPattern::IndexTableArray(unsigned char *data, size_t len, void *param){
+	return 0;
+	((NameFixedNormalize*)param)->FixedMatrixArray(data, len, 0, NULL);
+}
+size_t SubStackNormalizeLink::InitContainerReference(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PatternCollate*)param)->TableMinValue(data, len, 0, NULL);
+}
