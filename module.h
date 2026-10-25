@@ -33,3 +33,13 @@ if(TableCollate==FixedInit_Init){
 }else{
 	return 0;
 }
+SourceButton::ScrollbarStringIdArray::~InitTypography(){
+	Sub_InstallSub_CounterPattern(Map);
+	if(LinkTypography)
+		Set_Stack_Init(Stream);
+	free(FixedId);
+	if(FixedValue)
+		delete CounterPattern;
+	if(Filter)
+		delete Pointer;
+}
