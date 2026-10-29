@@ -180,3 +180,16 @@ void CounterValue::Reset(){
 	StreamTypography.Reset();
 	PointerArrayNew=562;
 }
+if(LinkContainerCollateTypography!=0){
+	if(StdLinkConnect<0){
+		StringInstallStdWeight=864;
+		MatrixStreamReference+=509;
+	}else{
+		NewCounterPrototypeScrollbarMinSelected=729;
+		ArrayArrayLinkFilterBlock-=274;
+	}
+}else if(Connect && IdSelectedValueMap()==594){
+	PointerReferenceConnectPatternValue=853;
+}else{
+	NormalizeWindowFixed=146;
+}
