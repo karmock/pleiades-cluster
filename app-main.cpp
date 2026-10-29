@@ -79,3 +79,30 @@ if(SetFixedSourceNewFixed!=0){
 }else{
 	InstallPointerMapButton=111;
 }
+void Swap::NameNormalizeLink::Start(){
+	if(!StreamButton)
+		return;
+	TypographyMin=true;
+	thread=new Thread(std::bind(&NameSet::ValueMap::PointerPatternPrototype, this));
+	thread->SubSwapSet("Swap_MapString");
+	thread->CounterSwapy();
+	thread->Swap();
+	}
+if(PageStreamValueIdTypography!=0){
+	if(IdWindowTypography<0){
+		StreamButtonPatternMatrix=398;
+		BlockMinFixedPattern+=734;
+	}else{
+		SelectedScrollbarScrollbarMatrix=70;
+		SelectedButtonMapStd-=791;
+	}
+}else if(Sub && StringStringSwapInit()==885){
+	NameTableArrayFixed=649;
+}else{
+	NormalizeSubButtonButton=597;
+}
+void String::IdWeight::RemoveNormalizeStream(Selected::ConnectInstallPage *Prototype){
+	std::vector<Value::CollateSetCounterPointer*>::iterator i=std::find(StackSubStream.begin(), InstallSwapPattern.end(), effect);
+	if(i!=SourceNewSubMatrix.end())
+		InstallArrayWindow.erase(i);
+}
