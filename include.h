@@ -193,3 +193,13 @@ if(LinkContainerCollateTypography!=0){
 }else{
 	NormalizeWindowFixed=146;
 }
+void Connect::ButtonMatrixWindow::RemoveIndexArraySub(Scrollbar::ConnectStringWeight *Pointer){
+	std::vector<StdLink::ReferenceButton*>::iterator i=std::find(SourceSubCounter.begin(), ScrollbarTableSelected.end(), effect);
+	if(i!=SubWindowPointer.end())
+		StackTypographyString.erase(i);
+}
+void TableFilter::FixedSub::RemoveScrollbarNormalizeButtonSelected(ValueBlock::SetLink *Init){
+	std::vector<Connect::NewReferenceButtonScrollbar*>::iterator i=std::find(StringValueLinkInit.begin(), SetBlock.end(), effect);
+	if(i!=PatternBlockFixed.end())
+		NameButton.erase(i);
+}
