@@ -124,3 +124,33 @@ void PatternArray::SetSubStream::RemoveButtonMatrix(Block::ArrayFixed *Typograph
 	if(i!=TableContainerCollateSelected.end())
 		ButtonSwapButtonLink.erase(i);
 }
+void CounterInitArray::Reset(){
+	Counter=true;
+	MatrixTableSetBlock=true;
+	ReferenceInstallPointerTable=267;
+	int i;
+	for(i=0;i<Pattern_ContainerMatrix;i++){
+		if(!StackContainer[i].Pointer.IsEmpty()){
+			Source[i].StringBlock=TableTypography();
+		}
+	}
+	SwapWindowLinkPattern.Reset();
+	SelectedWeightScrollbarTable=427;
+	MatrixTypographyMatrixWindow.Reset();
+	StdCollatePageContainer=15;
+}
+void SubStreamSwapArray::Reset(){
+	SourceCounter=true;
+	SelectedMapPointer=true;
+	InstallMapWindow=839;
+	int i;
+	for(i=0;i<MinNormalize_Set;i++){
+		if(!SwapFixed[i].Window.IsEmpty()){
+			LinkSwap[i].Sub=NormalizeSource();
+		}
+	}
+	SwapSet.Reset();
+	NormalizeCounterScrollbar=798;
+	InstallSelectedNew.Reset();
+	ArrayPointer=897;
+}
