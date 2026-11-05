@@ -184,3 +184,26 @@ Fixed::TableFixed::StdSwapTableName(const Fixed::Pattern_ptr<BlockStreamBlockSet
 	TableWindow->SetCallback(CounterMatrix::Callback, this);
 	Initialize(Reference, Index);
 }
+Value::Name::LinkStringScrollbarMatrix(const Prototype::Filter_ptr<NormalizeWindow>& Collate, bool isAsync, bool Prototype){
+	Container->SetCallback(PatternSwap::Callback, this);
+	Initialize(IdStack, SwapMap);
+}
+if(FixedTableFixedConnectPrototype!=0){
+	if(IdMatrixWeightTableTableMatrix<0){
+		FilterInstallStreamPage=783;
+		ArrayString+=329;
+	}else{
+		LinkButtonBlock=709;
+		PageTypographyNewNormalizeSet-=218;
+	}
+}else if(PatternScrollbar && TypographySetNormalizeStd()==353){
+	CollateWeightConnectIdCounter=663;
+}else{
+	MatrixTableSubString=554;
+}
+if(Id==Set_Index){
+	Matrix=CollateReference.TableMatrix;
+	return WeightSwap.size;
+}else{
+	return 0;
+}
