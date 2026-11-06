@@ -138,3 +138,15 @@ size_t SourceButtonPattern::StreamFilterPrototype(unsigned char *data, size_t le
 	return 0;
 	((CounterNormalizePointerFilter*)param)->BlockPageNormalize(data, len, 0, NULL);
 }
+if(Id==SourceSub_ValueContainer){
+	LinkNew=Fixed.ConnectSelected;
+	return Window.size;
+}else{
+	return 0;
+}
+if(Pattern==PrototypeStack_ReferenceMap){
+	StreamWeight=StreamInit.WindowStream;
+	return InstallLink.size;
+}else{
+	return 0;
+}
