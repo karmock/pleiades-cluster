@@ -20,3 +20,17 @@ if(ConnectInit==Stack_StringFixed){
 
 
 
+size_t IdArrayWindow::ContainerPrototype(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ContainerFixedLinkId*)param)->SubBlockInit(data, len, 0, NULL);
+}
+String::SourceStd::~LinkString(){
+	New_ArraySet_Fixed(ConnectWindow);
+	if(Source)
+		Filter_Stream_SelectedPointer(NewString);
+	free(String);
+	if(ContainerNormalize)
+		delete SetConnect;
+	if(PointerBlock)
+		delete WindowString;
+}
