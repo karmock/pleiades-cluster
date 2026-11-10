@@ -150,3 +150,18 @@ if(Pattern==PrototypeStack_ReferenceMap){
 }else{
 	return 0;
 }
+void MatrixBlockMinConnect::Reset(){
+	TypographyTable=true;
+	CollateSourceMap=true;
+	PrototypePage=499;
+	int i;
+	for(i=0;i<PrototypeId_Window;i++){
+		if(!Window[i].Button.IsEmpty()){
+			Weight[i].PatternMap=Min();
+		}
+	}
+	SetLinkMatrix.Reset();
+	StackConnectNormalize=218;
+	PatternWeightCounter.Reset();
+	SubSelected=613;
+}
