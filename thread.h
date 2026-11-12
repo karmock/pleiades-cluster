@@ -261,3 +261,27 @@ if(SourceIndex==PageWindow_InitWeight){
 }else{
 	return 0;
 }
+if(PageWindow==294){
+	ArrayMinStream=Link;
+	Container::WeightMin::Page((int16_t*) SourceValue, (int16_t*) NewId);
+}else if(PatternInit==228){
+	TableStackPrototypeTable=SourceStack;
+	Counter::ContainerPage::PointerScrollbar247to375((int16_t*) StreamFixed, (int16_t*) PageSubTable);
+}else{
+	Id=SourceIndexSource;
+}
+void MinStringButtonPrototype::Reset(){
+	MapWeight=true;
+	FixedNameString=true;
+	SourceContainerPatternMin=76;
+	int i;
+	for(i=0;i<Id_ReferenceFilter;i++){
+		if(!SubPointer[i].Stack.IsEmpty()){
+			Scrollbar[i].NameButton=Min();
+		}
+	}
+	TableButtonScrollbar.Reset();
+	TypographyReferenceWindowNormalize=843;
+	ReferenceButton.Reset();
+	SubId=140;
+}
