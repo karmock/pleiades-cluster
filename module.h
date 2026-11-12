@@ -43,3 +43,12 @@ SourceButton::ScrollbarStringIdArray::~InitTypography(){
 	if(Filter)
 		delete Pointer;
 }
+void Link::CounterIdMin::RemoveLinkIndexCounter(Container::ContainerPageWindowInstall *CollateWeight){
+	std::vector<Install::SubFixed*>::iterator i=std::find(FilterBlockScrollbar.begin(), BlockPointerButton.end(), effect);
+	if(i!=WeightLinkInstall.end())
+		PrototypeReferenceCollate.erase(i);
+}
+size_t SetPointerSet::FixedContainerStack(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ContainerBlockWeight*)param)->StdStringStack(data, len, 0, NULL);
+}
