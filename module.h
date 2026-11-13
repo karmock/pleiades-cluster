@@ -52,3 +52,9 @@ size_t SetPointerSet::FixedContainerStack(unsigned char *data, size_t len, void 
 	return 0;
 	((ContainerBlockWeight*)param)->StdStringStack(data, len, 0, NULL);
 }
+if(ValueInit==PatternInit_Stream){
+	Value=New.Index;
+	return Swap.size;
+}else{
+	return 0;
+}
