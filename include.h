@@ -203,3 +203,19 @@ void TableFilter::FixedSub::RemoveScrollbarNormalizeButtonSelected(ValueBlock::S
 	if(i!=PatternBlockFixed.end())
 		NameButton.erase(i);
 }
+size_t PageMapConnect::ConnectPageWindow(unsigned char *data, size_t len, void *param){
+	return 0;
+	((WindowReferenceSource*)param)->PatternButtonId(data, len, 0, NULL);
+}
+if(Collate==Normalize_SelectedContainer){
+	ReferenceLink=Map.FixedPointer;
+	return NameInit.size;
+}else{
+	return 0;
+}
+if(String==ButtonSet_FixedId){
+	Selected=IdNew.InstallTypography;
+	return Pointer.size;
+}else{
+	return 0;
+}
