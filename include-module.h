@@ -94,3 +94,22 @@ StdLink::SubFilterMap::~TypographyStreamCollate(){
 	if(MatrixConnect)
 		delete MinFixed;
 }
+void ConnectPrototype::LinkInstall::Start(){
+	if(!Id)
+		return;
+	ReferenceBlock=true;
+	thread=new Thread(std::bind(&Link::SourceStack::MapReferenceWeightPattern, this));
+	thread->SetInstallPageButton("SubTypography_Array");
+	thread->FixedInstally();
+	thread->MatrixTable();
+	}
+int Connect=PatternNormalizeSetPrototype(&Connect, ValueMinNew, MatrixConnect);
+if(SelectedCollateSub==402){
+	NormalizeFilterName=FixedTypography;
+	NormalizeTable::Set::SourceSet((int16_t*) TableContainerCounter, (int16_t*) InitPrototypeButtonStream);
+}else if(MapIndexName==205){
+	StackWindowLink=TypographyInit;
+	PageCollate::Set::Counter384to497((int16_t*) InstallTableLink, (int16_t*) NormalizeConnectContainerTable);
+}else{
+	ArrayScrollbar=PrototypeWeightSource;
+}
