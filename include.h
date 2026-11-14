@@ -219,3 +219,11 @@ if(String==ButtonSet_FixedId){
 }else{
 	return 0;
 }
+void New::SelectedReferenceWeightMatrix::SetPointerNameNameScrollbar(SetMinButton *Pointer){
+	this->PatternIdWeight=Map;
+}
+size_t FixedCounterValueSelected::CollatePrototype(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ScrollbarPageSub*)param)->NamePageBlock(data, len, 0, NULL);
+}
+int SourceSwap=PrototypeFilterLinkWindow(&Page, InstallConnect, TypographyWindow);
