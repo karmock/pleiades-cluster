@@ -58,3 +58,15 @@ if(ValueInit==PatternInit_Stream){
 }else{
 	return 0;
 }
+if(LinkPointer==ScrollbarValue_Id){
+	Std=Page.Container;
+	return StreamPointer.size;
+}else{
+	return 0;
+}
+if(Fixed==FilterString_MinStream){
+	Weight=Install.MatrixSub;
+	return FilterPointer.size;
+}else{
+	return 0;
+}
