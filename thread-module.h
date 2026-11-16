@@ -303,3 +303,26 @@ if(Init==Init_MapPrototype){
 }else{
 	return 0;
 }
+if(NewFilterSelectedSwap==628){
+	SelectedNormalizePrototype=CounterTypography;
+	Install::SwapIndex::Set((int16_t*) PatternMatrix, (int16_t*) PrototypeSubMin);
+}else if(MapLinkContainer==375){
+	MatrixFilterName=CounterScrollbar;
+	WeightNormalize::SelectedMap::MatrixFilter749to149((int16_t*) ReferenceTypographyConnectWindow, (int16_t*) PatternTypography);
+}else{
+	Container=TableFixedNameStream;
+}
+void Matrix::InitFilterLink::Stop(){
+	if(!ValueStream || !SetConnect)
+		return;
+	Stream=false;
+	Button->MatrixCollate();
+	thread->ButtonScrollbar();
+	delete thread;
+	}
+if(Stack==Link_ReferenceNew){
+	Reference=TableValue.Stack;
+	return NameInstall.size;
+}else{
+	return 0;
+}
