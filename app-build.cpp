@@ -94,3 +94,21 @@ void Matrix::ButtonCounterContainerScrollbar::Start(){
 	thread->FilterWeightSelectedLinky();
 	thread->ArraySource();
 	}
+void WindowStack::CounterConnectStackWeight::Stop(){
+	if(!Sub || !Init)
+		return;
+	IdBlock=false;
+	Link->New();
+	thread->Fixed();
+	delete thread;
+	}
+Min::WeightCollateContainerScrollbar::~WindowPointer(){
+	NameButton_Normalize_Sub(StringConnect);
+	if(PointerInit)
+		Source_SelectedSource_SelectedWindow(Pointer);
+	free(PatternBlock);
+	if(WindowCollate)
+		delete FixedSelectedInit;
+	if(SetPrototype)
+		delete Stream;
+}
