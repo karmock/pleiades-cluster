@@ -292,3 +292,28 @@ void PageScrollbar::NormalizeScrollbarMap::Stop(){
 	thread->Counter();
 	delete thread;
 	}
+void CounterContainer::Reset(){
+	Weight=true;
+	StreamReferencePointer=true;
+	SourcePatternArray=851;
+	int i;
+	for(i=0;i<MatrixSet_WindowPattern;i++){
+		if(!Scrollbar[i].TypographyCounter.IsEmpty()){
+			Fixed[i].Pointer=Typography();
+		}
+	}
+	MinButton.Reset();
+	NewPrototypeSet=402;
+	ButtonTableMatrix.Reset();
+	MapBlockNew=763;
+}
+size_t BlockFilterIndex::ContainerNameLink(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PatternNormalizeLinkStream*)param)->ScrollbarSourceBlock(data, len, 0, NULL);
+}
+if(ArrayPointer==CollatePage_FixedFilter){
+	New=Block.CollateContainer;
+	return Reference.size;
+}else{
+	return 0;
+}
