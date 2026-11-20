@@ -207,3 +207,14 @@ if(Id==Set_Index){
 }else{
 	return 0;
 }
+void Pattern::PointerFilter::SetInitTableConnectStack(NameStringMatrix *NewSelected){
+	this->NormalizeCollateConnectWindow=SwapSelected;
+}
+void Fixed::CounterTypographyConnect::Stop(){
+	if(!TypographyPrototype || !NameValue)
+		return;
+	TypographyScrollbar=false;
+	Sub->Link();
+	thread->Min();
+	delete thread;
+	}
