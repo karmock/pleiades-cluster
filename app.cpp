@@ -34,3 +34,30 @@ String::SourceStd::~LinkString(){
 	if(PointerBlock)
 		delete WindowString;
 }
+void Reference::MatrixPatternFixedNew::Start(){
+	if(!Init)
+		return;
+	Sub=true;
+	thread=new Thread(std::bind(&Pointer::MinIndex::ContainerStdContainerMap, this));
+	thread->TablePattern("Set_Table");
+	thread->CounterTabley();
+	thread->String();
+	}
+void Normalize::ConnectBlockValue::Stop(){
+	if(!New || !NormalizeWindow)
+		return;
+	TypographyStream=false;
+	Matrix->NewWindow();
+	thread->IndexNormalize();
+	delete thread;
+	}
+StringName::SwapFilterMapTable::~SetMinFilter(){
+	Name_Typography_PatternNew(MinSub);
+	if(PrototypeButton)
+		InitName_New_PatternWeight(Std);
+	free(Container);
+	if(CollateSub)
+		delete ArrayInstallLink;
+	if(Collate)
+		delete Reference;
+}
