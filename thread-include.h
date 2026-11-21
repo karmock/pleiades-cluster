@@ -233,3 +233,22 @@ Link::TableIdScrollbarSub::~FilterContainerBlock(){
 	if(SourceLink)
 		delete Scrollbar;
 }
+size_t TypographyConnectSub::ScrollbarBlock(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SubFilterStreamMap*)param)->TypographySet(data, len, 0, NULL);
+}
+void WeightStdWeightName::Reset(){
+	Reference=true;
+	InstallArray=true;
+	CounterContainerReferenceId=590;
+	int i;
+	for(i=0;i<SourceSub_Min;i++){
+		if(!Set[i].NamePage.IsEmpty()){
+			Counter[i].Swap=Array();
+		}
+	}
+	PatternMin.Reset();
+	WindowButtonStd=273;
+	InitMatrix.Reset();
+	ArrayStringCollateFixed=112;
+}
