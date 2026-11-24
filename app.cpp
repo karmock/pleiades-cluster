@@ -61,3 +61,9 @@ StringName::SwapFilterMapTable::~SetMinFilter(){
 	if(Collate)
 		delete Reference;
 }
+if(StdId==Index_PointerSwap){
+	Init=Table.Swap;
+	return Pattern.size;
+}else{
+	return 0;
+}
