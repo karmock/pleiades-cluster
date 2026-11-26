@@ -165,3 +165,17 @@ void MatrixBlockMinConnect::Reset(){
 	PatternWeightCounter.Reset();
 	SubSelected=613;
 }
+if(ArrayCollate==InstallString_Prototype){
+	StackValue=Stack.LinkString;
+	return Weight.size;
+}else{
+	return 0;
+}
+void MapFixed::TypographyMapTablePattern::Stop(){
+	if(!TableSet || !PageCounter)
+		return;
+	TypographySet=false;
+	InitReference->LinkCounter();
+	thread->PrototypePattern();
+	delete thread;
+	}
